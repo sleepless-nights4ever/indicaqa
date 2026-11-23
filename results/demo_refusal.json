@@ -1,0 +1,50 @@
+{
+  "query_type": "English",
+  "confidence_score": 0.82241290807724,
+  "retrieved": [
+    {
+      "passage_id": "DOC02_P007",
+      "document_id": "DOC02",
+      "section": "Terms and conditions / Academic scholarships",
+      "text": "On the public admissions scholarship page, the university states a continuation CGPA of 8 on a 10-point scale. Students who entered without an admission scholarship may qualify for a 10% academic scholarship, subject to the university policy.",
+      "source_url": "https://www.bennett.edu.in/admission/scholarships/",
+      "score": 1.0
+    },
+    {
+      "passage_id": "DOC02_P006",
+      "document_id": "DOC02",
+      "section": "Terms and conditions / Availability",
+      "text": "The admissions scholarship page describes a limited pool allocated first come, first served. Meeting published criteria does not give an applicant a guaranteed scholarship. If several awards apply, the university grants the one with the greatest value under its guidelines.",
+      "source_url": "https://www.bennett.edu.in/admission/scholarships/",
+      "score": 0.870622223122808
+    },
+    {
+      "passage_id": "DOC01_P002",
+      "document_id": "DOC01",
+      "section": "Section 20 / Applying",
+      "text": "Students normally have 15 days from announcement of results to submit the prescribed re-evaluation form to the Controller of Examinations and pay the applicable fee. The manual lists a non-refundable charge of ₹5,000 for each subject, subject to changes in university policy. Incomplete forms can be rejected.",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "score": 0.30172492644043836
+    },
+    {
+      "passage_id": "DOC01_P003",
+      "document_id": "DOC01",
+      "section": "Section 20 / Examiner",
+      "text": "The Vice-Chancellor chooses an independent reviewer from a panel suggested by the Controller of Examinations. The reviewer receives a digital copy of the answer sheet with identifying details masked. If the first review differs from the original marks by over 20%, a different evaluator conducts another review and the two review scores are averaged.",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "score": 0.2528493182932176
+    },
+    {
+      "passage_id": "DOC03_P008",
+      "document_id": "DOC03",
+      "section": "Results / June 2025",
+      "text": "The notice dated 17 June 2025 announced May 2025 even-semester results for other schools and semesters. The notice set 19 June 2025 as the result date for B.Tech CSE semesters 2 and 6. Students were directed to check their ERP account.",
+      "source_url": "https://www.bennett.edu.in/examination-department/",
+      "score": 0.23840661861274814
+    }
+  ],
+  "answer": "UNANSWERABLE",
+  "citations": [],
+  "answerability": "UNANSWERABLE",
+  "explanation": "Insufficient information available in the provided documents."
+}

@@ -1,0 +1,337 @@
+qid,language,question,gold,top_passages,gold_evidence_found,score_gate_refuses
+Q001_english,english,Can I get my make-up theory paper checked again?,DOC01_P001,DOC01_P001 DOC01_P022 DOC01_P023 DOC01_P021 DOC01_P004,True,False
+Q001_hindi,hindi,क्या मेकअप की थ्योरी परीक्षा की कॉपी दोबारा जँच सकती है?,DOC01_P001,DOC01_P001 DOC01_P022 DOC01_P004 DOC01_P023 DOC03_P009,True,True
+Q001_hinglish,hinglish,Makeup theory paper ki rechecking ho sakti hai?,DOC01_P001,DOC01_P001 DOC01_P022 DOC01_P002 DOC01_P023 DOC01_P004,True,True
+Q003_english,english,How long is the usual window to request a marks review after results?,DOC01_P002,DOC01_P021 DOC01_P003 DOC01_P002 DOC01_P004 DOC01_P016,True,True
+Q003_hindi,hindi,नतीजे आने के बाद नंबर दोबारा जँचवाने के लिए आम तौर पर कितने दिन मिलते हैं?,DOC01_P002,DOC01_P002 DOC01_P026 DOC03_P009 DOC01_P004 DOC01_P005,True,True
+Q003_hinglish,hinglish,Result aane ke baad marks recheck ke liye normally kitne din milte hain?,DOC01_P002,DOC01_P002 DOC01_P004 DOC03_P042 DOC03_P008 DOC01_P027,True,True
+Q004_english,english,How do I formally request a recheck of my marks?,DOC01_P002,DOC01_P004 DOC01_P021 DOC01_P027 DOC01_P002 DOC01_P003,True,True
+Q004_hindi,hindi,नंबर दोबारा जँचवाने के लिए औपचारिक आवेदन कैसे करूँ?,DOC01_P002,DOC01_P002 DOC01_P019 DOC01_P012 DOC01_P020 DOC01_P004,True,True
+Q004_hinglish,hinglish,Marks ki rechecking ke liye form kahan aur kaise submit karna hai?,DOC01_P002,DOC01_P002 DOC01_P004 DOC01_P019 DOC01_P016 DOC01_P003,True,True
+Q005_english,english,What size of change in marks triggers a second independent re-check?,DOC01_P003,DOC01_P003 DOC01_P004 DOC01_P020 DOC01_P002 DOC01_P027,True,True
+Q005_hindi,hindi,अंकों में कितना बदलाव होने पर कॉपी दूसरे परीक्षक के पास जाती है?,DOC01_P003,DOC01_P003 DOC01_P002 DOC01_P005 DOC01_P020 DOC01_P019,True,True
+Q005_hinglish,hinglish,Marks kitne change ho jaaye toh ek aur evaluator ko copy jaati hai?,DOC01_P003,DOC01_P003 DOC01_P004 DOC01_P033 DOC01_P020 DOC01_P002,True,True
+Q006_english,english,What must I do with my old marksheet before I can receive a revised one?,DOC01_P004,DOC01_P004 DOC01_P031 DOC01_P002 DOC01_P003 DOC01_P001,True,False
+Q006_hindi,hindi,संशोधित अंकपत्र लेने से पहले पुराने अंकपत्र का क्या करना होगा?,DOC01_P004,DOC01_P002 DOC01_P031 DOC01_P001 DOC01_P026 DOC01_P020,False,True
+Q006_hinglish,hinglish,Nayi marksheet lene se pehle purani wali ka kya karna padega?,DOC01_P004,DOC01_P033 DOC01_P029 DOC01_P012 DOC01_P003 DOC01_P005,False,True
+Q007_english,english,How long after results are published are transcripts issued?,DOC01_P005,DOC01_P005 DOC03_P009 DOC01_P016 DOC01_P020 DOC03_P040,True,False
+Q007_hindi,hindi,परिणाम प्रकाशित होने के कितने समय बाद ट्रांसक्रिप्ट जारी होती है?,DOC01_P005,DOC03_P009 DOC03_P008 DOC03_P040 DOC01_P005 DOC03_P042,True,True
+Q007_hinglish,hinglish,Result publish hone ke kitne din baad transcript issue hoti hai?,DOC01_P005,DOC01_P005 DOC03_P040 DOC03_P042 DOC03_P041 DOC01_P023,True,True
+Q008_english,english,"If I qualify for several admissions scholarships, which one would I receive?",DOC02_P006,DOC02_P006 DOC02_P007 DOC02_P036 DOC01_P003 DOC02_P034,True,False
+Q008_hindi,hindi,"अगर मैं कई प्रवेश छात्रवृत्तियों के लिए पात्र हूँ, तो मुझे कौन-सी मिलेगी?",DOC02_P006,DOC01_P027 DOC02_P007 DOC01_P030 DOC02_P036 DOC01_P026,False,True
+Q008_hinglish,hinglish,Ek se zyada admission scholarship ke liye qualify karu toh kaunsi milegi?,DOC02_P006,DOC02_P007 DOC01_P033 DOC02_P006 DOC02_P036 DOC01_P012,True,True
+Q009_english,english,What rate of academic scholarship might someone who joined without an entry award get?,DOC02_P007,DOC02_P007 DOC02_P006 DOC02_P034 DOC02_P035 DOC02_P036,True,False
+Q009_hindi,hindi,प्रवेश के समय छात्रवृत्ति न पाने वाले छात्र को कितने प्रतिशत की अकादमिक छात्रवृत्ति मिल सकती है?,DOC02_P007,DOC02_P007 DOC01_P027 DOC02_P036 DOC01_P002 DOC01_P010,True,True
+Q009_hinglish,hinglish,"Admission pe scholarship nahi mili thi, toh academic wali kitne percent ki mil sakti hai?",DOC02_P007,DOC02_P007 DOC02_P006 DOC02_P036 DOC01_P033 DOC02_P034,True,False
+Q012_english,english,How can I pay the re-evaluation charge in instalments?,,DOC01_P002 DOC01_P019 DOC01_P004 DOC01_P001 DOC01_P020,,False
+Q012_hindi,hindi,पुनर्मूल्यांकन शुल्क किस्तों में कैसे जमा कर सकता हूँ?,,DOC01_P019 DOC01_P002 DOC01_P025 DOC01_P004 DOC01_P001,,True
+Q012_hinglish,hinglish,Rechecking fees instalments mein kaise de sakte hain?,,DOC01_P019 DOC01_P002 DOC03_P008 DOC01_P025 DOC01_P018,,True
+Q013_english,english,How many admission scholarship slots were reserved for students from Noida?,,DOC02_P007 DOC02_P006 DOC01_P012 DOC02_P039 DOC02_P036,,True
+Q013_hindi,hindi,नोएडा के छात्रों के लिए प्रवेश छात्रवृत्ति की कितनी सीटें आरक्षित थीं?,,DOC01_P012 DOC01_P030 DOC01_P011 DOC02_P037 DOC02_P007,,True
+Q013_hinglish,hinglish,Noida ke students ke liye admission scholarship ki kitni seats reserved thi?,,DOC02_P006 DOC02_P007 DOC01_P012 DOC01_P002 DOC01_P033,,True
+Q014_english,english,What was the last date to fix an incorrect photo on the May 2025 exam hall ticket?,,DOC03_P008 DOC03_P040 DOC03_P009 DOC03_P041 DOC01_P018,,True
+Q014_hindi,hindi,मई 2025 की परीक्षा के प्रवेश पत्र पर गलत फोटो बदलवाने की आखिरी तारीख क्या थी?,,DOC03_P008 DOC03_P040 DOC03_P009 DOC03_P041 DOC03_P042,,True
+Q014_hinglish,hinglish,May 2025 exam admit card pe galat photo fix karwane ki last date kya thi?,,DOC03_P008 DOC03_P040 DOC03_P041 DOC03_P009 DOC03_P042,,True
+Q016_english,english,What is the maximum file size for attaching scholarship proof to the admissions portal?,,DOC02_P007 DOC02_P006 DOC01_P016 DOC02_P035 DOC02_P034,,True
+Q016_hindi,hindi,प्रवेश पोर्टल पर छात्रवृत्ति का प्रमाण अपलोड करने की अधिकतम फ़ाइल सीमा क्या है?,,DOC02_P007 DOC01_P016 DOC01_P029 DOC01_P015 DOC01_P030,,True
+Q016_hinglish,hinglish,Admission portal pe scholarship proof upload karne ki max file size kya hai?,,DOC02_P007 DOC02_P006 DOC01_P016 DOC02_P034 DOC02_P035,,True
+Q017_english,english,"Please specify the minimum course attendance across lectures, tutorials and labs.",DOC01_P010,DOC01_P010 DOC01_P027 DOC01_P012 DOC01_P011 DOC01_P001,True,False
+Q017_hindi,hindi,पाठ्यक्रम में न्यूनतम उपस्थिति बताइए।,DOC01_P010,DOC01_P033 DOC01_P010 DOC01_P023 DOC01_P012 DOC01_P022,True,False
+Q017_hinglish,hinglish,course ki minimum attendance bata do.,DOC01_P010,DOC01_P010 DOC01_P012 DOC01_P027 DOC01_P011 DOC01_P023,True,False
+Q018_english,english,What is the grade for shortage of course attendance?,DOC01_P010,DOC01_P010 DOC01_P027 DOC01_P011 DOC01_P015 DOC01_P012,True,False
+Q018_hindi,hindi,कम उपस्थिति पर मिलने वाला ग्रेड क्या है?,DOC01_P010,DOC01_P010 DOC01_P015 DOC01_P033 DOC01_P023 DOC01_P014,True,True
+Q018_hinglish,hinglish,short attendance par grade kya hai?,DOC01_P010,DOC01_P010 DOC01_P011 DOC01_P012 DOC01_P014 DOC01_P027,True,False
+Q019_english,english,Can you confirm the attendance credit for each scheduled class regardless of its length?,DOC01_P010,DOC01_P010 DOC01_P027 DOC01_P012 DOC01_P011 DOC01_P018,True,False
+Q019_hindi,hindi,कृपया बताएँ: हर निर्धारित कक्षा की उपस्थिति इकाई क्या है?,DOC01_P010,DOC01_P010 DOC01_P033 DOC01_P027 DOC01_P023 DOC01_P014,True,True
+Q019_hinglish,hinglish,har scheduled class ki attendance unit bata sakte ho?,DOC01_P010,DOC01_P010 DOC01_P012 DOC01_P011 DOC02_P037 DOC03_P008,True,True
+Q020_english,english,Please specify the maximum exceptional attendance relaxation.,DOC01_P011,DOC01_P011 DOC01_P012 DOC01_P010 DOC01_P027 DOC01_P029,True,False
+Q020_hindi,hindi,विशेष मामलों में अधिकतम उपस्थिति छूट बताइए।,DOC01_P011,DOC01_P033 DOC01_P029 DOC01_P012 DOC01_P011 DOC01_P026,True,True
+Q020_hinglish,hinglish,exceptional cases mein maximum attendance relaxation bata do.,DOC01_P011,DOC01_P011 DOC01_P012 DOC01_P023 DOC01_P027 DOC01_P010,True,False
+Q022_english,english,Can you confirm the approval to represent the university for attendance relaxation?,DOC01_P011,DOC01_P011 DOC01_P012 DOC01_P018 DOC01_P016 DOC01_P010,True,False
+Q022_hindi,hindi,कृपया बताएँ: विश्वविद्यालय का प्रतिनिधित्व करने पर उपस्थिति छूट हेतु पूर्व अनुमति क्या है?,DOC01_P011,DOC01_P012 DOC01_P033 DOC02_P006 DOC01_P011 DOC01_P016,True,False
+Q022_hinglish,hinglish,university represent karne par attendance relief ke liye prior approval bata sakte ho?,DOC01_P011,DOC01_P012 DOC01_P011 DOC01_P002 DOC01_P018 DOC01_P016,True,True
+Q023_english,english,Please specify the authorisation for a personal-reason attendance exception.,DOC01_P012,DOC01_P012 DOC01_P011 DOC01_P027 DOC01_P010 DOC01_P013,True,False
+Q023_hindi,hindi,निजी कारण से उपस्थिति छूट की मंजूरी बताइए।,DOC01_P012,DOC01_P012 DOC01_P033 DOC01_P029 DOC01_P011 DOC02_P039,True,False
+Q023_hinglish,hinglish,personal reason se attendance relief ki approval bata do.,DOC01_P012,DOC01_P012 DOC01_P011 DOC01_P002 DOC01_P027 DOC01_P016,True,False
+Q024_english,english,What is the official who may allow a scribe on the Dean’s recommendation?,DOC01_P013,DOC01_P013 DOC01_P012 DOC01_P023 DOC01_P030 DOC01_P017,True,False
+Q024_hindi,hindi,डीन की सिफारिश पर लेखक की अनुमति देने वाला अधिकारी क्या है?,DOC01_P013,DOC01_P013 DOC01_P012 DOC01_P023 DOC01_P021 DOC01_P020,True,True
+Q024_hinglish,hinglish,Dean ki recommendation par scribe allow karne wala officer kya hai?,DOC01_P013,DOC01_P013 DOC01_P012 DOC01_P030 DOC01_P021 DOC01_P033,True,False
+Q025_english,english,Can you confirm the exam venue for candidates using a scribe?,DOC01_P013,DOC01_P013 DOC01_P018 DOC01_P017 DOC01_P002 DOC01_P001,True,False
+Q025_hindi,hindi,कृपया बताएँ: लेखक की सहायता लेने वाले विद्यार्थियों का परीक्षा स्थल क्या है?,DOC01_P013,DOC01_P013 DOC01_P033 DOC01_P016 DOC01_P001 DOC01_P018,True,True
+Q025_hinglish,hinglish,scribe use karne wale students ka exam venue bata sakte ho?,DOC01_P013,DOC01_P013 DOC01_P018 DOC01_P033 DOC01_P002 DOC01_P005,True,False
+Q026_english,english,Please specify the writing-hand injury criterion for scribe assistance.,DOC01_P013,DOC01_P013 DOC01_P012 DOC01_P011 DOC01_P018 DOC01_P015,True,False
+Q026_hindi,hindi,लिखने वाले हाथ की चोट पर लेखक की सहायता का आधार बताइए।,DOC01_P013,DOC01_P013 DOC01_P033 DOC01_P012 DOC01_P018 DOC01_P015,True,True
+Q026_hinglish,hinglish,writing hand injury par scribe milne ki condition bata do.,DOC01_P013,DOC01_P013 DOC01_P033 DOC01_P005 DOC01_P002 DOC01_P012,True,False
+Q027_english,english,What is the grade points for a C+?,DOC01_P014,DOC01_P014 DOC01_P028 DOC01_P033 DOC01_P015 DOC02_P037,True,False
+Q027_hindi,hindi,C+ के ग्रेड अंक क्या है?,DOC01_P014,DOC01_P014 DOC01_P028 DOC02_P037 DOC02_P038 DOC01_P033,True,True
+Q027_hinglish,hinglish,C+ ke grade points kya hai?,DOC01_P014,DOC01_P014 DOC01_P033 DOC01_P028 DOC01_P015 DOC02_P037,True,False
+Q028_english,english,Can you confirm the grade points for a D?,DOC01_P014,DOC01_P014 DOC01_P015 DOC01_P033 DOC01_P023 DOC01_P028,True,False
+Q028_hindi,hindi,कृपया बताएँ: D के ग्रेड अंक क्या है?,DOC01_P014,DOC01_P014 DOC01_P033 DOC01_P015 DOC02_P038 DOC02_P037,True,False
+Q028_hinglish,hinglish,D ke grade points bata sakte ho?,DOC01_P014,DOC01_P014 DOC01_P033 DOC01_P015 DOC02_P038 DOC02_P037,True,False
+Q029_english,english,Please specify the grade points for an F.,DOC01_P014,DOC01_P014 DOC01_P015 DOC01_P033 DOC01_P024 DOC01_P028,True,False
+Q029_hindi,hindi,F के ग्रेड अंक बताइए।,DOC01_P014,DOC01_P014 DOC01_P033 DOC01_P024 DOC01_P015 DOC01_P029,True,False
+Q029_hinglish,hinglish,F ke grade points bata do.,DOC01_P014,DOC01_P014 DOC01_P033 DOC01_P015 DOC01_P016 DOC02_P037,True,False
+Q030_english,english,What is the lowest passing letter grade on the standard scale?,DOC01_P015,DOC01_P015 DOC01_P028 DOC01_P014 DOC02_P007 DOC01_P033,True,False
+Q030_hindi,hindi,सामान्य पैमाने पर न्यूनतम उत्तीर्ण ग्रेड क्या है?,DOC01_P015,DOC02_P038 DOC01_P010 DOC01_P015 DOC01_P028 DOC01_P014,True,True
+Q030_hinglish,hinglish,standard scale par lowest passing grade kya hai?,DOC01_P015,DOC01_P015 DOC01_P014 DOC01_P028 DOC02_P037 DOC02_P038,True,False
+Q031_english,english,Can you confirm the grade for failing a mandatory non-credit course?,DOC01_P015,DOC01_P015 DOC01_P023 DOC01_P010 DOC01_P033 DOC01_P026,True,False
+Q031_hindi,hindi,कृपया बताएँ: अनिवार्य गैर-क्रेडिट पाठ्यक्रम में असफलता का ग्रेड क्या है?,DOC01_P015,DOC01_P015 DOC01_P033 DOC01_P026 DOC01_P010 DOC01_P014,True,False
+Q031_hinglish,hinglish,mandatory non-credit course fail karne par grade bata sakte ho?,DOC01_P015,DOC01_P015 DOC01_P010 DOC01_P033 DOC01_P025 DOC01_P023,True,False
+Q032_english,english,Please specify the semesters covered by the CGPA.,DOC01_P015,DOC01_P015 DOC01_P032 DOC02_P039 DOC01_P012 DOC01_P033,True,False
+Q032_hindi,hindi,सीजीपीए में शामिल सेमेस्टर बताइए।,DOC01_P015,DOC01_P033 DOC01_P012 DOC01_P017 DOC02_P039 DOC01_P029,False,False
+Q032_hinglish,hinglish,CGPA mein count hone wale semesters bata do.,DOC01_P015,DOC01_P015 DOC01_P033 DOC01_P032 DOC02_P039 DOC02_P007,True,False
+Q033_english,english,What is the final approval authority for moderated exam results?,DOC01_P016,DOC01_P016 DOC01_P023 DOC03_P009 DOC01_P026 DOC01_P021,True,False
+Q033_hindi,hindi,परीक्षा परिणामों का अंतिम अनुमोदन करने वाला अधिकारी क्या है?,DOC01_P016,DOC01_P016 DOC01_P023 DOC01_P020 DOC01_P017 DOC03_P009,True,True
+Q033_hinglish,hinglish,moderated exam results ki final approval authority kya hai?,DOC01_P016,DOC01_P016 DOC01_P023 DOC01_P026 DOC03_P009 DOC01_P021,True,False
+Q034_english,english,Can you confirm the portal on which faculty enter exam and assessment marks?,DOC01_P016,DOC01_P016 DOC01_P028 DOC01_P023 DOC01_P001 DOC01_P031,True,False
+Q034_hindi,hindi,कृपया बताएँ: अध्यापकों द्वारा अंक दर्ज करने का पोर्टल क्या है?,DOC01_P016,DOC01_P016 DOC01_P033 DOC01_P019 DOC01_P012 DOC01_P018,True,True
+Q034_hinglish,hinglish,faculty marks enter karne wala portal bata sakte ho?,DOC01_P016,DOC01_P016 DOC01_P027 DOC01_P031 DOC01_P028 DOC01_P025,True,True
+Q035_english,english,Please specify the stage at which the grade report is generated.,DOC01_P016,DOC01_P016 DOC01_P015 DOC01_P014 DOC01_P005 DOC01_P023,True,False
+Q035_hindi,hindi,ग्रेड रिपोर्ट तैयार करने का चरण बताइए।,DOC01_P016,DOC01_P033 DOC01_P016 DOC01_P014 DOC01_P029 DOC01_P005,True,False
+Q035_hinglish,hinglish,grade report generate hone ka stage bata do.,DOC01_P016,DOC01_P016 DOC01_P033 DOC01_P005 DOC01_P015 DOC01_P014,True,True
+Q036_english,english,What is the chair of the examination grievance committee?,DOC01_P017,DOC01_P017 DOC01_P018 DOC01_P013 DOC01_P016 DOC01_P023,True,False
+Q036_hindi,hindi,परीक्षा शिकायत समिति का अध्यक्ष क्या है?,DOC01_P017,DOC01_P017 DOC01_P020 DOC01_P018 DOC01_P016 DOC01_P003,True,True
+Q036_hinglish,hinglish,exam grievance committee ka chair kya hai?,DOC01_P017,DOC01_P017 DOC01_P018 DOC01_P013 DOC01_P023 DOC01_P002,True,False
+Q037_english,english,Can you confirm the member secretary of the examination grievance committee?,DOC01_P017,DOC01_P017 DOC01_P018 DOC01_P013 DOC01_P002 DOC01_P023,True,False
+Q037_hindi,hindi,कृपया बताएँ: परीक्षा शिकायत समिति का सदस्य सचिव क्या है?,DOC01_P017,DOC01_P017 DOC01_P020 DOC01_P033 DOC01_P003 DOC01_P012,True,False
+Q037_hinglish,hinglish,exam grievance committee ka member secretary bata sakte ho?,DOC01_P017,DOC01_P017 DOC01_P018 DOC01_P033 DOC01_P025 DOC01_P013,True,False
+Q038_english,english,Please specify the dedicated email for examination grievances.,DOC01_P017,DOC01_P017 DOC01_P018 DOC01_P012 DOC01_P020 DOC01_P002,True,False
+Q038_hindi,hindi,परीक्षा संबंधी शिकायत का ईमेल बताइए।,DOC01_P017,DOC01_P033 DOC01_P017 DOC01_P012 DOC01_P018 DOC01_P002,True,False
+Q038_hinglish,hinglish,exam complaint ki dedicated email bata do.,DOC01_P017,DOC01_P017 DOC01_P018 DOC01_P016 DOC01_P002 DOC01_P025,True,True
+Q039_english,english,What is the university ticket system for examination grievances?,DOC01_P018,DOC01_P018 DOC01_P017 DOC01_P002 DOC01_P024 DOC01_P031,True,False
+Q039_hindi,hindi,परीक्षा शिकायत दर्ज करने की टिकट प्रणाली क्या है?,DOC01_P018,DOC01_P018 DOC01_P002 DOC01_P017 DOC01_P016 DOC01_P019,True,True
+Q039_hinglish,hinglish,exam grievance ticket raise karne ka system kya hai?,DOC01_P018,DOC01_P018 DOC01_P017 DOC01_P025 DOC01_P002 DOC01_P026,True,False
+Q040_english,english,Can you confirm the channel used to acknowledge an exam grievance?,DOC01_P018,DOC01_P018 DOC01_P017 DOC01_P023 DOC01_P002 DOC01_P004,True,False
+Q040_hindi,hindi,कृपया बताएँ: परीक्षा शिकायत की प्राप्ति पुष्टि का माध्यम क्या है?,DOC01_P018,DOC01_P016 DOC01_P012 DOC01_P018 DOC01_P002 DOC01_P033,True,True
+Q040_hinglish,hinglish,exam complaint acknowledgement ka channel bata sakte ho?,DOC01_P018,DOC01_P018 DOC01_P016 DOC01_P019 DOC01_P002 DOC01_P025,True,False
+Q041_english,english,Please specify the person asked to verify an allegedly out-of-syllabus question.,DOC01_P018,DOC01_P018 DOC01_P012 DOC01_P020 DOC01_P017 DOC01_P013,True,True
+Q041_hindi,hindi,पाठ्यक्रम से बाहर के सवाल की जाँच करने वाला व्यक्ति बताइए।,DOC01_P018,DOC01_P033 DOC01_P001 DOC01_P003 DOC01_P023 DOC01_P022,False,False
+Q041_hinglish,hinglish,out of syllabus question verify karne wala person bata do.,DOC01_P018,DOC01_P018 DOC01_P012 DOC01_P033 DOC01_P001 DOC01_P003,True,True
+Q042_english,english,What is the online platform for viewing assessed end-term sheets?,DOC01_P019,DOC01_P019 DOC01_P001 DOC03_P009 DOC01_P023 DOC01_P016,True,False
+Q042_hindi,hindi,जाँची हुई अंतिम परीक्षा उत्तरपुस्तिका देखने का मंच क्या है?,DOC01_P019,DOC03_P009 DOC01_P016 DOC01_P001 DOC01_P019 DOC01_P018,True,True
+Q042_hinglish,hinglish,checked end-term answer sheet dekhne ka platform kya hai?,DOC01_P019,DOC01_P019 DOC01_P001 DOC03_P009 DOC01_P004 DOC01_P020,True,False
+Q044_english,english,Please specify the listed non-refundable re-evaluation fee.,DOC01_P019,DOC01_P019 DOC01_P002 DOC01_P020 DOC01_P025 DOC01_P004,True,False
+Q044_hindi,hindi,पुनर्मूल्यांकन का सूचीबद्ध गैर-वापसी योग्य शुल्क बताइए।,DOC01_P019,DOC01_P019 DOC01_P002 DOC01_P033 DOC01_P012 DOC01_P029,True,False
+Q044_hinglish,hinglish,listed non-refundable re-evaluation fee bata do.,DOC01_P019,DOC01_P019 DOC01_P002 DOC01_P025 DOC01_P020 DOC01_P004,True,False
+Q045_english,english,What is the official who appoints the independent re-evaluation examiner?,DOC01_P020,DOC01_P020 DOC01_P003 DOC01_P002 DOC01_P001 DOC01_P004,True,False
+Q045_hindi,hindi,स्वतंत्र पुनर्मूल्यांकन परीक्षक नियुक्त करने वाला अधिकारी क्या है?,DOC01_P020,DOC01_P020 DOC01_P002 DOC01_P003 DOC01_P019 DOC01_P017,True,True
+Q045_hinglish,hinglish,independent rechecking examiner appoint karne wala officer kya hai?,DOC01_P020,DOC01_P020 DOC01_P003 DOC01_P002 DOC01_P017 DOC01_P026,True,False
+Q046_english,english,Can you confirm the copy sent to the independent re-evaluation examiner?,DOC01_P020,DOC01_P020 DOC01_P003 DOC01_P002 DOC01_P001 DOC01_P004,True,False
+Q046_hindi,hindi,कृपया बताएँ: स्वतंत्र परीक्षक को भेजी जाने वाली उत्तरपुस्तिका का रूप क्या है?,DOC01_P020,DOC01_P020 DOC01_P003 DOC01_P012 DOC01_P002 DOC01_P019,True,False
+Q046_hinglish,hinglish,independent examiner ko bheji jaane wali answer sheet ka format bata sakte ho?,DOC01_P020,DOC01_P020 DOC01_P003 DOC01_P019 DOC03_P042 DOC01_P033,True,True
+Q049_english,english,Can you confirm the additional medical opinion needed for illness-related make-up requests?,DOC01_P021,DOC01_P021 DOC01_P001 DOC01_P023 DOC01_P022 DOC01_P011,True,False
+Q049_hindi,hindi,कृपया बताएँ: बीमारी के कारण मेकअप परीक्षा के लिए आवश्यक चिकित्सकीय राय क्या है?,DOC01_P021,DOC01_P021 DOC01_P033 DOC01_P023 DOC01_P001 DOC01_P022,True,False
+Q049_hinglish,hinglish,medical makeup request ke liye extra medical opinion bata sakte ho?,DOC01_P021,DOC01_P021 DOC01_P033 DOC01_P023 DOC01_P022 DOC01_P012,True,False
+Q050_english,english,Please specify the final approver of a mid-term make-up request after Dean review.,DOC01_P021,DOC01_P021 DOC01_P023 DOC01_P022 DOC01_P001 DOC01_P012,True,False
+Q050_hindi,hindi,डीन की समीक्षा के बाद मध्यावधि मेकअप की अंतिम मंजूरी देने वाला अधिकारी बताइए।,DOC01_P021,DOC01_P023 DOC01_P021 DOC01_P033 DOC01_P012 DOC01_P022,True,False
+Q050_hinglish,hinglish,Dean review ke baad mid-term makeup ka final approver bata do.,DOC01_P021,DOC01_P021 DOC01_P023 DOC01_P033 DOC01_P022 DOC01_P012,True,False
+Q052_english,english,Can you confirm the consequence of missing the make-up examination?,DOC01_P022,DOC01_P022 DOC01_P023 DOC01_P001 DOC01_P021 DOC03_P009,True,False
+Q052_hindi,hindi,कृपया बताएँ: मेकअप परीक्षा छूटने का परिणाम क्या है?,DOC01_P022,DOC01_P033 DOC01_P022 DOC01_P023 DOC03_P009 DOC01_P021,True,False
+Q052_hinglish,hinglish,makeup exam miss karne ka consequence bata sakte ho?,DOC01_P022,DOC01_P022 DOC01_P023 DOC01_P021 DOC01_P033 DOC01_P026,True,True
+Q053_english,english,Please specify the who sets the duration of a mid-term make-up exam.,DOC01_P022,DOC01_P022 DOC01_P021 DOC01_P023 DOC01_P001 DOC01_P026,True,False
+Q053_hindi,hindi,मध्यावधि मेकअप परीक्षा की अवधि तय करने वाला बताइए।,DOC01_P022,DOC01_P022 DOC01_P021 DOC01_P033 DOC01_P023 DOC03_P042,True,False
+Q053_hinglish,hinglish,mid-term makeup exam ki duration decide karne wala bata do.,DOC01_P022,DOC01_P022 DOC01_P021 DOC01_P023 DOC01_P033 DOC01_P005,True,False
+Q055_english,english,Can you confirm the initial result for an approved missed end-semester exam?,DOC01_P023,DOC01_P023 DOC01_P001 DOC03_P009 DOC01_P022 DOC01_P016,True,False
+Q055_hindi,hindi,कृपया बताएँ: स्वीकृत अनुपस्थिति वाली अंतिम परीक्षा का शुरुआती ग्रेड क्या है?,DOC01_P023,DOC01_P033 DOC01_P023 DOC01_P015 DOC01_P026 DOC01_P016,True,False
+Q055_hinglish,hinglish,approved end-sem exam absence ka initial grade bata sakte ho?,DOC01_P023,DOC01_P023 DOC01_P033 DOC01_P028 DOC01_P016 DOC01_P032,True,False
+Q057_english,english,What is the regular-exam failure group eligible for a supplementary exam?,DOC01_P024,DOC01_P024 DOC01_P026 DOC01_P028 DOC01_P025 DOC01_P027,True,False
+Q057_hindi,hindi,नियमित परीक्षा में असफल विद्यार्थियों की पूरक परीक्षा पात्रता क्या है?,DOC01_P024,DOC01_P026 DOC01_P024 DOC01_P027 DOC01_P025 DOC01_P028,True,True
+Q057_hinglish,hinglish,regular exam fail hone par supplementary exam eligibility kya hai?,DOC01_P024,DOC01_P024 DOC01_P025 DOC01_P026 DOC01_P028 DOC03_P041,True,False
+Q058_english,english,Can you confirm the what determines supplementary eligibility after disciplinary exclusion?,DOC01_P024,DOC01_P024 DOC01_P026 DOC01_P001 DOC01_P028 DOC02_P039,True,False
+Q058_hindi,hindi,कृपया बताएँ: अनुशासनात्मक रोक के बाद पूरक परीक्षा की पात्रता का आधार क्या है?,DOC01_P024,DOC01_P016 DOC01_P026 DOC01_P033 DOC01_P012 DOC01_P001,False,False
+Q058_hinglish,hinglish,disciplinary action ke baad supplementary eligibility ka basis bata sakte ho?,DOC01_P024,DOC01_P024 DOC01_P025 DOC01_P033 DOC01_P026 DOC01_P029,True,True
+Q059_english,english,Please specify the where the supplementary registration deadline is listed.,DOC01_P024,DOC01_P024 DOC01_P029 DOC01_P021 DOC01_P028 DOC03_P040,True,False
+Q059_hindi,hindi,पूरक परीक्षा पंजीकरण की अंतिम तारीख का स्रोत बताइए।,DOC01_P024,DOC03_P042 DOC01_P033 DOC01_P021 DOC03_P041 DOC01_P023,False,True
+Q059_hinglish,hinglish,supplementary registration deadline kahan listed hai bata do.,DOC01_P024,DOC01_P024 DOC01_P029 DOC03_P041 DOC01_P030 DOC01_P028,True,True
+Q060_english,english,What is the exam route for backlog courses in a one-year programme?,DOC01_P025,DOC01_P025 DOC01_P026 DOC01_P032 DOC01_P024 DOC01_P001,True,False
+Q060_hindi,hindi,एक वर्षीय कार्यक्रम के बकाया पाठ्यक्रमों के लिए परीक्षा क्या है?,DOC01_P025,DOC01_P025 DOC03_P009 DOC01_P002 DOC01_P022 DOC01_P001,True,True
+Q060_hinglish,hinglish,one-year programme ke backlogs clear karne wali exam kya hai?,DOC01_P025,DOC01_P025 DOC01_P026 DOC01_P002 DOC01_P033 DOC03_P009,True,False
+Q063_english,english,What is the next chance after failing a supplementary exam?,DOC01_P026,DOC01_P026 DOC01_P024 DOC01_P028 DOC03_P040 DOC01_P025,True,False
+Q063_hindi,hindi,पूरक परीक्षा में असफलता के बाद अगला अवसर क्या है?,DOC01_P026,DOC01_P026 DOC01_P024 DOC03_P040 DOC03_P041 DOC03_P009,True,False
+Q063_hinglish,hinglish,supplementary fail hone ke baad next attempt kya hai?,DOC01_P026,DOC01_P026 DOC01_P025 DOC01_P024 DOC03_P041 DOC03_P040,True,False
+Q064_english,english,Can you confirm the standard period for clearing failures through supplementary exams?,DOC01_P026,DOC01_P026 DOC01_P024 DOC01_P028 DOC01_P001 DOC01_P025,True,False
+Q064_hindi,hindi,कृपया बताएँ: पूरक परीक्षाओं से असफल विषय साफ करने की सामान्य अवधि क्या है?,DOC01_P026,DOC01_P026 DOC01_P033 DOC01_P001 DOC01_P024 DOC01_P022,True,False
+Q064_hinglish,hinglish,supplementary exams se failed courses clear karne ka standard time bata sakte ho?,DOC01_P026,DOC01_P026 DOC01_P025 DOC01_P028 DOC01_P001 DOC01_P024,True,False
+Q065_english,english,Please specify the discretionary authority for the mercy attempt after N+2.,DOC01_P026,DOC01_P026 DOC01_P012 DOC01_P016 DOC01_P033 DOC01_P003,True,False
+Q065_hindi,hindi,N+2 के बाद विशेष अंतिम अवसर देने वाला अधिकारी बताइए।,DOC01_P026,DOC01_P026 DOC01_P033 DOC01_P029 DOC03_P042 DOC01_P012,True,True
+Q065_hinglish,hinglish,N+2 ke baad mercy attempt approve karne wala authority bata do.,DOC01_P026,DOC01_P026 DOC01_P033 DOC01_P012 DOC01_P029 DOC01_P014,True,True
+Q066_english,english,What is the attendance needed by debarred students for remedial classes?,DOC01_P027,DOC01_P027 DOC01_P010 DOC01_P012 DOC01_P011 DOC01_P002,True,False
+Q066_hindi,hindi,परीक्षा से रोके गए विद्यार्थियों की उपचारात्मक कक्षाओं हेतु उपस्थिति क्या है?,DOC01_P027,DOC01_P033 DOC01_P027 DOC01_P001 DOC03_P009 DOC01_P023,True,True
+Q066_hinglish,hinglish,debarred students ki remedial classes ke liye attendance kya hai?,DOC01_P027,DOC01_P027 DOC01_P033 DOC01_P010 DOC01_P012 DOC01_P002,True,False
+Q067_english,english,Can you confirm the length of a supplementary exam compared with the regular end term?,DOC01_P027,DOC01_P027 DOC01_P028 DOC01_P026 DOC01_P001 DOC01_P024,True,False
+Q067_hindi,hindi,कृपया बताएँ: पूरक परीक्षा की अवधि की नियमित अंतिम परीक्षा से तुलना क्या है?,DOC01_P027,DOC01_P026 DOC01_P027 DOC01_P001 DOC01_P033 DOC01_P025,True,False
+Q067_hinglish,hinglish,supplementary duration ka regular end-term se comparison bata sakte ho?,DOC01_P027,DOC01_P027 DOC01_P026 DOC01_P025 DOC01_P028 DOC03_P040,True,False
+Q068_english,english,Please specify the treatment of internal marks in a supplementary exam.,DOC01_P027,DOC01_P027 DOC01_P028 DOC01_P016 DOC01_P001 DOC01_P024,True,False
+Q068_hindi,hindi,पूरक परीक्षा में आंतरिक अंकों का नियम बताइए।,DOC01_P027,DOC01_P027 DOC01_P016 DOC03_P042 DOC01_P033 DOC01_P029,True,True
+Q068_hinglish,hinglish,supplementary exam mein internal marks ka rule bata do.,DOC01_P027,DOC01_P028 DOC01_P027 DOC01_P016 DOC01_P026 DOC01_P025,True,False
+Q069_english,english,What is the supplementary provision for mid-term exams and internal assessments?,DOC01_P028,DOC01_P028 DOC01_P001 DOC01_P027 DOC01_P023 DOC01_P022,True,False
+Q069_hindi,hindi,मध्यावधि तथा आंतरिक मूल्यांकन के लिए पूरक परीक्षा का प्रावधान क्या है?,DOC01_P028,DOC01_P028 DOC01_P027 DOC01_P016 DOC01_P001 DOC01_P023,True,True
+Q069_hinglish,hinglish,mid-term aur internals ke liye supplementary ka provision kya hai?,DOC01_P028,DOC01_P028 DOC01_P023 DOC01_P001 DOC01_P027 DOC01_P021,True,False
+Q070_english,english,Can you confirm the pass requirement for supplementary exams?,DOC01_P028,DOC01_P028 DOC01_P024 DOC01_P025 DOC01_P026 DOC01_P001,True,False
+Q070_hindi,hindi,कृपया बताएँ: पूरक परीक्षा का उत्तीर्ण अंक नियम क्या है?,DOC01_P028,DOC01_P026 DOC01_P033 DOC01_P016 DOC01_P027 DOC03_P042,False,False
+Q070_hinglish,hinglish,supplementary exam pass marks rule bata sakte ho?,DOC01_P028,DOC01_P028 DOC01_P025 DOC01_P027 DOC01_P026 DOC01_P016,True,False
+Q072_english,english,What is the maximum special supplementary registration load?,DOC01_P029,DOC01_P029 DOC01_P024 DOC01_P025 DOC01_P028 DOC01_P027,True,False
+Q072_hindi,hindi,विशेष पूरक परीक्षा में अधिकतम पंजीकरण क्रेडिट क्या है?,DOC01_P029,DOC01_P029 DOC01_P025 DOC01_P028 DOC01_P026 DOC03_P041,True,True
+Q072_hinglish,hinglish,special supplementary registration ka maximum credit load kya hai?,DOC01_P029,DOC01_P029 DOC01_P025 DOC01_P028 DOC01_P030 DOC01_P015,True,False
+Q073_english,english,Can you confirm the approval for summer term registration after first year?,DOC01_P030,DOC01_P030 DOC01_P001 DOC01_P023 DOC01_P012 DOC01_P021,True,False
+Q073_hindi,hindi,कृपया बताएँ: पहले साल के बाद समर टर्म पंजीकरण की अनुमति क्या है?,DOC01_P030,DOC01_P033 DOC01_P030 DOC01_P012 DOC01_P023 DOC03_P042,True,True
+Q073_hinglish,hinglish,first year ke baad summer term registration ki permission bata sakte ho?,DOC01_P030,DOC01_P030 DOC01_P033 DOC03_P008 DOC01_P025 DOC01_P012,True,False
+Q074_english,english,Please specify the prior attempts required for summer term from year two.,DOC01_P030,DOC01_P030 DOC01_P001 DOC01_P032 DOC01_P021 DOC01_P012,True,False
+Q074_hindi,hindi,दूसरे वर्ष से समर टर्म के लिए उसी विषय में पूर्व पूरक प्रयास बताइए।,DOC01_P030,DOC03_P042 DOC01_P030 DOC01_P033 DOC01_P001 DOC03_P009,True,True
+Q074_hinglish,hinglish,year two se summer term ke liye same subject ke prior supplementary attempts bata do.,DOC01_P030,DOC01_P030 DOC01_P025 DOC01_P001 DOC01_P033 DOC03_P040,True,False
+Q075_english,english,What is the summer term registration limit?,DOC01_P030,DOC01_P030 DOC01_P024 DOC01_P029 DOC01_P001 DOC01_P027,True,False
+Q075_hindi,hindi,समर टर्म पंजीकरण की अधिकतम सीमा क्या है?,DOC01_P030,DOC01_P029 DOC01_P030 DOC01_P019 DOC01_P028 DOC01_P027,True,True
+Q075_hinglish,hinglish,summer term registration ki maximum limit kya hai?,DOC01_P030,DOC01_P030 DOC01_P029 DOC01_P028 DOC01_P033 DOC01_P011,True,False
+Q077_english,english,Please specify the office issuing temporary or duplicate university IDs before exams.,DOC01_P031,DOC01_P031 DOC01_P021 DOC01_P012 DOC01_P022 DOC01_P026,True,False
+Q077_hindi,hindi,परीक्षा से पहले अस्थायी या दूसरी पहचान पत्र प्रति जारी करने वाला कार्यालय बताइए।,DOC01_P031,DOC01_P031 DOC01_P005 DOC01_P012 DOC01_P020 DOC01_P016,True,False
+Q077_hinglish,hinglish,exams se pehle temporary ya duplicate ID issue karne wala office bata do.,DOC01_P031,DOC01_P031 DOC01_P033 DOC01_P012 DOC01_P005 DOC03_P042,True,False
+Q080_english,english,Please specify the credit-based alternative to the CGPA route from the end of year two.,DOC01_P032,DOC01_P032 DOC01_P015 DOC02_P039 DOC01_P001 DOC01_P025,True,False
+Q080_hindi,hindi,दूसरे वर्ष के अंत से सीजीपीए की जगह क्रेडिट-आधारित पदोन्नति का नियम बताइए।,DOC01_P032,DOC01_P032 DOC01_P033 DOC01_P029 DOC03_P042 DOC01_P015,True,False
+Q080_hinglish,hinglish,second year end se CGPA route ka credit-based alternative bata do.,DOC01_P032,DOC01_P032 DOC01_P025 DOC01_P015 DOC01_P019 DOC02_P039,True,False
+Q081_english,english,What is the certified medical absence requiring compulsory semester withdrawal?,DOC01_P032,DOC01_P033 DOC01_P032 DOC01_P011 DOC01_P015 DOC01_P026,True,False
+Q081_hindi,hindi,अनिवार्य सेमेस्टर वापसी वाली प्रमाणित चिकित्सा अनुपस्थिति क्या है?,DOC01_P032,DOC01_P033 DOC01_P002 DOC01_P001 DOC01_P032 DOC01_P026,True,True
+Q081_hinglish,hinglish,compulsory semester withdrawal wali certified medical absence kya hai?,DOC01_P032,DOC01_P033 DOC01_P032 DOC01_P011 DOC01_P026 DOC01_P015,True,False
+Q083_english,english,Please specify the sibling scholarship rate and duration.,DOC02_P034,DOC02_P034 DOC02_P007 DOC02_P036 DOC01_P011 DOC02_P006,True,False
+Q083_hindi,hindi,भाई-बहन छात्रवृत्ति की दर और अवधि बताइए।,DOC02_P034,DOC02_P034 DOC01_P033 DOC01_P002 DOC01_P014 DOC01_P029,True,False
+Q083_hinglish,hinglish,sibling scholarship ki rate aur duration bata do.,DOC02_P034,DOC02_P034 DOC02_P007 DOC01_P025 DOC02_P038 DOC02_P036,True,False
+Q085_english,english,Can you confirm the single girl child scholarship amount and duration?,DOC02_P034,DOC02_P034 DOC02_P007 DOC02_P006 DOC02_P036 DOC01_P026,True,False
+Q085_hindi,hindi,कृपया बताएँ: एकल बालिका छात्रवृत्ति की राशि और अवधि क्या है?,DOC02_P034,DOC02_P034 DOC01_P033 DOC01_P002 DOC01_P012 DOC01_P025,True,False
+Q085_hinglish,hinglish,single girl child scholarship ka amount aur duration bata sakte ho?,DOC02_P034,DOC02_P034 DOC02_P007 DOC01_P025 DOC01_P026 DOC02_P006,True,False
+Q086_english,english,Please specify the award for Bennett alumni enrolling in a Bennett postgraduate programme.,DOC02_P035,DOC02_P035 DOC01_P017 DOC01_P024 DOC02_P039 DOC01_P025,True,False
+Q086_hindi,hindi,बेनेट में स्नातकोत्तर प्रवेश लेने वाले पूर्व छात्रों की छात्रवृत्ति बताइए।,DOC02_P035,DOC01_P033 DOC02_P035 DOC01_P012 DOC01_P029 DOC01_P017,True,True
+Q086_hinglish,hinglish,Bennett mein PG join karne wale alumni ka scholarship bata do.,DOC02_P035,DOC02_P035 DOC01_P033 DOC01_P017 DOC02_P007 DOC02_P036,True,True
+Q087_english,english,What is the maximum sport-based admission scholarship on the public page?,DOC02_P035,DOC02_P035 DOC02_P007 DOC02_P006 DOC02_P039 DOC02_P036,True,False
+Q087_hindi,hindi,सार्वजनिक पृष्ठ पर खेल छात्रवृत्ति की अधिकतम राशि क्या है?,DOC02_P035,DOC02_P035 DOC02_P007 DOC01_P029 DOC02_P036 DOC02_P034,True,True
+Q087_hinglish,hinglish,public page par sports admission scholarship ka maximum kya hai?,DOC02_P035,DOC02_P035 DOC02_P007 DOC02_P006 DOC01_P029 DOC02_P039,True,False
+Q088_english,english,Can you confirm the sports participation or achievement levels considered?,DOC02_P035,DOC02_P035 DOC02_P006 DOC02_P007 DOC02_P039 DOC01_P012,True,True
+Q088_hindi,hindi,कृपया बताएँ: खेल भागीदारी या उपलब्धि के मान्य स्तर क्या है?,DOC02_P035,DOC01_P033 DOC01_P012 DOC01_P014 DOC02_P035 DOC02_P034,True,True
+Q088_hinglish,hinglish,sports participation ya achievement ke accepted levels bata sakte ho?,DOC02_P035,DOC02_P035 DOC02_P037 DOC01_P033 DOC02_P039 DOC03_P008,True,True
+Q089_english,english,Please specify the scholarship for eligible wards of defence personnel.,DOC02_P036,DOC02_P036 DOC01_P012 DOC02_P006 DOC02_P007 DOC01_P003,True,False
+Q089_hindi,hindi,पात्र रक्षा कर्मियों के बच्चों की छात्रवृत्ति बताइए।,DOC02_P036,DOC01_P033 DOC02_P036 DOC01_P029 DOC01_P012 DOC02_P034,True,False
+Q089_hinglish,hinglish,eligible defence personnel wards ka scholarship bata do.,DOC02_P036,DOC02_P036 DOC01_P012 DOC02_P007 DOC02_P006 DOC01_P033,True,False
+Q090_english,english,What is the service status covered by the defence wards scholarship?,DOC02_P036,DOC02_P036 DOC02_P007 DOC01_P012 DOC02_P006 DOC01_P016,True,False
+Q090_hindi,hindi,रक्षा कर्मियों के बच्चों की छात्रवृत्ति में सेवा की स्थिति क्या है?,DOC02_P036,DOC02_P036 DOC01_P033 DOC02_P034 DOC01_P012 DOC01_P002,True,True
+Q090_hinglish,hinglish,defence wards scholarship mein personnel ka service status kya hai?,DOC02_P036,DOC02_P036 DOC01_P033 DOC02_P007 DOC01_P012 DOC02_P038,True,False
+Q091_english,english,Can you confirm the class XII or CUET threshold for the 50% CSE Global award?,DOC02_P037,DOC02_P037 DOC02_P038 DOC02_P039 DOC03_P008 DOC01_P010,True,False
+Q091_hindi,hindi,कृपया बताएँ: 50% सीएसई ग्लोबल छात्रवृत्ति की बारहवीं या सीयूईटी सीमा क्या है?,DOC02_P037,DOC02_P037 DOC02_P038 DOC01_P027 DOC01_P033 DOC02_P039,True,False
+Q091_hinglish,hinglish,50% CSE Global award ka Class XII ya CUET cutoff bata sakte ho?,DOC02_P037,DOC02_P037 DOC02_P038 DOC02_P039 DOC01_P033 DOC03_P008,True,False
+Q092_english,english,Please specify the jEE Main percentile threshold for the 50% CSE Global award.,DOC02_P037,DOC02_P037 DOC02_P038 DOC02_P039 DOC01_P012 DOC03_P008,True,False
+Q092_hindi,hindi,50% सीएसई ग्लोबल छात्रवृत्ति की जेईई मेन सीमा बताइए।,DOC02_P037,DOC02_P037 DOC02_P038 DOC01_P033 DOC01_P027 DOC01_P029,True,False
+Q092_hinglish,hinglish,50% CSE Global award ka JEE Main cutoff bata do.,DOC02_P037,DOC02_P037 DOC02_P038 DOC02_P039 DOC01_P033 DOC01_P012,True,False
+Q093_english,english,What is the sAT threshold for the 50% CSE Global award?,DOC02_P037,DOC02_P037 DOC02_P038 DOC02_P039 DOC03_P008 DOC01_P010,True,False
+Q093_hindi,hindi,50% सीएसई ग्लोबल छात्रवृत्ति की एसएटी सीमा क्या है?,DOC02_P037,DOC02_P037 DOC02_P038 DOC02_P039 DOC01_P027 DOC01_P032,True,False
+Q093_hinglish,hinglish,50% CSE Global award ka SAT cutoff kya hai?,DOC02_P037,DOC02_P037 DOC02_P038 DOC02_P039 DOC01_P033 DOC03_P008,True,False
+Q094_english,english,Can you confirm the iB score range for the 30% CSE Global award?,DOC02_P038,DOC02_P038 DOC02_P037 DOC02_P039 DOC03_P008 DOC01_P023,True,False
+Q094_hindi,hindi,कृपया बताएँ: 30% सीएसई ग्लोबल छात्रवृत्ति की आईबी अंक सीमा क्या है?,DOC02_P038,DOC02_P038 DOC02_P037 DOC02_P039 DOC01_P033 DOC02_P007,True,False
+Q094_hinglish,hinglish,30% CSE Global award ki IB score range bata sakte ho?,DOC02_P038,DOC02_P038 DOC02_P037 DOC02_P039 DOC03_P008 DOC01_P033,True,False
+Q095_english,english,Please specify the jEE Main range for the 20% CSE Global award.,DOC02_P038,DOC02_P038 DOC02_P037 DOC02_P039 DOC03_P008 DOC01_P012,True,False
+Q095_hindi,hindi,20% सीएसई ग्लोबल छात्रवृत्ति की जेईई मेन सीमा बताइए।,DOC02_P038,DOC02_P038 DOC02_P037 DOC01_P033 DOC01_P029 DOC01_P012,True,False
+Q095_hinglish,hinglish,20% CSE Global award ki JEE Main range bata do.,DOC02_P038,DOC02_P038 DOC02_P037 DOC02_P039 DOC03_P008 DOC01_P033,True,False
+Q096_english,english,What is the sAT range for the 10% CSE Global award?,DOC02_P038,DOC02_P038 DOC02_P037 DOC02_P039 DOC03_P008 DOC02_P007,True,False
+Q096_hindi,hindi,10% सीएसई ग्लोबल छात्रवृत्ति की एसएटी सीमा क्या है?,DOC02_P038,DOC02_P038 DOC02_P007 DOC02_P037 DOC02_P034 DOC01_P011,True,False
+Q096_hinglish,hinglish,10% CSE Global award ki SAT range kya hai?,DOC02_P038,DOC02_P038 DOC02_P037 DOC02_P039 DOC02_P007 DOC03_P008,True,False
+Q099_english,english,What is the publication date for the December 2025 odd-semester end-term results?,DOC03_P040,DOC03_P040 DOC03_P009 DOC03_P042 DOC03_P008 DOC03_P041,True,False
+Q099_hindi,hindi,दिसंबर 2025 की विषम सेमेस्टर अंतिम परीक्षा के परिणाम की तारीख क्या है?,DOC03_P040,DOC03_P040 DOC03_P009 DOC03_P008 DOC03_P042 DOC03_P041,True,False
+Q099_hinglish,hinglish,December 2025 odd-sem end-term result ki date kya hai?,DOC03_P040,DOC03_P040 DOC03_P009 DOC03_P042 DOC03_P008 DOC03_P041,True,False
+Q100_english,english,Can you confirm the result announcement date for the August–September 2025 special supplementary exams?,DOC03_P040,DOC03_P040 DOC03_P041 DOC03_P009 DOC03_P008 DOC03_P042,True,False
+Q100_hindi,hindi,कृपया बताएँ: अगस्त–सितंबर 2025 की विशेष पूरक परीक्षाओं के परिणाम की तारीख क्या है?,DOC03_P040,DOC03_P040 DOC03_P009 DOC03_P008 DOC03_P042 DOC03_P041,True,False
+Q100_hinglish,hinglish,August–September 2025 special supplementary result date bata sakte ho?,DOC03_P040,DOC03_P040 DOC03_P041 DOC03_P008 DOC03_P009 DOC03_P042,True,False
+Q101_english,english,Please specify the result date announced for July 2025 summer-term exams.,DOC03_P040,DOC03_P040 DOC03_P008 DOC03_P041 DOC03_P009 DOC03_P042,True,False
+Q101_hindi,hindi,जुलाई 2025 की समर टर्म परीक्षा के परिणाम की तारीख बताइए।,DOC03_P040,DOC03_P040 DOC03_P009 DOC03_P008 DOC03_P042 DOC03_P041,True,False
+Q101_hinglish,hinglish,July 2025 summer-term result ki date bata do.,DOC03_P040,DOC03_P040 DOC03_P008 DOC03_P041 DOC03_P009 DOC03_P042,True,False
+Q102_english,english,What is the result date of the even-semester supplementary exams for 2023–24?,DOC03_P041,DOC03_P041 DOC03_P042 DOC03_P040 DOC03_P009 DOC03_P008,True,False
+Q102_hindi,hindi,2023–24 की सम सेमेस्टर पूरक परीक्षा के परिणाम की तारीख क्या है?,DOC03_P041,DOC03_P041 DOC03_P042 DOC03_P009 DOC03_P040 DOC03_P008,True,False
+Q102_hinglish,hinglish,2023–24 even-sem supplementary result date kya hai?,DOC03_P041,DOC03_P041 DOC03_P042 DOC03_P040 DOC03_P008 DOC03_P009,True,False
+Q103_english,english,Can you confirm the result date of the even-semester make-up exams for 2023–24?,DOC03_P041,DOC03_P041 DOC03_P042 DOC03_P009 DOC03_P008 DOC03_P040,True,False
+Q103_hindi,hindi,कृपया बताएँ: 2023–24 की सम सेमेस्टर मेकअप परीक्षा के परिणाम की तारीख क्या है?,DOC03_P041,DOC03_P041 DOC03_P042 DOC03_P009 DOC03_P040 DOC03_P008,True,False
+Q103_hinglish,hinglish,2023–24 even-sem makeup result ki date bata sakte ho?,DOC03_P041,DOC03_P041 DOC03_P042 DOC03_P008 DOC03_P009 DOC03_P040,True,False
+Q104_english,english,Please specify the result announcement for May 2024 regular even-semester exams.,DOC03_P041,DOC03_P041 DOC03_P042 DOC03_P040 DOC03_P008 DOC03_P009,True,False
+Q104_hindi,hindi,मई 2024 की नियमित सम सेमेस्टर परीक्षा के परिणाम की तारीख बताइए।,DOC03_P041,DOC03_P042 DOC03_P041 DOC03_P009 DOC03_P008 DOC03_P040,True,False
+Q104_hinglish,hinglish,May 2024 regular even-sem result date bata do.,DOC03_P041,DOC03_P041 DOC03_P008 DOC03_P042 DOC03_P040 DOC03_P009,True,False
+Q105_english,english,What is the result date of regular odd-semester exams for 2023–24?,DOC03_P042,DOC03_P042 DOC03_P041 DOC03_P040 DOC03_P009 DOC03_P008,True,False
+Q105_hindi,hindi,2023–24 की नियमित विषम सेमेस्टर परीक्षा के परिणाम की तारीख क्या है?,DOC03_P042,DOC03_P042 DOC03_P041 DOC03_P009 DOC03_P040 DOC03_P008,True,False
+Q105_hinglish,hinglish,2023–24 regular odd-sem result date kya hai?,DOC03_P042,DOC03_P042 DOC03_P041 DOC03_P040 DOC03_P009 DOC03_P008,True,False
+Q107_english,english,Please specify the maximum body length for an examination grievance email.,,DOC01_P017 DOC01_P018 DOC01_P011 DOC01_P021 DOC01_P002,,False
+Q107_hindi,hindi,परीक्षा शिकायत ईमेल की अधिकतम शब्द सीमा बताइए।,,DOC01_P033 DOC01_P029 DOC01_P016 DOC01_P021 DOC01_P012,,True
+Q107_hinglish,hinglish,exam grievance email ki maximum word limit bata do.,,DOC01_P017 DOC01_P029 DOC01_P018 DOC01_P033 DOC01_P025,,False
+Q108_english,english,What is the acknowledgement reference-number format for an exam grievance?,,DOC01_P017 DOC01_P018 DOC01_P002 DOC01_P016 DOC01_P019,,False
+Q108_hindi,hindi,परीक्षा शिकायत की प्राप्ति संख्या का प्रारूप क्या है?,,DOC01_P002 DOC01_P016 DOC01_P018 DOC01_P020 DOC01_P026,,True
+Q108_hinglish,hinglish,exam complaint acknowledgement number ka format kya hai?,,DOC01_P016 DOC01_P018 DOC01_P002 DOC01_P026 DOC01_P019,,False
+Q109_english,english,Can you confirm the supported image formats for attaching an exam complaint?,,DOC01_P018 DOC01_P023 DOC01_P001 DOC01_P016 DOC01_P002,,True
+Q109_hindi,hindi,कृपया बताएँ: परीक्षा शिकायत में तस्वीर जोड़ने के मान्य फ़ाइल प्रारूप क्या है?,,DOC01_P033 DOC01_P012 DOC01_P002 DOC01_P016 DOC01_P019,,True
+Q109_hinglish,hinglish,exam complaint ki image attachment ke supported formats bata sakte ho?,,DOC01_P018 DOC01_P025 DOC01_P016 DOC01_P023 DOC01_P026,,True
+Q110_english,english,Please specify the emergency helpline hours during weekend supplementary exams.,,DOC01_P026 DOC03_P041 DOC01_P025 DOC01_P028 DOC03_P040,,True
+Q110_hindi,hindi,सप्ताहांत की पूरक परीक्षाओं में आपात हेल्पलाइन का समय बताइए।,,DOC01_P033 DOC03_P042 DOC01_P021 DOC01_P005 DOC01_P026,,True
+Q110_hinglish,hinglish,weekend supplementary exams mein emergency helpline ka timing bata do.,,DOC03_P041 DOC01_P026 DOC01_P025 DOC01_P028 DOC03_P040,,False
+Q111_english,english,What is the minimum age requirement for a scribe?,,DOC01_P013 DOC01_P015 DOC01_P010 DOC01_P002 DOC01_P030,,False
+Q111_hindi,hindi,परीक्षा लेखक की न्यूनतम आयु क्या है?,,DOC01_P002 DOC01_P023 DOC01_P026 DOC02_P038 DOC01_P005,,True
+Q111_hinglish,hinglish,exam scribe ki minimum age kya hai?,,DOC01_P013 DOC01_P002 DOC01_P025 DOC01_P023 DOC01_P028,,False
+Q112_english,english,Can you confirm the hourly remuneration of a Bennett examination scribe?,,DOC01_P017 DOC01_P013 DOC02_P035 DOC01_P002 DOC01_P001,,False
+Q112_hindi,hindi,कृपया बताएँ: बेनेट के परीक्षा लेखक की प्रति घंटे की पारिश्रमिक दर क्या है?,,DOC01_P033 DOC01_P002 DOC01_P019 DOC01_P017 DOC02_P035,,True
+Q112_hinglish,hinglish,Bennett exam scribe ki hourly payment bata sakte ho?,,DOC01_P017 DOC01_P013 DOC02_P035 DOC01_P025 DOC01_P002,,True
+Q113_english,english,Please specify the nearest accessible parking location to the examination wellness centre.,,DOC01_P013 DOC01_P018 DOC01_P031 DOC01_P016 DOC01_P002,,True
+Q113_hindi,hindi,परीक्षा वेलनेस सेंटर के सबसे पास सुलभ पार्किंग बताइए।,,DOC01_P029 DOC01_P033 DOC01_P012 DOC01_P016 DOC01_P013,,True
+Q113_hinglish,hinglish,exam wellness centre ke paas accessible parking location bata do.,,DOC01_P013 DOC01_P033 DOC01_P016 DOC01_P025 DOC01_P012,,True
+Q114_english,english,What is the wheelchair booking deadline before an exam?,,DOC01_P024 DOC01_P031 DOC01_P025 DOC01_P026 DOC01_P021,,True
+Q114_hindi,hindi,परीक्षा से पहले व्हीलचेयर बुक करने की अंतिम तारीख क्या है?,,DOC03_P041 DOC03_P009 DOC03_P042 DOC01_P026 DOC01_P021,,True
+Q114_hinglish,hinglish,exam se pehle wheelchair book karne ki deadline kya hai?,,DOC01_P033 DOC01_P025 DOC01_P026 DOC03_P042 DOC01_P021,,True
+Q115_english,english,Can you confirm the locker deposit amount for keeping a phone outside the exam hall?,,DOC01_P018 DOC01_P031 DOC01_P001 DOC01_P013 DOC01_P017,,True
+Q115_hindi,hindi,कृपया बताएँ: परीक्षा कक्ष के बाहर फ़ोन रखने की लॉकर जमा राशि क्या है?,,DOC01_P033 DOC01_P019 DOC01_P012 DOC01_P025 DOC01_P002,,False
+Q115_hinglish,hinglish,exam hall ke bahar phone rakhne ka locker deposit bata sakte ho?,,DOC01_P031 DOC01_P025 DOC01_P016 DOC01_P033 DOC01_P018,,True
+Q116_english,english,Please specify the colour of the queue token for replacement university IDs.,,DOC01_P031 DOC01_P018 DOC01_P023 DOC02_P006 DOC01_P021,,True
+Q116_hindi,hindi,नए विश्वविद्यालय पहचान पत्र के लिए कतार टोकन का रंग बताइए।,,DOC01_P033 DOC01_P029 DOC01_P031 DOC01_P012 DOC03_P042,,True
+Q116_hinglish,hinglish,replacement university ID ke queue token ka colour bata do.,,DOC01_P031 DOC01_P033 DOC01_P018 DOC01_P012 DOC01_P002,,True
+Q117_english,english,What is the tracking status label for a dispatched temporary ID?,,DOC01_P031 DOC01_P016 DOC01_P023 DOC01_P011 DOC01_P021,,True
+Q117_hindi,hindi,भेजे गए अस्थायी पहचान पत्र की ट्रैकिंग स्थिति का नाम क्या है?,,DOC01_P023 DOC01_P033 DOC01_P018 DOC01_P019 DOC03_P008,,True
+Q117_hinglish,hinglish,dispatch hue temporary ID ka tracking status label kya hai?,,DOC01_P031 DOC01_P033 DOC01_P023 DOC03_P008 DOC01_P021,,True
+Q118_english,english,Can you confirm the printing charge for an extra copy of a temporary admit card?,,DOC01_P031 DOC01_P001 DOC01_P002 DOC01_P029 DOC01_P019,,True
+Q118_hindi,hindi,कृपया बताएँ: अस्थायी प्रवेश पत्र की अतिरिक्त प्रति का छपाई शुल्क क्या है?,,DOC01_P019 DOC01_P029 DOC01_P012 DOC01_P002 DOC01_P025,,True
+Q118_hinglish,hinglish,temporary admit card ki extra copy ka printing charge bata sakte ho?,,DOC01_P031 DOC01_P029 DOC01_P025 DOC01_P002 DOC01_P033,,True
+Q119_english,english,Please specify the campus pickup counter number for revised grade sheets.,,DOC01_P004 DOC01_P005 DOC01_P014 DOC01_P003 DOC01_P018,,True
+Q119_hindi,hindi,संशोधित ग्रेड शीट लेने का परिसर काउंटर नंबर बताइए।,,DOC01_P033 DOC01_P029 DOC01_P014 DOC01_P012 DOC02_P037,,True
+Q119_hinglish,hinglish,revised grade sheet collect karne ka campus counter number bata do.,,DOC01_P004 DOC01_P033 DOC01_P002 DOC01_P005 DOC01_P003,,True
+Q121_english,english,Can you confirm the international courier cost for a revised grade sheet?,,DOC01_P004 DOC01_P002 DOC01_P019 DOC01_P020 DOC01_P003,,True
+Q121_hindi,hindi,कृपया बताएँ: संशोधित ग्रेड शीट विदेश भेजने का कूरियर शुल्क क्या है?,,DOC01_P033 DOC01_P025 DOC01_P019 DOC01_P029 DOC02_P036,,True
+Q121_hinglish,hinglish,revised grade sheet abroad courier karne ka charge bata sakte ho?,,DOC01_P004 DOC01_P002 DOC01_P025 DOC01_P033 DOC01_P019,,True
+Q124_english,english,Can you confirm the file-naming convention for medical certificates submitted for make-up exams?,,DOC01_P022 DOC01_P001 DOC01_P021 DOC01_P023 DOC03_P041,,False
+Q124_hindi,hindi,कृपया बताएँ: मेकअप परीक्षा के चिकित्सा प्रमाणपत्र की फ़ाइल नाम पद्धति क्या है?,,DOC01_P033 DOC01_P021 DOC01_P023 DOC01_P022 DOC01_P001,,True
+Q124_hinglish,hinglish,makeup exam medical certificate ka filename format bata sakte ho?,,DOC01_P021 DOC01_P033 DOC01_P022 DOC01_P023 DOC01_P005,,True
+Q125_english,english,Please specify the building and room for the February 2025 supplementary examination.,,DOC03_P040 DOC03_P009 DOC03_P008 DOC03_P041 DOC01_P025,,False
+Q125_hindi,hindi,फरवरी 2025 की पूरक परीक्षा का भवन और कमरा बताइए।,,DOC03_P009 DOC03_P040 DOC03_P008 DOC03_P042 DOC03_P041,,False
+Q125_hinglish,hinglish,February 2025 supplementary exam ki building aur room bata do.,,DOC03_P040 DOC03_P009 DOC03_P008 DOC01_P025 DOC03_P041,,False
+Q126_english,english,What is the invigilator assigned to the July 2025 summer-term Mathematics exam?,,DOC03_P040 DOC03_P008 DOC03_P009 DOC03_P041 DOC01_P023,,True
+Q126_hindi,hindi,जुलाई 2025 की गणित समर टर्म परीक्षा का निरीक्षक क्या है?,,DOC03_P040 DOC03_P009 DOC03_P008 DOC03_P042 DOC03_P041,,True
+Q126_hinglish,hinglish,July 2025 summer-term Maths exam ka invigilator kya hai?,,DOC03_P040 DOC03_P008 DOC03_P009 DOC03_P041 DOC01_P001,,False
+Q128_english,english,Please specify the number of review applications submitted after December 2024 exams.,,DOC03_P009 DOC03_P041 DOC03_P040 DOC03_P042 DOC01_P021,,False
+Q128_hindi,hindi,दिसंबर 2024 की परीक्षाओं के बाद आए पुनर्मूल्यांकन आवेदनों की संख्या बताइए।,,DOC03_P042 DOC03_P009 DOC03_P041 DOC01_P025 DOC03_P008,,False
+Q128_hinglish,hinglish,December 2024 exams ke baad submit hui rechecking applications ki count bata do.,,DOC03_P009 DOC03_P042 DOC03_P041 DOC03_P040 DOC01_P002,,True
+Q129_english,english,What is the median CSE semester-six grade in the May 2025 result release?,,DOC03_P008 DOC03_P040 DOC03_P009 DOC03_P041 DOC03_P042,,False
+Q129_hindi,hindi,मई 2025 के सीएसई छठे सेमेस्टर का मध्यिका ग्रेड क्या है?,,DOC03_P008 DOC03_P040 DOC03_P009 DOC03_P042 DOC03_P041,,True
+Q129_hinglish,hinglish,May 2025 CSE semester six results ka median grade kya hai?,,DOC03_P008 DOC03_P009 DOC03_P040 DOC01_P033 DOC03_P041,,False
+Q130_english,english,Can you confirm the exact start time of the January 2025 make-up result portal rollout?,,DOC03_P009 DOC03_P040 DOC03_P041 DOC03_P008 DOC03_P042,,False
+Q130_hindi,hindi,कृपया बताएँ: जनवरी 2025 मेकअप परिणाम पोर्टल पर शुरू होने का ठीक समय क्या है?,,DOC03_P009 DOC03_P040 DOC03_P008 DOC03_P042 DOC03_P041,,False
+Q130_hinglish,hinglish,January 2025 makeup result portal par aane ka exact time bata sakte ho?,,DOC03_P040 DOC03_P009 DOC03_P008 DOC03_P042 DOC03_P041,,False
+Q131_english,english,Please specify the number of applications received for the sibling scholarship.,,DOC02_P034 DOC02_P007 DOC02_P006 DOC02_P036 DOC01_P012,,False
+Q131_hindi,hindi,भाई-बहन छात्रवृत्ति के आवेदनों की संख्या बताइए।,,DOC01_P033 DOC02_P034 DOC01_P029 DOC01_P012 DOC02_P007,,False
+Q131_hinglish,hinglish,sibling scholarship applications ki total count bata do.,,DOC02_P034 DOC02_P007 DOC02_P006 DOC02_P038 DOC01_P025,,False
+Q132_english,english,What is the wait-list notification day for the defence wards award?,,DOC02_P036 DOC03_P008 DOC01_P023 DOC01_P012 DOC03_P009,,True
+Q132_hindi,hindi,रक्षा कर्मियों के बच्चों की छात्रवृत्ति की प्रतीक्षा सूची की सूचना का दिन क्या है?,,DOC03_P008 DOC03_P009 DOC03_P041 DOC03_P042 DOC03_P040,,True
+Q132_hinglish,hinglish,defence wards award ki waitlist notification ka day kya hai?,,DOC02_P036 DOC01_P033 DOC01_P023 DOC03_P008 DOC01_P002,,True
+Q134_english,english,Please specify the required pixel dimensions for a single girl child scholarship document scan.,,DOC02_P034 DOC02_P007 DOC01_P019 DOC01_P003 DOC01_P012,,True
+Q134_hindi,hindi,एकल बालिका छात्रवृत्ति दस्तावेज़ स्कैन के पिक्सेल आयाम बताइए।,,DOC01_P033 DOC01_P029 DOC01_P012 DOC02_P007 DOC02_P034,,True
+Q134_hinglish,hinglish,single girl child scholarship document scan ka pixel size bata do.,,DOC02_P034 DOC02_P007 DOC01_P019 DOC02_P006 DOC01_P025,,True
+Q136_english,english,Can you confirm the iD prefix of the CSE Global scholarship application?,,DOC02_P039 DOC02_P038 DOC02_P037 DOC03_P008 DOC02_P006,,True
+Q136_hindi,hindi,कृपया बताएँ: सीएसई ग्लोबल छात्रवृत्ति आवेदन आईडी का उपसर्ग क्या है?,,DOC01_P033 DOC02_P038 DOC02_P039 DOC02_P037 DOC01_P012,,True
+Q136_hinglish,hinglish,CSE Global scholarship application ID ka prefix bata sakte ho?,,DOC02_P039 DOC02_P038 DOC02_P037 DOC03_P008 DOC02_P007,,False
+Q137_english,english,Please specify the refund timeline for a scholarship verification deposit.,,DOC01_P002 DOC02_P006 DOC01_P019 DOC01_P012 DOC02_P036,,True
+Q137_hindi,hindi,छात्रवृत्ति सत्यापन जमा राशि वापस मिलने की समय सीमा बताइए।,,DOC01_P033 DOC01_P002 DOC03_P042 DOC01_P027 DOC01_P026,,False
+Q137_hinglish,hinglish,scholarship verification deposit refund ki timeline bata do.,,DOC01_P002 DOC02_P006 DOC02_P034 DOC02_P036 DOC01_P019,,False
+Q138_english,english,What is the exact number of 50% CSE Global awards booked in 2025?,,DOC02_P037 DOC02_P038 DOC03_P008 DOC02_P039 DOC03_P040,,False
+Q138_hindi,hindi,2025 में बुक हुई 50% सीएसई ग्लोबल छात्रवृत्तियों की सटीक संख्या क्या है?,,DOC03_P008 DOC02_P037 DOC03_P040 DOC02_P038 DOC03_P009,,True
+Q138_hinglish,hinglish,2025 mein booked 50% CSE Global awards ki exact count kya hai?,,DOC02_P037 DOC02_P038 DOC03_P008 DOC02_P039 DOC03_P040,,False
+Q139_english,english,Can you confirm the percentage of sports award applicants rejected at verification?,,DOC02_P035 DOC01_P002 DOC02_P006 DOC02_P038 DOC01_P012,,True
+Q139_hindi,hindi,कृपया बताएँ: सत्यापन में अस्वीकृत खेल छात्रवृत्ति आवेदकों का प्रतिशत क्या है?,,DOC01_P033 DOC02_P007 DOC01_P012 DOC01_P002 DOC02_P036,,True
+Q139_hinglish,hinglish,verification mein reject hue sports scholarship applicants ka percentage bata sakte ho?,,DOC02_P007 DOC02_P035 DOC02_P006 DOC02_P036 DOC01_P002,,True
+Q140_english,english,Please specify the office counter number for submitting a scholarship renewal appeal.,,DOC02_P007 DOC02_P006 DOC01_P012 DOC01_P020 DOC01_P031,,True
+Q140_hindi,hindi,छात्रवृत्ति नवीनीकरण अपील जमा करने का काउंटर नंबर बताइए।,,DOC01_P033 DOC01_P012 DOC01_P029 DOC01_P002 DOC01_P020,,False
+Q140_hinglish,hinglish,scholarship renewal appeal submit karne ka counter number bata do.,,DOC01_P002 DOC02_P007 DOC02_P006 DOC02_P039 DOC02_P034,,True

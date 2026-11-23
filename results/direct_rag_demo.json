@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How long after results do I have to request re-evaluation?",
+    "rag": {
+      "answer": "After 15 days",
+      "citations": [
+        "DOC01_P002"
+      ]
+    },
+    "direct": "The standard timeframe for requesting a re-evaluation of your results is typically 30 days from the date of publication or receipt of the results. However, this can vary depending on the specific circumstances and the rules set by the organization conducting the evaluation. It's best to check with the relevant department or agency directly involved in"
+  },
+  {
+    "question": "Rechecking fees instalments mein kaise de sakte hain?",
+    "rag": {
+      "answer": "Rechecking fees installments mein kaise de sakte hain?",
+      "citations": [
+        "DOC01_P002"
+      ]
+    },
+    "direct": "Rechecking fees for installment payments typically refer to the additional charges that may be applied when your payment is not processed correctly or before the due date. These fees can vary depending on the bank and the specific terms of the installment plan. Typically, these fees might include late fees, processing fees, or other charges added to cover"
+  }
+]

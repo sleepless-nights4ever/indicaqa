@@ -1,0 +1,61 @@
+{
+  "query_type": "English",
+  "confidence_score": 0.9127515554428101,
+  "retrieved": [
+    {
+      "passage_id": "DOC01_P010",
+      "document_id": "DOC01",
+      "section": "Section 10 — Attendance",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "Minimum course attendance across lectures, tutorials and labs: 75%. Grade for shortage of course attendance: DB. Attendance credit for each scheduled class regardless of its length: One unit.",
+      "score": 1.0
+    },
+    {
+      "passage_id": "DOC01_P027",
+      "document_id": "DOC01",
+      "section": "Section 24 — Supplementary exams",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "Attendance needed by debarred students for remedial classes: At least 50% attendance. Length of a supplementary exam compared with the regular end term: Same duration as the end-term exam. Treatment of internal marks in a supplementary exam: Existing internal marks are retained.",
+      "score": 0.41283834309752704
+    },
+    {
+      "passage_id": "DOC01_P011",
+      "document_id": "DOC01",
+      "section": "Section 10 — Attendance",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "Maximum exceptional attendance relaxation: Up to 10%. Continuous certified illness duration considered for attendance relaxation: Two weeks. Approval to represent the university for attendance relaxation: Prior approval of the Dean.",
+      "score": 0.35573112263261153
+    },
+    {
+      "passage_id": "DOC01_P001",
+      "document_id": "DOC01",
+      "section": "Section 20 / Eligibility",
+      "text": "End-of-semester and make-up theory papers can be submitted for re-evaluation. This service excludes supplementary exams and summer-term courses. Midterms, practicals, labs, assignments, projects, internships and viva assessments also fall outside the re-evaluation scope.",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "score": 0.300157114419326
+    },
+    {
+      "passage_id": "DOC01_P023",
+      "document_id": "DOC01",
+      "section": "Section 23 — Make-up exams",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "Who notifies approved mid-term make-up cases: Dean Academic. Initial result for an approved missed end-semester exam: I grade. Mandatory assessment for any project-course grade: Final viva.",
+      "score": 0.2936041273460386
+    }
+  ],
+  "answer": "The minimum course attendance across lectures, tutorials and labs is 75%",
+  "citations": [
+    "DOC01_P010"
+  ],
+  "answerability": "ANSWERABLE",
+  "supporting_passages": [
+    {
+      "passage_id": "DOC01_P010",
+      "document_id": "DOC01",
+      "section": "Section 10 — Attendance",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "Minimum course attendance across lectures, tutorials and labs: 75%. Grade for shortage of course attendance: DB. Attendance credit for each scheduled class regardless of its length: One unit.",
+      "score": 1.0
+    }
+  ]
+}

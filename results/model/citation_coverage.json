@@ -1,0 +1,30 @@
+{
+  "overall": {
+    "responses": 39,
+    "answered": 12,
+    "complete_gold_citations": 5,
+    "coverage_among_answered": 0.4166666666666667,
+    "unsupported_questions_answered": 5
+  },
+  "english": {
+    "responses": 13,
+    "answered": 3,
+    "complete_gold_citations": 2,
+    "coverage_among_answered": 0.6666666666666666,
+    "unsupported_questions_answered": 1
+  },
+  "hindi": {
+    "responses": 13,
+    "answered": 5,
+    "complete_gold_citations": 1,
+    "coverage_among_answered": 0.2,
+    "unsupported_questions_answered": 2
+  },
+  "hinglish": {
+    "responses": 13,
+    "answered": 4,
+    "complete_gold_citations": 2,
+    "coverage_among_answered": 0.5,
+    "unsupported_questions_answered": 2
+  }
+}

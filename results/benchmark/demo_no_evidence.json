@@ -1,0 +1,50 @@
+{
+  "query_type": "English",
+  "confidence_score": 0.798076868057251,
+  "retrieved": [
+    {
+      "passage_id": "DOC01_P013",
+      "document_id": "DOC01",
+      "section": "Section 11 — Scribe support",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "Official who may allow a scribe on the Dean’s recommendation: Controller of Examinations. Exam venue for candidates using a scribe: A separate room or the wellness centre. Writing-hand injury criterion for scribe assistance: An injury that prevents writing.",
+      "score": 1.0
+    },
+    {
+      "passage_id": "DOC01_P016",
+      "document_id": "DOC01",
+      "section": "Sections 17–18 — Result approval",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "Final approval authority for moderated exam results: Vice-Chancellor. Portal on which faculty enter exam and assessment marks: ERP. Stage at which the grade report is generated: After grades are locked in the ERP.",
+      "score": 0.6992187527734521
+    },
+    {
+      "passage_id": "DOC01_P018",
+      "document_id": "DOC01",
+      "section": "Sections 7.3 and 19 — Exam grievances",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "University ticket system for examination grievances: BU Helpdesk. Channel used to acknowledge an exam grievance: The submission channel. Person asked to verify an allegedly out-of-syllabus question: Course coordinator.",
+      "score": 0.6822643861250623
+    },
+    {
+      "passage_id": "DOC01_P002",
+      "document_id": "DOC01",
+      "section": "Section 20 / Applying",
+      "text": "Students normally have 15 days from announcement of results to submit the prescribed re-evaluation form to the Controller of Examinations and pay the applicable fee. The manual lists a non-refundable charge of ₹5,000 for each subject, subject to changes in university policy. Incomplete forms can be rejected.",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "score": 0.6589634337710117
+    },
+    {
+      "passage_id": "DOC01_P025",
+      "document_id": "DOC01",
+      "section": "Section 24 — Supplementary exams",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "text": "Exam route for backlog courses in a one-year programme: Special supplementary examination. Non-refundable supplementary fee for batches starting in 2024–25: ₹3,000 per course, subject to change. Frequency of regular supplementary exams for recently completed semesters: Twice in an academic year.",
+      "score": 0.6461632483504511
+    }
+  ],
+  "answer": "UNANSWERABLE",
+  "citations": [],
+  "answerability": "UNANSWERABLE",
+  "explanation": "Insufficient information available in the provided documents."
+}

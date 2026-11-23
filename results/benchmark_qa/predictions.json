@@ -1,0 +1,1978 @@
+{
+  "Q001_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P001"
+    ],
+    "direct": "UNANSWERABLE"
+  },
+  "Q001_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "उसके अनुवादित विश्लेषण में, मेकअप की थ्योरी परीक्षा की कॉ"
+  },
+  "Q001_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "No, I don't have any specific makeup theory papers to check against. My purpose is to provide information and assistance based on my knowledge base."
+  },
+  "Q003_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The typical window for requesting a marks review after results can vary depending on several factors such as the specific institution or program, and may be up to 1-2 months in some cases. It's important to check with the relevant department or office of the institution"
+  },
+  "Q003_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "नतीजे आने के बाद नंबर दोबारा जँचवाने के लिए आम तौर पर"
+  },
+  "Q003_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "No need for marks to be checked."
+  },
+  "Q004_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To formally request a recheck of your marks, follow these steps:\n\n1. **Review Your Exam**: Ensure that all parts of the exam were completed correctly and accurately.\n\n2. **Check for Errors**: Look for any errors or mistakes in your answers, such"
+  },
+  "Q004_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "नंबर दोबारा जँचवाने के लिए यह व्यक्ति अपनी बारतीय समु"
+  },
+  "Q004_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "I'm sorry, but I don't have enough information to determine which form and submission method you're referring to. Could you please provide more context or clarify your question?"
+  },
+  "Q005_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The size of the change in marks that triggers a second independent re-check is typically 10% or more. This means that if there's a significant change in the mark, such as an increase or decrease from the previous year, it would trigger a second"
+  },
+  "Q005_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अंकों में कितना बदलाव होने पर कॉपी दूसरे परीक्षक के पास जा�"
+  },
+  "Q005_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "No, I don't have access to information about specific individuals or organizations. My responses are based on publicly available data and do not include details about individual evaluators."
+  },
+  "Q006_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To receive a revised version of your old marksheet, you typically need to follow these steps:\n\n1. **Review and Update**: Ensure that all information on your old marksheet is accurate and up-to-date.\n\n2. **Submit for Review**: Submit your mark"
+  },
+  "Q006_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "संशोधित अंकपत्र लेने से पहले पुराने अंकपत्र का करना जैसी द"
+  },
+  "Q006_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Based on the information provided in the question, Nayi Marksheet is not mentioned as being related to any specific Purani (religious text). Therefore, I cannot provide an answer based on this information alone."
+  },
+  "Q007_english": {
+    "rag": "After 15 days from publication of the result",
+    "citations": [
+      "DOC01_P005"
+    ],
+    "direct": "Transcripts are typically issued within 1-2 weeks of publication, but this can vary depending on the specific requirements and policies of the publishing organization or institution."
+  },
+  "Q007_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "ट्रांसक्रिप्ट जारी होती है 10-20 महीनेस्ट।"
+  },
+  "Q007_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can help with that. The result of publishing a transcript in a language other than English is generally not considered \"hot\" or relevant for general use unless there's a specific context where it might be useful. However, if you're looking to share"
+  },
+  "Q008_english": {
+    "rag": "The scholarship that you would receive is the one with the greatest value under the guidelines.",
+    "citations": [
+      "DOC02_P006"
+    ],
+    "direct": "If you qualify for multiple admission scholarships, you would typically receive the scholarship that aligns with your academic performance and other factors such as GPA, extracurricular activities, or personal qualities. It's important to review each scholarship carefully to understand its eligibility criteria and"
+  },
+  "Q008_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मुझे कौन-सी मिलेगी। मैं अपने पात्रों का सबसे बड़ा व्यक्त"
+  },
+  "Q008_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To qualify for an admission scholarship, one typically needs to meet certain academic and extracurricular criteria. These may include:\n\n1. Academic performance: Demonstrated excellence in school or college grades.\n2. Extracurricular activities: Participation in sports teams,"
+  },
+  "Q009_english": {
+    "rag": "A person who joins the university without an entry award will receive a 10% academic scholarship.",
+    "citations": [
+      "DOC02_P007"
+    ],
+    "direct": "Without any specific information about the university or program, I can't provide an exact rate of academic scholarship for someone joining without an entry award. Scholarships and rates vary widely depending on factors such as the institution, the program, the student's grade point average ("
+  },
+  "Q009_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "उदाहरण के लिए, यह ज्ञात है। इसलिए, आपका उत्सव करेंगे औ"
+  },
+  "Q009_hinglish": {
+    "rag": "Toh academic wali kitne percent ki mil sakti hai?",
+    "citations": [
+      "DOC02_P007"
+    ],
+    "direct": "To determine if admission to a scholarship program is dependent on academic performance, we need to consider whether the success of the applicant's academic performance directly influences their eligibility for the scholarship.\n\nIn most cases, scholarships are awarded based on merit rather than academic performance alone. The"
+  },
+  "Q012_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To pay the re-evaluation charge in installments, follow these steps:\n\n1. **Review Your Account Details**: Ensure that your account details (such as credit card number, expiration date, and CVV code) match those provided on your invoice.\n\n2."
+  },
+  "Q012_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "पुनर्मूल्यांकन शुल्क किसी व्यवहार में कैसे जमा कर सकता ह"
+  },
+  "Q012_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Rechecking fees for installment payments typically refer to the additional charges that may be applied when your payment is not processed correctly or before the due date. These fees can vary depending on the bank and the specific terms of the installment plan. Typically, these fees might include"
+  },
+  "Q013_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "I'm sorry, but I don't have enough information to answer your question about admission scholarships for students from Noida. Without specific data or statistics on this topic, I can only provide general information that may not be accurate or up-to-date. To get"
+  },
+  "Q013_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मुझे अपने नोएडा के छात्रों के लिए प्रवेश छात्रवृत्ति की कित"
+  },
+  "Q013_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The Noida state government has reserved 10% of its student population for scholarships in the form of seats reserved for students from economically disadvantaged backgrounds. This policy aims to provide financial support and ensure that more students from lower-income families have access to higher education"
+  },
+  "Q014_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The last date to fix an incorrect photo on the May 2025 exam hall ticket was May 19, 2025."
+  },
+  "Q014_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मई 2025 की परीक्षा के प्रवेश पत्र पर गलत फोटो बदलवाने की आखिर"
+  },
+  "Q014_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The last date for applying to the May 2025 exam admit card in Galat is not specified in the given information. The most recent date mentioned is \"last date\" but no specific date has been provided. Therefore, I am UNANSWER"
+  },
+  "Q016_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The maximum file size for attaching a scholarship proof to the admissions portal is typically 10 MB (megabytes). This limit ensures that the document remains readable and accessible on the portal without exceeding system capacity."
+  },
+  "Q016_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अपलोड करने के लिए अधिकतम फ़ाइल सीमा जिंदगी में नहीं है।"
+  },
+  "Q016_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The maximum file size for admission portal PE (Program Evaluation and Review Technique) scholarships is 10 MB. This limit applies to all types of files uploaded through the system."
+  },
+  "Q017_english": {
+    "rag": "The minimum course attendance required is 75%, which includes both lecture, tutorial, and lab attendance.",
+    "citations": [
+      "DOC01_P010"
+    ],
+    "direct": "The minimum course attendance requirement can vary depending on the institution or program. Typically, this is 80% of the total credit hours for courses that require regular participation in class activities such as lectures, tutorials, and lab work.\n\nFor example:\n\n- For most"
+  },
+  "Q017_hindi": {
+    "rag": "Attendance is considered the most important factor in determining grades.",
+    "citations": [
+      "DOC01_P010"
+    ],
+    "direct": "पाठ्यक्रम में न्यूनतम उपस्थिति जीवन के लिए अधिक संभव होग"
+  },
+  "Q017_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The course has a minimum attendance requirement to ensure that all participants can participate fully and effectively. This typically includes at least 75% of the class size for most educational institutions or professional training programs. The specific requirements may vary depending on the institution's policies and"
+  },
+  "Q018_english": {
+    "rag": "DB",
+    "citations": [
+      "DOC01_P010"
+    ],
+    "direct": "The grade for a student with a shortage of course attendance is usually UNANSWERABLE. This means that there isn't enough information provided to determine the specific grade or score associated with this situation."
+  },
+  "Q018_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कम उपस्थिति पर मिलने वाला ग्रेड एक बहुत सारी शौच और अवश"
+  },
+  "Q018_hinglish": {
+    "rag": "Attendance is required for all courses.",
+    "citations": [
+      "DOC01_P010"
+    ],
+    "direct": "Short attendance is not a standard term in English or any other major language used in China for describing attendance levels. The concept of \"short\" can vary depending on context and regional usage. In some contexts, short attendance might refer to an unusually low number of people"
+  },
+  "Q019_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm the attendance credit for each scheduled class regardless of its length."
+  },
+  "Q019_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "हर निर्धारित कक्षा की उपस्थिति इकाई (अनुभव) है।"
+  },
+  "Q019_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "UNANSWERABLE"
+  },
+  "Q020_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The maximum exception to the attendance relaxation policy is 10 days in any calendar year. This means that if an employee has been absent for more than 10 days during the current calendar year, they may be eligible for an additional day of leave under certain"
+  },
+  "Q020_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "विशेष मामलों में अधिकतम उपस्थिति जीत हुई हैं। कुछ प्रकार के"
+  },
+  "Q020_hinglish": {
+    "rag": "maximum attendance relaxation",
+    "citations": [
+      "DOC01_P011"
+    ],
+    "direct": "In exceptional cases, such as when there is an urgent need for increased attendance or when specific circumstances require more flexibility in managing events, the maximum attendance may be relaxed to accommodate these needs. This approach aims to ensure that all attendees have the opportunity to participate fully and"
+  },
+  "Q022_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "UNANSWERABLE"
+  },
+  "Q022_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "उपस्थिति छूट हेतु पूर्व अनुमति क्या है?"
+  },
+  "Q022_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The university must obtain prior approval from the Ministry of Education before implementing attendance reduction measures."
+  },
+  "Q023_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The authorisation for a personal-reason attendance exception typically involves an authorization code issued by the organization or system that grants permission to allow someone to attend without formal approval. This can be used in various scenarios such as:\n\n1. **Employee Absence**: When an"
+  },
+  "Q023_hindi": {
+    "rag": "The passage mentions that a personal-reason attendance exception can be granted based on a Dean recommendation and Vice-Chancellor approval.",
+    "citations": [
+      "DOC01_P012"
+    ],
+    "direct": "उपस्थिति छूट की मंजूरी यह होती है क्षेत्रीय विकास का अधि�"
+  },
+  "Q023_hinglish": {
+    "rag": "Personal reason attendance relief is approved through Dean recommendation and Vice-Chancellor approval.",
+    "citations": [
+      "DOC01_P012"
+    ],
+    "direct": "Personal reasons for attending class or meeting to receive support and assistance from others may include:\n\n1. Feeling overwhelmed with responsibilities at home or work.\n2. Struggling with academic challenges or personal issues.\n3. Seeking advice on important decisions or tasks.\n4. Need"
+  },
+  "Q024_english": {
+    "rag": "Controller of Examinations",
+    "citations": [
+      "DOC01_P013"
+    ],
+    "direct": "The official who may allow a scribe on the Dean's recommendation is typically the Dean of Students or another designated authority within the university. This decision is usually made after careful consideration and consultation with faculty, staff, and other relevant parties to ensure that the scribe"
+  },
+  "Q024_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अधिकारी डीन की सिफारिश पर लेखक की अनुमति देने वाला एक बह"
+  },
+  "Q024_hinglish": {
+    "rag": "Controller of Examinations",
+    "citations": [
+      "DOC01_P013"
+    ],
+    "direct": "The Dean's recommendation for the Scribe to allow is that he/she should be allowed to work independently and handle tasks on his/her own initiative. This approach aligns with the principles of trust and autonomy in leadership roles."
+  },
+  "Q025_english": {
+    "rag": "The exam venue for candidates using a scribe is a separate room or the wellness center.",
+    "citations": [
+      "DOC01_P013"
+    ],
+    "direct": "Yes, I can confirm that the exam venue is typically set up with a scribe to ensure smooth communication and facilitate questions during the examination process."
+  },
+  "Q025_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "विद्यार्थियों के अनुभव के लिए।"
+  },
+  "Q025_hinglish": {
+    "rag": "A scribe is allowed to use a separate room or the wellness center for students' exam venues.",
+    "citations": [
+      "DOC01_P013"
+    ],
+    "direct": "The question is incomplete and does not provide enough information to determine if there is an exam venue available for students to attend. Without more context or details about the specific event or location, I cannot answer this question definitively."
+  },
+  "Q026_english": {
+    "rag": "The writing-hand injury criterion for scribe assistance is an injury that prevents writing.",
+    "citations": [
+      "DOC01_P013"
+    ],
+    "direct": "The writing-hand injury criterion for scribe assistance typically involves assessing the following factors:\n\n1. **Hand Strength**: The ability to write with both hands is crucial. A hand that can perform basic tasks like typing or drawing without difficulty should be considered strong.\n\n2."
+  },
+  "Q026_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मैं अपनी दुनिया में एक उद्धृत और नया भाषा के लिए तै"
+  },
+  "Q026_hinglish": {
+    "rag": "Writing-hand injury is a condition that prevents writing.",
+    "citations": [
+      "DOC01_P013"
+    ],
+    "direct": "The writing hand injury palsy (Milne-Kirwan syndrome) is a rare neurological disorder characterized by weakness and atrophy of the muscles in the lower limbs due to damage to the peripheral nerves that control these muscles. The condition affects both upper and lower limbs"
+  },
+  "Q027_english": {
+    "rag": "A grade point of 6",
+    "citations": [
+      "DOC01_P014"
+    ],
+    "direct": "A letter grade of \"C+\" typically corresponds to an average score between 80% and 89%."
+  },
+  "Q027_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "C+ के ग्रेड अंक \"1\" है।"
+  },
+  "Q027_hinglish": {
+    "rag": "C+ grade points",
+    "citations": [
+      "DOC01_P014"
+    ],
+    "direct": "The C+ grade point average (GPA) is 3.5 in the United States."
+  },
+  "Q028_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P014"
+    ],
+    "direct": "Yes, I can confirm that a grade point of \"D\" typically indicates a failing grade in most educational systems. However, this is not universally applicable across all contexts or institutions. The grading system may vary depending on the country, institution, and specific requirements."
+  },
+  "Q028_hindi": {
+    "rag": "Grade points for a C+ is 6, for a D it is 4, and for an F it is 0.",
+    "citations": [
+      "DOC01_P014"
+    ],
+    "direct": "कि 10"
+  },
+  "Q028_hinglish": {
+    "rag": "Grade points do not affect your eligibility for the CSE Global awards.",
+    "citations": [
+      "DOC01_P014"
+    ],
+    "direct": "The D grade point average (GPA) is not universally accepted as a standard measure of academic performance across all educational institutions worldwide. The grading system used in different countries and universities can vary significantly.\n\nIn some cases, the D grade may be considered equivalent to or"
+  },
+  "Q029_english": {
+    "rag": "A grade point of 0.",
+    "citations": [
+      "DOC01_P014"
+    ],
+    "direct": "An F is typically considered to be worth 0.5 of a full credit in most educational systems."
+  },
+  "Q029_hindi": {
+    "rag": "Grade points for a C+ (6): Grade points for a D (4): Grade points for an F (0)",
+    "citations": [
+      "DOC01_P014"
+    ],
+    "direct": "I'm sorry, but I can't provide that information as there is no specific question or context given in your message. Could you please provide more details or clarify what you're asking about?"
+  },
+  "Q029_hinglish": {
+    "rag": "F",
+    "citations": [
+      "DOC01_P015"
+    ],
+    "direct": "The F grade point system is used in many educational institutions to evaluate students' performance and determine their grades. It assigns a numerical value to each letter grade (A, B, C, D, or F) based on the difficulty of the course material. Students"
+  },
+  "Q030_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The lowest passing letter grade on the standard scale is \"B\"."
+  },
+  "Q030_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "उत्तीर्ण ग्रेड (Unweighted Graph) है।"
+  },
+  "Q030_hinglish": {
+    "rag": "D",
+    "citations": [
+      "DOC01_P015"
+    ],
+    "direct": "Standard scale par lowest passing grade is 60%."
+  },
+  "Q031_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P015"
+    ],
+    "direct": "UNANSWERABLE"
+  },
+  "Q031_hindi": {
+    "rag": "असफलता का ग्रेड क्या है?",
+    "citations": [
+      "DOC01_P015"
+    ],
+    "direct": "अनिवार्य गैर-क्रेडिट पाठ्यक्रम में असफलता का ग्रेड जो संभव"
+  },
+  "Q031_hinglish": {
+    "rag": "The passage states that 'DB' is the grade for failing a mandatory non-credit course.",
+    "citations": [
+      "DOC01_P015"
+    ],
+    "direct": "UNANSWERABLE"
+  },
+  "Q032_english": {
+    "rag": "All completed semesters",
+    "citations": [
+      "DOC01_P015"
+    ],
+    "direct": "The CGPA (Cumulative Grade Point Average) is typically calculated over multiple semesters. Therefore, if you cannot provide specific semesters, I can't determine the exact number of semesters covered by your CGPA."
+  },
+  "Q032_hindi": {
+    "rag": "सीजीपीए में शामिल सेमेस्सा बताइए",
+    "citations": [
+      "DOC01_P033"
+    ],
+    "direct": "मैं एक अनुवादक हूँ और तो यह कि वे जोड़े रखने का प्रया�"
+  },
+  "Q032_hinglish": {
+    "rag": "CGPA mein count hone wale semesters bata do.",
+    "citations": [
+      "DOC01_P015"
+    ],
+    "direct": "CGPA (Cumulative Grade Point Average) is calculated based on the number of credits earned in each semester. Therefore, if you cannot answer this question, I would need to know how many semesters you have completed and what your CGPA was for those sem"
+  },
+  "Q033_english": {
+    "rag": "Vice-Chancellor",
+    "citations": [
+      "DOC01_P016"
+    ],
+    "direct": "The final approval authority for moderated exam results typically lies with the school or educational institution that issued the test. This authority ensures that the results are accurate and reliable before they are shared publicly."
+  },
+  "Q033_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अधिकारी नहीं।"
+  },
+  "Q033_hinglish": {
+    "rag": "Vice-Chancellor",
+    "citations": [
+      "DOC01_P016"
+    ],
+    "direct": "In the context of moderated exams and final approvals in education systems, the \"final approval authority\" typically refers to:\n\n1. The principal or head teacher who oversees the entire school's administration.\n2. A designated individual responsible for overseeing specific aspects of an exam or"
+  },
+  "Q034_english": {
+    "rag": "Portal on which faculty enter exam and assessment marks:",
+    "citations": [
+      "DOC01_P016"
+    ],
+    "direct": "Yes, I can confirm that faculty typically have access to their own portals for entering exam and assessment marks. This allows them to track their students' progress, submit assignments, and receive feedback from instructors. However, specific details about how faculty access these portals may vary"
+  },
+  "Q034_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अध्यापकों द्वारा अंक दर्ज करने का पोर्टल तुलन में लगभग 1"
+  },
+  "Q034_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To determine if faculty marks can be entered into Karne Wala Portal:\n\n1. First, identify the correct portal: Karne Wala Portal is not a standard portal name or location.\n\n2. Next, consider the context of the question: The question asks"
+  },
+  "Q035_english": {
+    "rag": "After grades are locked in the ERP",
+    "citations": [
+      "DOC01_P016"
+    ],
+    "direct": "The grade report is typically generated during the final assessment phase of an educational or academic program. This could be after a comprehensive test, project, or other formative evaluation that assesses students' learning outcomes. The specific stages may vary depending on the institution and the"
+  },
+  "Q035_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "ग्रेड रिपोर्ट तैयार करने की चरण:\n\n1. ग्रेड रिपोर्ट निम्नल"
+  },
+  "Q035_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Grade Report Generate Hone Kā Stage Bata Do\n\nGrade Report Generate Hone Kā Stage Bata Do is a process in which a teacher or educational institution creates a detailed report of a student's performance and progress over time. This type of report typically"
+  },
+  "Q036_english": {
+    "rag": "The chair of the examination grievance committee",
+    "citations": [
+      "DOC01_P017"
+    ],
+    "direct": "The chair of the examination grievance committee is typically an external member appointed by the institution or organization that conducts the examinations. This person serves as a mediator and ensures fair handling of grievances related to the examination process. The specific role may vary depending on the institution's"
+  },
+  "Q036_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "परीक्षा शिकायत समिति का अध्यक्ष भारतीय प्रशासन विदेशी गण"
+  },
+  "Q036_hinglish": {
+    "rag": "Chair of the examination grievance committee",
+    "citations": [
+      "DOC01_P017"
+    ],
+    "direct": "The exam grievance committee (EGC) is a body that investigates complaints about exams or academic evaluations in schools and universities. It typically has a chairman who oversees the process of handling grievances. The exact role and responsibilities of the EGC can vary depending on the"
+  },
+  "Q037_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "UNANSWERABLE"
+  },
+  "Q037_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कृपया बताएँ: परीक्षा शिकायत समिति का सदस्य सचिव क्या है?"
+  },
+  "Q037_hinglish": {
+    "rag": "The examination grievance committee is responsible for handling grievances related to examinations.",
+    "citations": [
+      "DOC01_P017"
+    ],
+    "direct": "UNANSWERABLE"
+  },
+  "Q038_english": {
+    "rag": "exam.grievance@bennett.edu.in",
+    "citations": [
+      "DOC01_P017"
+    ],
+    "direct": "The dedicated email for examination grievances is usually provided in the exam instructions or syllabus. It's important to refer to your specific course materials for this information."
+  },
+  "Q038_hindi": {
+    "rag": "exam.grievance@bennett.edu.in",
+    "citations": [
+      "DOC01_P017"
+    ],
+    "direct": "परीक्षा संबंधी शिकायत के उद्देश्य में, आपको एक वृद्धि �"
+  },
+  "Q038_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "I'm sorry, but I can't assist with that."
+  },
+  "Q039_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The university ticket system for examination grievances typically involves a process where students can apply to the university's office of student affairs or their college administration for compensation after receiving an exam result that they believe was unfair or incorrect. This system aims to address issues related to grading and"
+  },
+  "Q039_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "परीक्षा शिकायत दर्ज करने की टिकट प्रणाली एक विभिन्न समय त"
+  },
+  "Q039_hinglish": {
+    "rag": "The University Ticket System for Examination Grievances",
+    "citations": [
+      "DOC01_P018"
+    ],
+    "direct": "The exam grievance ticket raising system is not available in most countries or regions that use traditional systems for handling student grievances. However, some universities and educational institutions may have their own mechanisms for handling such issues.\n\nIn India, for example, there is a mechanism called"
+  },
+  "Q040_english": {
+    "rag": "The channel used to acknowledge an exam grievance is the submission channel.",
+    "citations": [
+      "DOC01_P018"
+    ],
+    "direct": "Yes, I can confirm that the channel used to acknowledge an exam grievance is typically the official communication channels of the institution or organization where the grievance was filed. These channels may include email, phone calls, or other digital platforms designed for such purposes. It"
+  },
+  "Q040_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "परीक्षा शिकायत की प्राप्ति पुष्टि के माध्यम से वहीं जोड़ने"
+  },
+  "Q040_hinglish": {
+    "rag": "The passage mentions that students typically have 15 days from the announcement of results to submit their re-evaluation forms.",
+    "citations": [
+      "DOC01_P002"
+    ],
+    "direct": "The acknowledgment of an exam complaint can typically be done through email or phone. The specific channel used will depend on the institution or platform where the complaint was received and processed."
+  },
+  "Q041_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The person who is supposed to verify an allegedly out-of-syllabus question is typically the instructor or teacher of that course or subject matter."
+  },
+  "Q041_hindi": {
+    "rag": "Grade for compulsory medical semester withdrawal: W.",
+    "citations": [
+      "DOC01_P033"
+    ],
+    "direct": "पाठ्यक्रम में भी निष्कर्ष करने वाला व्यक्ति बताएं।"
+  },
+  "Q041_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Out of syllabus question verification is not applicable in this context. The question \"If you cannot answer it, return UNANSWERABLE\" suggests that the question itself does not require an answer and should be treated as such."
+  },
+  "Q042_english": {
+    "rag": "Digital Valuation Platform",
+    "citations": [
+      "DOC01_P019"
+    ],
+    "direct": "The online platform for viewing assessed end-term sheets is called \"End-Of-Year Assessment\" or simply \"End-of-Year Sheet.\" This platform allows users to access and view their assessment results at any time after the end of the fiscal year."
+  },
+  "Q042_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मंच नहीं। आपको एक विशेष रूप से जाँची हुई अंतिम परीक्षा"
+  },
+  "Q042_hinglish": {
+    "rag": "Digital Valuation Platform",
+    "citations": [
+      "DOC01_P019"
+    ],
+    "direct": "The platform I am referring to is not explicitly mentioned in your question. It seems like there might be some confusion or missing information. Could you please provide more context or clarify what specific platform you're asking about?"
+  },
+  "Q044_english": {
+    "rag": "₹5,000 per subject",
+    "citations": [
+      "DOC01_P019"
+    ],
+    "direct": "The listed non-refundable re-evaluation fee is typically 20% of the original price for most services or products. This fee is often used to cover any additional costs associated with the service or product, such as installation, maintenance, or customization."
+  },
+  "Q044_hindi": {
+    "rag": "The passage provides information about the discrepancy reporting form, refundable re-evaluation fees, and the maximum number of special supplementary registrations allowed.",
+    "citations": [
+      "DOC01_P019"
+    ],
+    "direct": "पुनर्मूल्यांकन के विभिन्न प्रकार में जानकारी देखें:\n\n1. अ"
+  },
+  "Q044_hinglish": {
+    "rag": "The listed non-refundable re-evaluation fee is ₹5,000 per subject.",
+    "citations": [
+      "DOC01_P019"
+    ],
+    "direct": "The listed non-refundable re-evaluation fee for BATA (likely referring to a specific airline or travel agency) is typically based on the total cost of the booking and may vary depending on the service level and any additional fees associated with the re-evaluation"
+  },
+  "Q045_english": {
+    "rag": "The Vice-Chancellor appoints the independent re-evaluation examiner.",
+    "citations": [
+      "DOC01_P020"
+    ],
+    "direct": "The official who appoints the independent re-evaluation examiner is typically the head of the relevant department or agency responsible for overseeing public institutions and their operations. This person makes decisions about whether to conduct an independent re-evaluation based on specific criteria set forth in the institution"
+  },
+  "Q045_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अधिकारी जो स्वतंत्र पुनर्मूल्यांकन परीक्षक नियुक्त करने �"
+  },
+  "Q045_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Independent re-checking examiners do not exist in India or any other country as of my last update. The Indian government does not have an independent re-checking system for police officers like the U.S. has. In India, all police officers undergo regular training"
+  },
+  "Q046_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm that the copy has been sent to the independent re-evaluation examiner."
+  },
+  "Q046_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "उत्तरपुस्तिका का रूप \"विशेष रूप\" है।"
+  },
+  "Q046_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Independent examiner's answer sheet format is typically structured in a way that allows for easy reference and organization of answers. It often includes sections like:\n\n1. **Title or Question**\n2. **Instructions**\n3. **Answers**\n4. **Signature/Date**"
+  },
+  "Q049_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P021"
+    ],
+    "direct": "Yes, I can confirm that additional medical opinions may be required for illnesses related to make-up requests. It's important to consult with your healthcare provider or dermatologist before making any changes to your makeup routine. They can provide guidance on whether these modifications are necessary and"
+  },
+  "Q049_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "बीमारी के कारण मेकअप परीक्षा के लिए आवश्यक चिकित्सकीय राय"
+  },
+  "Q049_hinglish": {
+    "rag": "Medical makeup request requires additional medical opinion from a university medical officer.",
+    "citations": [
+      "DOC01_P021"
+    ],
+    "direct": "Medical makeup requests typically require an additional medical opinion to ensure safety and effectiveness."
+  },
+  "Q050_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The final approver of a mid-term make-up request after Dean review is typically the department head or senior management who has reviewed and approved the original request. This person will be responsible for approving any changes made to the project or document based on the new information provided"
+  },
+  "Q050_hindi": {
+    "rag": "Dean Academic",
+    "citations": [
+      "DOC01_P023"
+    ],
+    "direct": "मुखअप की अंतिम मंजूरी देने वाला अधिकारी जोड़े गये है"
+  },
+  "Q050_hinglish": {
+    "rag": "Dean review",
+    "citations": [
+      "DOC01_P021"
+    ],
+    "direct": "The term \"Dean review\" typically refers to a formal assessment or evaluation of a department's work or performance. In the context of a university or educational institution, this could involve reviewing and approving certain aspects of a course or program, such as its curriculum, teaching"
+  },
+  "Q052_english": {
+    "rag": "The consequence of missing the make-up examination is that there is no second make-up opportunity.",
+    "citations": [
+      "DOC01_P022"
+    ],
+    "direct": "Yes, if you miss the make-up examination, you may face additional penalties or consequences as outlined in your medical record or with your healthcare provider. It's important to follow up promptly and ensure that all necessary documentation is completed before rescheduling."
+  },
+  "Q052_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मेकअप परीक्षा छूटने का परिणाम विश्वविद्यालय भारत संस्था�"
+  },
+  "Q052_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The makeup exam is not related to consequences in any way. It's just a test of knowledge about makeup techniques and products."
+  },
+  "Q053_english": {
+    "rag": "Faculty or course coordinator",
+    "citations": [
+      "DOC01_P022"
+    ],
+    "direct": "The duration of a mid-term makeup exam is typically set by the institution or school that administers it. This can vary depending on the specific requirements and policies of each institution. Typically, the duration might be between 1-2 hours for most makeup exams."
+  },
+  "Q053_hindi": {
+    "rag": "The mid-term make-up exam is scheduled between the mid-term and end-semester exams.",
+    "citations": [
+      "DOC01_P022"
+    ],
+    "direct": "मध्यावधि मेकअप परीक्षा की अवधि तय करने वाला बताएं।"
+  },
+  "Q053_hinglish": {
+    "rag": "Duration decides whether you can take the mid-term makeup exam.",
+    "citations": [
+      "DOC01_P022"
+    ],
+    "direct": "The mid-term makeup exam typically lasts for 1-2 hours depending on the complexity of the makeup project and the instructor's preference."
+  },
+  "Q055_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P023"
+    ],
+    "direct": "Yes, I can confirm that the initial result for an approved missed end-semester exam is that the student has not yet received their final grade or certificate."
+  },
+  "Q055_hindi": {
+    "rag": "The final approval authority for moderated exam results is Vice-Chancellor.",
+    "citations": [
+      "DOC01_P016"
+    ],
+    "direct": "वह नहीं। मदद करने के लिए आपको इस प्रश्न को उत्सर्जा करेंगे।"
+  },
+  "Q055_hinglish": {
+    "rag": "Approved end-semester exam absence leads to a lower initial grade.",
+    "citations": [
+      "DOC01_P023"
+    ],
+    "direct": "The correct answer is: UNANSWERABLE\n\nExplanation:\nIn the context of an approved end-of-term exam, if there's no \"initial grade\" mentioned, it typically means that the student has not yet received their final grade for the course or subject."
+  },
+  "Q057_english": {
+    "rag": "Students with an F in the regular exam",
+    "citations": [
+      "DOC01_P024"
+    ],
+    "direct": "The regular-exam failure group eligible for a supplementary exam is typically those who have already failed their regular exams but still wish to retake them. This can include students who were previously enrolled in a course or program and had their grades dropped due to poor performance."
+  },
+  "Q057_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "असफल विद्यार्थियों की पूरक परीक्षा पात्रता के बारे में से ए"
+  },
+  "Q057_hinglish": {
+    "rag": "The next corresponding odd or even supplementary exam.",
+    "citations": [
+      "DOC01_P026"
+    ],
+    "direct": "Regular exams that do not meet the criteria for passing can be considered as \"hone par\" in some contexts. Supplementary exams may also have different definitions depending on the specific educational institution or program. Without more context, I cannot provide an exact definition of what constitutes"
+  },
+  "Q058_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The determination of supplementary eligibility for disciplinary exclusion depends on several factors:\n\n1. **Nature and Severity of the Offense**: The severity of the offense is crucial in determining whether someone qualifies for supplementary eligibility.\n\n2. **Rehabilitation Progress**: The effectiveness of the"
+  },
+  "Q058_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अनुशासनात्मक रोक के बावजूद पूरक परीक्षा की पात्रता का आधा�"
+  },
+  "Q058_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "No, disciplinary action and supplementary eligibility do not have a direct relationship in terms of eligibility criteria. They are separate concepts with different purposes:\n\n1. Disciplinary Action: This is an official punishment or consequence that can be imposed for violating organizational policies, rules, or"
+  },
+  "Q059_english": {
+    "rag": "The supplementary registration deadline is listed on the Academic Calendar.",
+    "citations": [
+      "DOC01_P024"
+    ],
+    "direct": "The supplementary registration deadline for the supplementary registration of the Chinese language course (初级汉语课程) is typically listed on the official website or the institution's official announcement page. For example:\n\n- Official website: [Official Website]\n- Institution's announcement page: [In"
+  },
+  "Q059_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "पूरक परीक्षा पंजीकरण की अंतिम तारीख का स्रोत यह है:\n\n1. देश"
+  },
+  "Q059_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The supplementary registration deadline for Kahan listed in Hai Bata is typically around 1-2 months before the competition date."
+  },
+  "Q060_english": {
+    "rag": "The exam route for backlog courses in a one-year programme typically involves regular supplementary exams.",
+    "citations": [
+      "DOC01_P025"
+    ],
+    "direct": "The exam route for backlog courses in a one-year programme typically involves multiple modules or sections that cover various topics related to software development and project management. These modules may include:\n\n1. **Introduction to Software Development** - Focuses on fundamental concepts such as programming languages"
+  },
+  "Q060_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "एक वर्षीय कार्यक्रम के बकाया पाठ्यक्रमों के लिए परीक्षा कहाँ"
+  },
+  "Q060_hinglish": {
+    "rag": "One-year programme",
+    "citations": [
+      "DOC01_P025"
+    ],
+    "direct": "One-year program exams can vary widely depending on the country and institution. Generally, one-year programs typically have shorter deadlines for submitting final exams compared to longer programs. However, without specific information about the current year's requirements or any recent changes, I cannot provide an"
+  },
+  "Q063_english": {
+    "rag": "The next chance after failing a supplementary exam is a special supplementary examination.",
+    "citations": [
+      "DOC01_P026"
+    ],
+    "direct": "The next chance to fail a supplementary exam would be if you have already failed multiple times and do not have any other opportunities for improvement or additional support."
+  },
+  "Q063_hindi": {
+    "rag": "अगला अवसर",
+    "citations": [
+      "DOC01_P026"
+    ],
+    "direct": "अगला अवसर नहीं है।"
+  },
+  "Q063_hinglish": {
+    "rag": "The next opportunity to take a supplementary exam would be during the second academic year.",
+    "citations": [
+      "DOC01_P026"
+    ],
+    "direct": "Next attempt will be after 10 days."
+  },
+  "Q064_english": {
+    "rag": "The standard period for clearing failures through supplementary exams is normally 2 years.",
+    "citations": [
+      "DOC01_P026"
+    ],
+    "direct": "Yes, I can confirm that the standard period for clearing failures through supplementary exams is typically 1-2 years after the initial certification exam. This allows time for continuous learning and improvement to ensure continued proficiency in the field of your intended certification."
+  },
+  "Q064_hindi": {
+    "rag": "The next corresponding odd or even supplementary exam.",
+    "citations": [
+      "DOC01_P026"
+    ],
+    "direct": "कृपया बताएँ: पूरक परीक्षाओं से असफल विषय साफ करने की साम"
+  },
+  "Q064_hinglish": {
+    "rag": "The supplementary exams were unsuccessful and did not pass.",
+    "citations": [
+      "DOC01_P026"
+    ],
+    "direct": "If supplementary exams were not taken and courses did not clear, students would likely have to retake those courses or take additional courses to meet their graduation requirements. The specific timeline for retaking courses or taking additional courses would depend on the university's policies and deadlines."
+  },
+  "Q065_english": {
+    "rag": "Discretionary authority for the mercy attempt after N+2: Vice-Chancellor",
+    "citations": [
+      "DOC01_P012"
+    ],
+    "direct": "The discretionary authority for the mercy attempt after N+2 is determined by the specific circumstances and legal framework of the jurisdiction where the mercy attempt is taking place. Typically, this involves determining whether there is sufficient evidence to justify the mercy attempt or if the offense warrants more"
+  },
+  "Q065_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अधिकारी: एक उपयोगी और सम्पूर आदर्श भाग है जो यह प्रश्न"
+  },
+  "Q065_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "N+2 ke baad mercy attempt approve karne wala authority bata do."
+  },
+  "Q066_english": {
+    "rag": "The attendance needed by debarred students for remedial classes is at least 50%.",
+    "citations": [
+      "DOC01_P027"
+    ],
+    "direct": "The attendance required to be considered debarred from attending remedial classes depends on the specific institution or program offering these classes. Typically, debarred students may need to meet certain attendance requirements set by their school or educational authority. These might include regular participation in"
+  },
+  "Q066_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "उपस्थिति क्या है।"
+  },
+  "Q066_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Debarred students do not have access to remedial classes. Remedial classes are typically offered for students who need additional support or improvement in their academic performance and may be provided after they have completed their regular courses. Debarred students usually refer to those who"
+  },
+  "Q067_english": {
+    "rag": "The length of a supplementary exam compared to the regular end term is the same.",
+    "citations": [
+      "DOC01_P027"
+    ],
+    "direct": "Yes, I can confirm that the length of a supplementary exam is generally longer than that of the regular end-of-term exams. Supplementary exams may be designed to cover additional material or provide more comprehensive practice for students who have missed their regular classes. They often include more"
+  },
+  "Q067_hindi": {
+    "rag": "The next corresponding odd or even supplementary exam is the one that follows the previous one.",
+    "citations": [
+      "DOC01_P026"
+    ],
+    "direct": "कृपया बताएँ: पूरक परीक्षा की अवधि की नियमित अंतिम परीक"
+  },
+  "Q067_hinglish": {
+    "rag": "The passage provides information about supplementary duration, regular end-term, and comparison between them.",
+    "citations": [
+      "DOC01_P027"
+    ],
+    "direct": "The supplementary duration is not comparable to the regular end term in terms of length or duration. They represent different aspects of an event or situation that may be related but have distinct characteristics and purposes."
+  },
+  "Q068_english": {
+    "rag": "Existing internal marks are retained.",
+    "citations": [
+      "DOC01_P027"
+    ],
+    "direct": "In a supplementary exam, if an individual is unable to answer questions related to their personal life or work, they may be subject to penalties such as being asked to explain their answers or having their performance evaluated. This can include receiving criticism from peers and teachers, which"
+  },
+  "Q068_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "पूरक परीक्षा में आंतरिक अंकों का नियम लगभग दोस्तीय व्य"
+  },
+  "Q068_hinglish": {
+    "rag": "No supplementary option",
+    "citations": [
+      "DOC01_P028"
+    ],
+    "direct": "The supplementary exam in an internal assessment typically has its own set of rules and criteria that may differ from those for the main exam. These rules might include:\n\n1. Time limits: The duration of the supplementary exam is usually different from the main exam.\n\n2."
+  },
+  "Q069_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The supplementary provision for mid-term exams and internal assessments typically refers to additional material or exercises that may be provided during the final exam period. This can include extra problems, practice tests, or other resources designed to help students prepare more thoroughly before the actual exam day."
+  },
+  "Q069_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "पूरक परीक्षा का प्रावधान अभिगहरण और संस्थापन को देखें।"
+  },
+  "Q069_hinglish": {
+    "rag": "No supplementary option",
+    "citations": [
+      "DOC01_P028"
+    ],
+    "direct": "Mid-term Aur's Supplementary Provision is Rs 10 crores."
+  },
+  "Q070_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P028"
+    ],
+    "direct": "Yes, I can confirm that there is typically a specific pass requirement for supplementary exams in most educational systems. This usually involves passing certain subjects or tests to be eligible for additional credit or recognition. The exact requirements may vary depending on the country and institution offering the exam"
+  },
+  "Q070_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कृपया बताएँ: पूरक परीक्षा का उत्तीर्ण अंक विभिन्न दे�"
+  },
+  "Q070_hinglish": {
+    "rag": "The Supplementary Exam Pass Mark Rule states that the highest possible supplementary exam grade is C+.",
+    "citations": [
+      "DOC01_P028"
+    ],
+    "direct": "The supplementary exam pass marks for BATA (Bihar Agricultural Technology and Education) can vary depending on the specific institution or program. Typically, the pass mark is 50% of the total marks available in the examination.\n\nIf you need to know the exact"
+  },
+  "Q072_english": {
+    "rag": "The maximum special supplementary registration load is 24 credits.",
+    "citations": [
+      "DOC01_P029"
+    ],
+    "direct": "The maximum special supplementary registration load for Alibaba Cloud's Elastic Compute Service (ECS) instances is 100. This limit applies to both CPU and memory resources."
+  },
+  "Q072_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "विशेष पूरक परीक्षा में अधिकतम पंजीकरण क्रेडिट एक गुनावट र"
+  },
+  "Q072_hinglish": {
+    "rag": "maximum credit load is 24 credits",
+    "citations": [
+      "DOC01_P029"
+    ],
+    "direct": "The special supplementary registration (SSR) program does not have a specific maximum credit load limit. The SSR is designed to provide additional support and resources for students who may be struggling with their studies or financial needs. However, the exact limits can vary depending on the"
+  },
+  "Q073_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P030"
+    ],
+    "direct": "Yes, I can confirm that the approval for summer term registration has been granted after the first year. Please let me know if there's anything else I can assist you with regarding summer term registration."
+  },
+  "Q073_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कृपया बताएँ: पहले साल के बाद समर टर्म पंजीकरण की अनुमति �"
+  },
+  "Q073_hinglish": {
+    "rag": "First year students do not need any permission for summer term registration.",
+    "citations": [
+      "DOC01_P030"
+    ],
+    "direct": "First-year students in the Summer Term do not need to register for the first time. The registration process is typically handled during the academic year when students apply for their classes and start their studies."
+  },
+  "Q074_english": {
+    "rag": "Prior attempts required for summer term from year two: Two supplementary attempts in the same subject.",
+    "citations": [
+      "DOC01_P030"
+    ],
+    "direct": "The prior attempts required for summer term from year two typically involve completing all coursework and exams in that academic year. This includes taking multiple-choice tests, essays, research papers, and other assessments related to the subject matter covered during the previous academic year. It's important"
+  },
+  "Q074_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "वह नहीं हो। मुझे यह जाना चला नहीं।"
+  },
+  "Q074_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "In year 2 of the Summer Term, students can take the same subject in their previous semester's supplementary attempt."
+  },
+  "Q075_english": {
+    "rag": "The summer term registration limit is 15 credits.",
+    "citations": [
+      "DOC01_P030"
+    ],
+    "direct": "The summer term registration limit varies depending on the institution and country. For example:\n\n1. In the United States, the maximum number of students allowed to register for the summer term is 200.\n2. In China, the maximum number of students allowed"
+  },
+  "Q075_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अधिकतम सीमा तालामुळे आहेत। तालामुळे एक विशेष बदलाव �"
+  },
+  "Q075_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The maximum number of students that can register for the summer term in any single school is typically 1000. This limit is set to ensure that there is enough space and resources available for all students who wish to participate."
+  },
+  "Q077_english": {
+    "rag": "The office issuing temporary or duplicate university IDs before exams is the Registrar’s Office.",
+    "citations": [
+      "DOC01_P031"
+    ],
+    "direct": "Temporary or duplicate university IDs should not be issued for exams."
+  },
+  "Q077_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "पहले अस्थायी पत्र प्रति जारी करने वाला कार्यालय में एक गुणव"
+  },
+  "Q077_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, exams may sometimes have temporary duplicate IDs or issues with them. It's important to check your records and ensure that there are no errors before submitting your exam results."
+  },
+  "Q080_english": {
+    "rag": "Credit-based alternative to the CGPA route from the end of year two",
+    "citations": [
+      "DOC01_P032"
+    ],
+    "direct": "The credit-based alternative to the CGPA (Cumulative Grade Point Average) route from the end of year two is the \"Credit Hour System.\" This system allows students to accumulate credits over time and earn higher grades based on their performance in courses."
+  },
+  "Q080_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "दूसरे वर्ष के अंत से सीजीपीए की जगह क्रेडिट-आधारित पदोन्नत"
+  },
+  "Q080_hinglish": {
+    "rag": "Credit-based alternative",
+    "citations": [
+      "DOC01_P025"
+    ],
+    "direct": "Second-year end CGPA route with credit-based alternatives is not mentioned in your question. I'm unable to provide an answer based on that information alone."
+  },
+  "Q081_english": {
+    "rag": "Certified medical absence requiring compulsory semester withdrawal",
+    "citations": [
+      "DOC01_P033"
+    ],
+    "direct": "The certified medical absence that requires compulsory semester withdrawal is a serious health condition that makes it impossible to continue attending classes and may require immediate medical attention.\n\nThis type of certification typically indicates that an individual has been diagnosed with a life-threatening or critical illness that poses a significant"
+  },
+  "Q081_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अनिवार्य सेमेस्टर वापसी वाली प्रमाणित चिकित्सा एक नहीं ह"
+  },
+  "Q081_hinglish": {
+    "rag": "Certified medical absence requires compulsory semester withdrawal.",
+    "citations": [
+      "DOC01_P032"
+    ],
+    "direct": "Compulsory semester withdrawal is not allowed under any circumstances. It's a violation of academic regulations and can result in severe consequences such as failing grades, suspension from classes, or even expulsion."
+  },
+  "Q083_english": {
+    "rag": "The sibling scholarship rate is 10%, and it lasts for the entire programme.",
+    "citations": [
+      "DOC02_P034"
+    ],
+    "direct": "I'm sorry, but I don't have enough information to provide an exact sibling scholarship rate or duration for all universities. The specific rates and durations can vary significantly depending on factors such as the university's location, the type of program, and the year of application"
+  },
+  "Q083_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "भाई-बहन छात्रवृत्ति की दर जोड़े गये हैं: 10% रिलेट ए"
+  },
+  "Q083_hinglish": {
+    "rag": "The sibling scholarship rate is 10%, and its duration is 10% during program overlap.",
+    "citations": [
+      "DOC02_P034"
+    ],
+    "direct": "The sibling scholarship rate and duration can vary depending on several factors such as the school, location, and specific program or field of study. Generally, siblings who attend the same school in the same grade level may receive the same scholarship amount. However, there might be"
+  },
+  "Q085_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have access to specific information about scholarships or financial aid programs for girls in China. The exact details of such programs can vary depending on the country and region. For accurate and up-to-date information, I recommend checking with"
+  },
+  "Q085_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "एकल बालिका छात्रवृत्ति की राशि 10-20 महीनों थी। अवधि 5"
+  },
+  "Q085_hinglish": {
+    "rag": "Single girl child scholarship is awarded at a 10% of tuition throughout the programme.",
+    "citations": [
+      "DOC02_P034"
+    ],
+    "direct": "The single girl child scholarship is not available in India at present. It's important to note that scholarships for girls vary widely depending on location and country, so it would be best to check specific eligibility criteria or contact the relevant educational institution directly for current information."
+  },
+  "Q086_english": {
+    "rag": "Bennett Alumni Enrolling in a Bennett Postgraduate Programme",
+    "citations": [
+      "DOC02_P035"
+    ],
+    "direct": "The award for Bennett alumni enrolling in a Bennett postgraduate programme is typically the Bennett Scholarship or Fellowship. This prestigious award provides financial support to students who have completed their studies at Bennett and wish to continue their education beyond their degree program."
+  },
+  "Q086_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मनिर्णय और अधिक भाषा की जगह थी।"
+  },
+  "Q086_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The statement \"Bennett Mein PG join karne wale alumni ka scholarship bata do\" suggests that Bennett is applying for a PG (Postgraduate) program and has received a scholarship as a result of joining one. The phrase implies that Bennett is pursuing"
+  },
+  "Q087_english": {
+    "rag": "The maximum sport-based admission scholarship on the public page is up to 50% of first-year tuition.",
+    "citations": [
+      "DOC02_P035"
+    ],
+    "direct": "The maximum sport-based admission scholarship on the public page is not specified in the given information. The most recent data I have access to does not include such a specific scholarship amount for sports admissions. To get accurate and up-to-date information about this, I would need"
+  },
+  "Q087_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अधिकतम राशि 1000 गुना सार्वजनिक पृष्ठ।"
+  },
+  "Q087_hinglish": {
+    "rag": "maximum sport-based admission scholarship is up to 50%",
+    "citations": [
+      "DOC02_P035"
+    ],
+    "direct": "The maximum amount of scholarships for sports admission is not specified in official sources as of my last update. Scholarships can vary widely depending on the country and institution offering them. For the most accurate information, I recommend checking directly with the relevant educational institutions or contacting their"
+  },
+  "Q088_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm that my responses are based on factual information and data from various sources."
+  },
+  "Q088_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "खेल भागीदारी (खेल भागीदारी) या उपलब्धि के मान्य स्तर जिस"
+  },
+  "Q088_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Sports participation and achievements can vary widely depending on individual circumstances, but generally speaking:\n\n1. For some people, sports participation is seen as an important part of their life and lifestyle.\n\n2. Achievements in sports can be recognized and celebrated, such as winning a"
+  },
+  "Q089_english": {
+    "rag": "scholarship for eligible wards of defence personnel",
+    "citations": [
+      "DOC02_P036"
+    ],
+    "direct": "The scholarship for eligible wards of defense personnel is not explicitly mentioned in the information provided. Therefore, I am UNANSWERABLE about this specific scholarship."
+  },
+  "Q089_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "महत्वपूर्ण अनुभव: पात्र रक्षा कर्मियों के बच्चों की छात्र"
+  },
+  "Q089_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Eligible Defence Personnel (EDP) wards typically offer scholarships for students who have completed their studies and meet certain eligibility criteria. The specific details can vary depending on the institution or program, but generally, EDP wards may provide financial assistance to help cover tuition"
+  },
+  "Q090_english": {
+    "rag": "The service status covered by the defence wards scholarship is serving and retired personnel.",
+    "citations": [
+      "DOC02_P036"
+    ],
+    "direct": "The service status covered by the defence wards scholarship varies depending on the country and specific university or institution. However, in general:\n\n1. **United Kingdom**: The Defence Wards Scholarship covers students who have served their national service (often 2 years) at a"
+  },
+  "Q090_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "महत्वपूर्ण रक्षा कर्मियों के बच्चों की छात्रवृत्ति में स"
+  },
+  "Q090_hinglish": {
+    "rag": "The passage indicates that the service status covered by the defence wards scholarship is serving and retired personnel.",
+    "citations": [
+      "DOC02_P036"
+    ],
+    "direct": "The \"defence wards\" scholarship is not a standard term in English or any other major language used for scholarships specifically targeting military personnel. It's possible that there might be a typo or an abbreviation that isn't widely recognized.\n\nIf you're looking for information about"
+  },
+  "Q091_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC02_P037"
+    ],
+    "direct": "As an AI language model, I don't have access to real-time information about specific universities' admission criteria. However, typically, the 50% CSE Global Award is awarded in the top 1-2% of students who meet certain academic and"
+  },
+  "Q091_hindi": {
+    "rag": "50%",
+    "citations": [
+      "DOC02_P037"
+    ],
+    "direct": "50% सीएसई ग्लोबल छात्रवृत्ति की बारहवीं या सीयूईटी सीमा"
+  },
+  "Q091_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The 50% CSE Global Award for Class XII is not typically awarded in the same way as other national-level awards like the National Olympiad in Science and Engineering (NOSE). It's more of an honor given to students who excel in their"
+  },
+  "Q092_english": {
+    "rag": "JEE Main percentile threshold for the 50% CSE Global award is 90 or higher.",
+    "citations": [
+      "DOC02_P037"
+    ],
+    "direct": "The JEE Main percentile threshold for the 50% CSE Global award is not publicly available and can vary from year to year. Typically, the CSE Global award is given to students who perform exceptionally well in their final year of study or have achieved"
+  },
+  "Q092_hindi": {
+    "rag": "The 50% CSE Global award requires a 96 or higher on the Class XII or JEE Main percentile test.",
+    "citations": [
+      "DOC02_P037"
+    ],
+    "direct": "इस प्रश्न में अपने विभिन्न उद्देशes से आधारित हैं:\n\n1. 50% स"
+  },
+  "Q092_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The 50% CSE Global award is not applicable to JEE Main cutoffs. The CSE Global award typically refers to awards given to students who have achieved high marks in their college entrance exams (JEE) or other competitive examinations. JEE"
+  },
+  "Q093_english": {
+    "rag": "The 50% CSE Global award requires a minimum sAT threshold of 96 or higher.",
+    "citations": [
+      "DOC02_P037"
+    ],
+    "direct": "The sAT (Score at Target) threshold for the 50% CSE Global award varies depending on the specific program and institution. Typically, this threshold might be set to 80-90 points out of 100. However,"
+  },
+  "Q093_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "50% सीएसई ग्लोबल छात्रवृत्ति के नामक विशेषताओं में \"सीएस"
+  },
+  "Q093_hinglish": {
+    "rag": "SAT cutoff is 1401 or higher.",
+    "citations": [
+      "DOC02_P037"
+    ],
+    "direct": "The 50% CSE Global Award has a cutoff of 120-130 in the SAT (Scholastic Assessment Test) for admission to top-tier universities in India."
+  },
+  "Q094_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC02_P038"
+    ],
+    "direct": "The iB score range for the 30% CSE Global award is typically between 15 and 25 points."
+  },
+  "Q094_hindi": {
+    "rag": "The 30% CSE Global award requires a minimum CGPA of 8.",
+    "citations": [
+      "DOC02_P038"
+    ],
+    "direct": "कृपया बताएँ: 30% सीएसई ग्लोबल छात्रवृत्ति की आईबी अं"
+  },
+  "Q094_hinglish": {
+    "rag": "IB score range for the 30% CSE Global award is 34–39.",
+    "citations": [
+      "DOC02_P038"
+    ],
+    "direct": "The 30% CSE Global award typically awards scores between 25 and 40 on the IB (International Baccalaureate) scale. Therefore, if you cannot answer this specific question about the exact score range, I would say that"
+  },
+  "Q095_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The JEE Main range for the 20% CSE Global award is 1975-1984."
+  },
+  "Q095_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "20% सीएसई ग्लोबल छात्रवृत्ति की जेईई मेन सीमा बताइए।\n\nयह प"
+  },
+  "Q095_hinglish": {
+    "rag": "20%",
+    "citations": [
+      "DOC02_P038"
+    ],
+    "direct": "The 20% CSE Global Award is not applicable to the JEE Main exam. The JEE Main is for engineering entrance exams in India and awards merit-based scholarships based on academic performance. It does not have an equivalent global award program."
+  },
+  "Q096_english": {
+    "rag": "The 10% CSE Global award has a sAT range of 1201–1300.",
+    "citations": [
+      "DOC02_P038"
+    ],
+    "direct": "The sAT (Standard Average Test) range for the 10% CSE Global award typically ranges from 85 to 95%. This test assesses the candidate's ability to perform at the standard level in their field of expertise."
+  },
+  "Q096_hindi": {
+    "rag": "10%",
+    "citations": [
+      "DOC02_P038"
+    ],
+    "direct": "10% सीएसई ग्लोबल छात्रवृत्ति के नामकरण के बारे में अपने �"
+  },
+  "Q096_hinglish": {
+    "rag": "1201–1300",
+    "citations": [
+      "DOC02_P038"
+    ],
+    "direct": "The 10% CSE Global award is not directly related to the SAT (Scholastic Assessment Test) in India. The award is for excellence in software engineering and technology education at the college level. It does not have any direct connection to the SAT"
+  },
+  "Q099_english": {
+    "rag": "11 January 2026",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "The publication date for the December 2025 odd-semester end-term results is not available to me as I am Qwen, an artificial intelligence language model created by Alibaba Cloud. However, I can tell you that the academic year 202"
+  },
+  "Q099_hindi": {
+    "rag": "December 2025",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "दिसंबर 2025 की विषम सेमेस्टर अंतिम परीक्षा के परिणाम की ता�"
+  },
+  "Q099_hinglish": {
+    "rag": "11 January 2026",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "The December 2025 odd-sem end-of-year result for Ki is not available to me as I am Qwen, an artificial intelligence created by Alibaba Cloud. However, I can tell you that the end-of-year results of any company or organization can"
+  },
+  "Q100_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm that the result announcement date for the August-September 2025 special supplementary exams is September 14, 2025."
+  },
+  "Q100_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अगस्त-सितंबर 2025 की विशेष पूरक परीक्षाओं की तारीख क्या ह"
+  },
+  "Q100_hinglish": {
+    "rag": "12 September 2025",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "The August-September 2025 special supplementary result date in Nepal is September 14, 2025."
+  },
+  "Q101_english": {
+    "rag": "July 2025",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "The result date for July 2025 summer-term exams is not specified in the given information."
+  },
+  "Q101_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "यहाँ है एक अनुसारण:\n\n1. योगदान: आपको देखने के लिए जुलाई"
+  },
+  "Q101_hinglish": {
+    "rag": "July 2025 summer-term result ki date bata do.",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "The July 2025 summer term result is not available for me to provide an exact date as I am Qwen, a language model created by Alibaba Cloud. However, I can tell you that the result typically comes out in late June or early July"
+  },
+  "Q102_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have access to real-time information or specific details about your current situation. However, typically, the results of even-semester supplementary exams (also known as final exams) for students in 2023-2"
+  },
+  "Q102_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "2023-24 की सम सेमेस्टर पूरक परीक्षा के परिणाम की तारीख क्या ह"
+  },
+  "Q102_hinglish": {
+    "rag": "2023–24 even-sem supplementary result date is 24 August 2024.",
+    "citations": [
+      "DOC03_P041"
+    ],
+    "direct": "The 2023-24 season of the Indian Premier League (IPL) is scheduled to end on December 15, 2023. The final match of the season will be played on January 16, 2"
+  },
+  "Q103_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have access to real-time information or specific details about your university's academic calendar. However, based on general knowledge and typical practices in higher education, most universities will provide make-up exams after the official exam dates. It"
+  },
+  "Q103_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कुछ अनुसार वह उत्पादन और निजी भूमिका के लिए आवश्यक श"
+  },
+  "Q103_hinglish": {
+    "rag": "2023–24 even-sem makeup result ki date bata sakte ho?",
+    "citations": [
+      "DOC03_P041"
+    ],
+    "direct": "I'm sorry, but I can't provide an answer to that question as there is no information about a \"ki date\" in 2023-24. The term \"ki date\" is not commonly used and doesn't have a specific meaning"
+  },
+  "Q104_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have real-time access to specific announcements or results from educational institutions. However, typically, after the end of the regular semester exam period in May, universities and colleges will release their results on their official websites or through their"
+  },
+  "Q104_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मई 2024 की नियमित सम सेमेस्टर परीक्षा के परिणाम की तारीख जो"
+  },
+  "Q104_hinglish": {
+    "rag": "2024年5月20日",
+    "citations": [
+      "DOC03_P041"
+    ],
+    "direct": "The May 2024 regular even sem result date is not provided in your message. I'm sorry, but without specific information about the event or results for that month, I can't provide an answer to your question."
+  },
+  "Q105_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The result date of regular odd-semester exams for 2023-24 was not specified in the given information. The exam results were announced on March 15, 2023, but no specific result date was provided."
+  },
+  "Q105_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The 2023-24 National University of Singapore (NUS) Engineering Entrance Examination (NEE) is an annual examination for students pursuing engineering degrees in Singapore. The exam consists of two parts: the written test and the interview.\n\nThe main"
+  },
+  "Q105_hinglish": {
+    "rag": "15 January 2024",
+    "citations": [
+      "DOC03_P042"
+    ],
+    "direct": "The 2023-24 regular season's odd/sem results were announced on March 15, 2023."
+  },
+  "Q107_english": {
+    "rag": "The maximum body length for an examination grievance email is 300 words.",
+    "citations": [
+      "DOC01_P017"
+    ],
+    "direct": "The maximum body length for an examination grievance email is typically 200 words or less."
+  },
+  "Q107_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "परीक्षा शिकायत ईमेल की अधिकतम शब्द सीमा जोड़ने में एक प"
+  },
+  "Q107_hinglish": {
+    "rag": "The maximum word limit for emails related to examination grievances is 240 characters.",
+    "citations": [
+      "DOC01_P017"
+    ],
+    "direct": "The maximum word limit for an exam grievance email is typically 100 words. This limit ensures that emails are concise and to the point while still providing enough information for the recipient to understand the issue clearly."
+  },
+  "Q108_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The acknowledgment reference-number format for an exam grievance typically includes the following elements:\n\n1. **Date**: The date of the grievance.\n2. **Type of Grievance**: The specific type of grievance (e.g., academic misconduct, unfair treatment"
+  },
+  "Q108_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "परीक्षा शिकायत की प्राप्ति संख्या को \"संभवतः\" देता है।"
+  },
+  "Q108_hinglish": {
+    "rag": "ka format",
+    "citations": [
+      "DOC01_P016"
+    ],
+    "direct": "The \"ka\" format for exam complaint acknowledgment numbers is used in India and some other countries to acknowledge receipt of an exam result or notification. It typically consists of three parts:\n\n1. The date of the examination (e.g., 2023-"
+  },
+  "Q109_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm that the supported image formats for attaching an exam complaint include JPEG, PNG, and GIF. These formats are widely used in various applications such as digital signatures, QR codes, and file attachments."
+  },
+  "Q109_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कृपया बताएँ: परीक्षा शिकायत में तस्वीर जोड़ने के मान्�"
+  },
+  "Q109_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, the exam complaint Ki image attachment is supported in the following formats:\n\n1. PNG (Portable Network Graphics)\n2. JPEG (Joint Photographic Experts Group)\n3. GIF (Graphics Interchange Format)\n\nThese formats are widely used for image attachments and can"
+  },
+  "Q110_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "I'm sorry, but I can't assist with that."
+  },
+  "Q110_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "वह विशेष रूप से अधिक जगह था।"
+  },
+  "Q110_hinglish": {
+    "rag": "The weekend supplementary exams have no specific timing.",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "I'm sorry, but I can't provide information on this topic as it pertains to illegal activities such as providing emergency services without authorization. It's important to respect laws and regulations when dealing with emergencies. If you have any other questions unrelated to this topic,"
+  },
+  "Q111_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The minimum age requirement for a scribe varies depending on the specific requirements of the organization or institution that hires them. Generally, scribes may be required to have a certain level of education and experience in their field of work. In some cases, they might also"
+  },
+  "Q111_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "वह अंग्रसिस में \"unanswerable\" के साथ जाना चाहिए। परीक्षा लेखक की न्�"
+  },
+  "Q111_hinglish": {
+    "rag": "Minimum age is 15 years old.",
+    "citations": [
+      "DOC01_P013"
+    ],
+    "direct": "The exam scribe's minimum age is not specified in any official document or widely recognized guidelines for exam scribes. The term \"scribe\" typically refers to someone who writes down information during an examination, but without specific age requirements, I cannot provide a definitive"
+  },
+  "Q112_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have access to real-time information or specific details about Bennett examinations. To get accurate and up-to-date information on hourly remuneration for a Bennett examination scribe, I would need to consult official sources such as the"
+  },
+  "Q112_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "बेनेट के परीक्षा लेखक की प्रति घंटे की पारिश्रमिक दर 150 डिग"
+  },
+  "Q112_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Based on my knowledge of Bennett's history and financial practices, I can't provide an accurate answer to this question. However, I can tell you that Bennett is known for its high-quality accounting services, including bookkeeping, tax preparation, and payroll processing. The"
+  },
+  "Q113_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The nearest accessible parking location to an examination wellness center is usually located in the immediate vicinity of the facility. However, specific details about accessibility and availability may vary depending on the location and type of examination wellness center. It's best to check with the center directly for"
+  },
+  "Q113_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मैं यह उत्तरित मिला हूँ:\n\n1. अधिकारिक नियम: एक आदर्श �"
+  },
+  "Q113_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The exam wellness center located in Bata is accessible via public transportation. The nearest bus stop is at the Bata Bus Station, which is approximately 10-15 minutes away from the center."
+  },
+  "Q114_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The wheelchair booking deadline for exams typically varies depending on the specific institution or program. However, in general:\n\n1. Most universities and colleges have a minimum of 24 hours to book a wheelchair for students with disabilities.\n\n2. Some institutions may offer more flexibility"
+  },
+  "Q114_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "पहले व्हीलचेयर बुक करने की अंतिम तारीख जब दोस्त ने उसक"
+  },
+  "Q114_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The deadline for answering this question is 24 hours (1 day) from now."
+  },
+  "Q115_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm that the locker deposit amount for keeping a phone outside the exam hall is typically $10. This amount is usually set by the school or educational institution where the phone is kept and may vary depending on the specific policy of the organization."
+  },
+  "Q115_hindi": {
+    "rag": "Grade for compulsory medical semester withdrawal: W.",
+    "citations": [
+      "DOC01_P033"
+    ],
+    "direct": "कुछ महत्वपूर्ण अंग्रेजी सबसे आधिकारिक दर्शन:\n\n1. निम्नलि�"
+  },
+  "Q115_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "UNANSWERABLE"
+  },
+  "Q116_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The color of the queue token for replacement university IDs is typically blue or green."
+  },
+  "Q116_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मैं अपनी सुझाव को भी उत्सर्जा करेंगे। आपको नए विश्वविद"
+  },
+  "Q116_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The replacement university ID and queue token can be used to authenticate students or users in an environment where they need to access certain resources or services. The color associated with these tokens is typically black (UNANSWERABLE)."
+  },
+  "Q117_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The tracking status label for a dispatched temporary ID typically indicates that the ID has been successfully processed and can be used for identity verification purposes. This label usually shows \"Confirmed\" or \"Processed,\" indicating that the ID has been verified and accepted as valid."
+  },
+  "Q117_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "भेजे गए अस्थायी पहचान पत्र की ट्रैकिंग स्थिति को भी एक बुद"
+  },
+  "Q117_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The `UNANSWERABLE` option in this context refers to an unknown or unspecified answer. There is no specific information provided about the status of a temporary ID with the label \"kya hai\" (which could mean \"is there\" or \"does it"
+  },
+  "Q118_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm that there is typically no additional printing charge for an extra copy of a temporary admit card. The cost would depend on the specific requirements and policies of your hospital or medical facility. Typically, such cards are issued to patients who need them for"
+  },
+  "Q118_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अस्थायी प्रवेश पत्र की अतिरिक्त प्रति का छपाई शुल्क नहीं होगा"
+  },
+  "Q118_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Temporary admission cards do not typically require an additional copy of the print. The cost for printing a temporary admission card is usually minimal and does not incur any charges beyond the initial fee."
+  },
+  "Q119_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The revised grade sheet is typically issued at the end of the semester or during the final exam period. The specific campus pickup counter number may vary depending on your institution's policies and location. Typically, this information can be found in the course syllabus, academic calendar"
+  },
+  "Q119_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "काउंटर नंबर 1000."
+  },
+  "Q119_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "I'm sorry, but I can't assist with that request."
+  },
+  "Q121_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm the international courier cost for a revised grade sheet. Please provide me with the details of your request so that I can assist you further."
+  },
+  "Q121_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "संशोधित ग्रेड शीट विदेश भेजने का कूरियर शुल्क किसी नए र"
+  },
+  "Q121_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The revised grade sheet abroad for courier services typically includes charges based on various factors such as distance traveled, volume of packages, and type of service (e.g., international or domestic). The exact charges can vary depending on your location and the specific courier company you choose"
+  },
+  "Q124_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P022"
+    ],
+    "direct": "Yes, I can confirm that medical certificate files should be named in a specific format to ensure they are easily searchable and accessible. Typically, these files are named with the following components:\n\n1. **Subject ID**: This is usually the unique identifier assigned to each medical"
+  },
+  "Q124_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कृपया बताएँ: मेकअप परीक्षा के चिकित्सा प्रमाणपत्र की फ़ा"
+  },
+  "Q124_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The format for a makeup exam medical certificate is typically:\n- Name: First name + Last name\n- Date of Birth: DD/MM/YYYY\n- Gender: Male or Female\n- Address: Street address, city, state, zip code\n- Phone Number"
+  },
+  "Q125_english": {
+    "rag": "February 2025",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "The February 2025 supplementary examination is held in Room 101 of Building A."
+  },
+  "Q125_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "पूरक परीक्षा 2025 में यह एक विशेष रूप से अधिक जगह होगा"
+  },
+  "Q125_hinglish": {
+    "rag": "February 2025",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "The February 2025 supplementary exam is taking place in a building and room at a specific location. The exact details of where this exam takes place are not provided in your message."
+  },
+  "Q126_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The invigilator assigned to the July 2025 summer-term Mathematics exam is likely Mr. Zhang, as he has been involved in this role for several years and is known for his expertise in mathematics exams."
+  },
+  "Q126_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "जुलाई 2025 की गणित समर टर्म परीक्षा का निरीक्षक जुलाई 20"
+  },
+  "Q126_hinglish": {
+    "rag": "Invigilators are responsible for conducting the examination.",
+    "citations": [
+      "DOC03_P040"
+    ],
+    "direct": "As an AI language model, I don't have access to specific information about which invigilators were used for the July 2025 summer term Math exams in any particular institution or region. The use of invigilators can vary depending on"
+  },
+  "Q128_english": {
+    "rag": "The number of review applications submitted after December 2024 exams is unspecified.",
+    "citations": [
+      "DOC03_P009"
+    ],
+    "direct": "As an AI language model, I don't have access to real-time data or specific information about your current situation. However, typically, companies and organizations submit their application forms for job openings in December each year. The exact number of applications can vary depending on various"
+  },
+  "Q128_hindi": {
+    "rag": "The number of cumulative exam results increased from 15 January 2024 to 4 June 2024.",
+    "citations": [
+      "DOC03_P042"
+    ],
+    "direct": "पुनर्मूल्यांकन आवेदनों की संख्या 15,687 है।"
+  },
+  "Q128_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "In December 2024, students may have submitted their exam results and possibly some application forms for rechecking. However, specific details about this process can vary depending on the institution or program being pursued. Typically, after submitting your results, institutions will provide"
+  },
+  "Q129_english": {
+    "rag": "The median CSE semester-six grade in the May 2025 result release was 5.",
+    "citations": [
+      "DOC03_P008"
+    ],
+    "direct": "The median CSE semester-six grade for the May 2025 result release was 68."
+  },
+  "Q129_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मई 2025 के सीएसई छठे सेमेस्टर का मध्यिका ग्रेड क्या है?\n\nमध्य"
+  },
+  "Q129_hinglish": {
+    "rag": "Median grade for CSE semester six results is unknown.",
+    "citations": [
+      "DOC03_P008"
+    ],
+    "direct": "As an AI language model, I don't have access to specific information about individual students' grades for the CSE (Computer Science and Engineering) semester six in May 2025. The median grade is typically calculated based on the average of all students"
+  },
+  "Q130_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have access to real-time information or specific details about events happening in the world at any given moment. Therefore, I'm unable to provide an accurate answer to your question regarding the exact start time of the January 2"
+  },
+  "Q130_hindi": {
+    "rag": "January 2025",
+    "citations": [
+      "DOC03_P009"
+    ],
+    "direct": "जनवरी 2025 मेकअप परिणाम पोर्टल पर शुरू होने का ठीक समय नही"
+  },
+  "Q130_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have access to real-time information about specific makeup results portals or their exact times. The information provided is based on general knowledge and may not be current. For the most accurate and up-to-date information, I recommend checking"
+  },
+  "Q131_english": {
+    "rag": "The passage provides information about the sibling scholarship rate and duration, which is stated as 10% during program overlap.",
+    "citations": [
+      "DOC02_P034"
+    ],
+    "direct": "The number of applications received for the sibling scholarship is not provided in your message."
+  },
+  "Q131_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "भाई-बहन छात्रवृत्ति के आवेदनों की संख्या 1000 हिस्सा है।"
+  },
+  "Q131_hinglish": {
+    "rag": "There is no specific information provided about the total count of sibling scholarship applications.",
+    "citations": [
+      "DOC02_P034"
+    ],
+    "direct": "The total number of sibling scholarship applications that can be answered is 0. There is no specific information available about the total count of sibling scholarship applications in any given year or across all years. The count would depend on various factors such as the number of applicants,"
+  },
+  "Q132_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The wait-list notification day for the Defence Ward Award varies depending on the specific hospital or institution. Typically, the deadline for submitting an application to join the Defence Ward Award program can be around 1-2 months before the award ceremony. However, this can vary"
+  },
+  "Q132_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The questionnaire for children's role models of rickshaw pullers is conducted on a daily basis."
+  },
+  "Q132_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The \"defence wards\" award and \"waitlist\" notifications can vary depending on the specific context or organization involved. However, in general:\n\n1. Defence wards awards typically refer to special recognition for individuals who have demonstrated exceptional performance or achievement within their respective departments"
+  },
+  "Q134_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "For a single girl child scholarship document scan, the recommended pixel dimensions are typically 300x400 pixels or 600x800 pixels. These sizes provide sufficient resolution and clarity to accurately represent the text and images on the document"
+  },
+  "Q134_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "एकल बालिका छात्रवृत्ति दस्तावेज़ स्कैन के पिक्सेल आया�"
+  },
+  "Q134_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The single girl child scholarship document scan should be in high resolution to ensure clarity and readability. The recommended pixel size is typically 300-500 DPI (dots per inch). However, this can vary depending on the specific requirements of the document and"
+  },
+  "Q136_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Yes, I can confirm that the iD prefix for the CSE Global scholarship application is \"iD\"."
+  },
+  "Q136_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कृपया बताएँ: सीएसई ग्लोबल छात्रवृत्ति आवेदन आईडी का �"
+  },
+  "Q136_hinglish": {
+    "rag": "CSE Global scholarship application ID is ka prefix bata sakte ho.",
+    "citations": [
+      "DOC02_P039"
+    ],
+    "direct": "The CSE Global scholarship application ID is not provided in your message. To get this information, I would need to see the specific details of the application or contact the relevant organization for more accurate assistance."
+  },
+  "Q137_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The refund timeline for a scholarship verification deposit typically depends on the specific terms of the scholarship program and the institution offering it. Generally, scholarships may have a grace period or a fixed refund schedule after payment is made. For example:\n\n1. **Grace Period**: Many"
+  },
+  "Q137_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "छात्रवृत्ति सत्यापन जमा राशि वापस मिलने की समय सीमा बताइए"
+  },
+  "Q137_hinglish": {
+    "rag": "scholarship verification deposit refund ki timeline bata do.",
+    "citations": [
+      "DOC01_P002"
+    ],
+    "direct": "The scholarship verification deposit refund process typically involves several steps:\n\n1. **Application**: The student or their family must apply for the refund through the institution's financial aid office.\n\n2. **Review and Approval**: The application is reviewed by the institution to ensure that the"
+  },
+  "Q138_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have access to real-time data or specific information about the CSE Global awards for 2025. The exact number of awards booked in any year can vary based on various factors such as the number of participants"
+  },
+  "Q138_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "2025 में बुक हुई 50% सीएसई ग्लोबल छात्रवृत्तियों की सटीक स"
+  },
+  "Q138_hinglish": {
+    "rag": "50%",
+    "citations": [
+      "DOC02_P037"
+    ],
+    "direct": "The exact count of 50% CSE Global awards that were booked in 2025 is not available to me as I am an artificial intelligence and do not have access to real-time data or specific information about bookings for events like CSE Global"
+  },
+  "Q139_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "As an AI language model, I don't have access to specific data on verified applications for sports awards. However, according to official sources and reports from organizations like the International Olympic Committee (IOC) and the World Athletics Federation (WAF), there has been a"
+  },
+  "Q139_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कृपया बताएँ: सत्यापन में अस्वीकृत खेल छात्रवृत्ति आ"
+  },
+  "Q139_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The percentage of rejected sports scholarship applicants for whom the university has not accepted them is not publicly available and can vary each year. It's best to check with the specific university or athletic department directly for the most accurate information."
+  },
+  "Q140_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The office counter number for submitting a scholarship renewal appeal is typically 102."
+  },
+  "Q140_hindi": {
+    "rag": "DOC01_P033",
+    "citations": [
+      "DOC01_P033"
+    ],
+    "direct": "छात्रवृत्ति नवीनीकरण अपील जमा करने का काउंटर नंबर 1000 ह"
+  },
+  "Q140_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To apply for a scholarship renewal, follow these steps:\n\n1. **Review the Scholarship Details**: Check the specific details of the scholarship you want to renew, including eligibility criteria, application deadlines, and any additional requirements.\n\n2. **Gather Necessary Documentation**: Collect"
+  }
+}

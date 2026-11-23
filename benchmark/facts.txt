@@ -1,0 +1,102 @@
+@DOC01|Section 10 — Attendance
+75%|Minimum course attendance across lectures, tutorials and labs|पाठ्यक्रम में न्यूनतम उपस्थिति|course ki minimum attendance
+DB|Grade for shortage of course attendance|कम उपस्थिति पर मिलने वाला ग्रेड|short attendance par grade
+One unit|Attendance credit for each scheduled class regardless of its length|हर निर्धारित कक्षा की उपस्थिति इकाई|har scheduled class ki attendance unit
+Up to 10%|Maximum exceptional attendance relaxation|विशेष मामलों में अधिकतम उपस्थिति छूट|exceptional cases mein maximum attendance relaxation
+Two weeks|Continuous certified illness duration considered for attendance relaxation|उपस्थिति छूट के लिए लगातार प्रमाणित बीमारी की अवधि|attendance relaxation ke liye continuous certified illness ki duration
+Prior approval of the Dean|Approval to represent the university for attendance relaxation|विश्वविद्यालय का प्रतिनिधित्व करने पर उपस्थिति छूट हेतु पूर्व अनुमति|university represent karne par attendance relief ke liye prior approval
+Dean recommendation and Vice-Chancellor approval|Authorisation for a personal-reason attendance exception|निजी कारण से उपस्थिति छूट की मंजूरी|personal reason se attendance relief ki approval
+@DOC01|Section 11 — Scribe support
+Controller of Examinations|Official who may allow a scribe on the Dean’s recommendation|डीन की सिफारिश पर लेखक की अनुमति देने वाला अधिकारी|Dean ki recommendation par scribe allow karne wala officer
+A separate room or the wellness centre|Exam venue for candidates using a scribe|लेखक की सहायता लेने वाले विद्यार्थियों का परीक्षा स्थल|scribe use karne wale students ka exam venue
+An injury that prevents writing|Writing-hand injury criterion for scribe assistance|लिखने वाले हाथ की चोट पर लेखक की सहायता का आधार|writing hand injury par scribe milne ki condition
+@DOC01|Section 16 — Grade points
+6|Grade points for a C+|C+ के ग्रेड अंक|C+ ke grade points
+4|Grade points for a D|D के ग्रेड अंक|D ke grade points
+0|Grade points for an F|F के ग्रेड अंक|F ke grade points
+D|Lowest passing letter grade on the standard scale|सामान्य पैमाने पर न्यूनतम उत्तीर्ण ग्रेड|standard scale par lowest passing grade
+FF|Grade for failing a mandatory non-credit course|अनिवार्य गैर-क्रेडिट पाठ्यक्रम में असफलता का ग्रेड|mandatory non-credit course fail karne par grade
+All completed semesters|Semesters covered by the CGPA|सीजीपीए में शामिल सेमेस्टर|CGPA mein count hone wale semesters
+@DOC01|Sections 17–18 — Result approval
+Vice-Chancellor|Final approval authority for moderated exam results|परीक्षा परिणामों का अंतिम अनुमोदन करने वाला अधिकारी|moderated exam results ki final approval authority
+ERP|Portal on which faculty enter exam and assessment marks|अध्यापकों द्वारा अंक दर्ज करने का पोर्टल|faculty marks enter karne wala portal
+After grades are locked in the ERP|Stage at which the grade report is generated|ग्रेड रिपोर्ट तैयार करने का चरण|grade report generate hone ka stage
+@DOC01|Sections 7.3 and 19 — Exam grievances
+Controller of Examinations|Chair of the examination grievance committee|परीक्षा शिकायत समिति का अध्यक्ष|exam grievance committee ka chair
+An office representative from the Controller of Examinations|Member secretary of the examination grievance committee|परीक्षा शिकायत समिति का सदस्य सचिव|exam grievance committee ka member secretary
+exam.grievance@bennett.edu.in|Dedicated email for examination grievances|परीक्षा संबंधी शिकायत का ईमेल|exam complaint ki dedicated email
+BU Helpdesk|University ticket system for examination grievances|परीक्षा शिकायत दर्ज करने की टिकट प्रणाली|exam grievance ticket raise karne ka system
+The submission channel|Channel used to acknowledge an exam grievance|परीक्षा शिकायत की प्राप्ति पुष्टि का माध्यम|exam complaint acknowledgement ka channel
+Course coordinator|Person asked to verify an allegedly out-of-syllabus question|पाठ्यक्रम से बाहर के सवाल की जाँच करने वाला व्यक्ति|out of syllabus question verify karne wala person
+@DOC01|Sections 20–21 — Access and review
+Digital Valuation Platform|Online platform for viewing assessed end-term sheets|जाँची हुई अंतिम परीक्षा उत्तरपुस्तिका देखने का मंच|checked end-term answer sheet dekhne ka platform
+Appendix G|Appendix with the discrepancy-reporting form for viewed answer sheets|देखी गई उत्तरपुस्तिका की त्रुटि दर्ज करने वाले प्रपत्र का परिशिष्ट|checked sheet discrepancy form ka appendix
+₹5,000 per subject, subject to policy changes|Listed non-refundable re-evaluation fee|पुनर्मूल्यांकन का सूचीबद्ध गैर-वापसी योग्य शुल्क|listed non-refundable re-evaluation fee
+Vice-Chancellor|Official who appoints the independent re-evaluation examiner|स्वतंत्र पुनर्मूल्यांकन परीक्षक नियुक्त करने वाला अधिकारी|independent rechecking examiner appoint karne wala officer
+An anonymised digital answer sheet|Copy sent to the independent re-evaluation examiner|स्वतंत्र परीक्षक को भेजी जाने वाली उत्तरपुस्तिका का रूप|independent examiner ko bheji jaane wali answer sheet ka format
+ERP|Where re-evaluation results are published|पुनर्मूल्यांकन परिणाम प्रकाशित होने का पोर्टल|rechecking results publish hone wala portal
+@DOC01|Section 23 — Make-up exams
+Within five days of the last exam date|Deadline to submit a mid-term make-up request with documents|मध्यावधि मेकअप परीक्षा आवेदन की समय सीमा|mid-term makeup request submit karne ki deadline
+University Medical Officer’s opinion|Additional medical opinion needed for illness-related make-up requests|बीमारी के कारण मेकअप परीक्षा के लिए आवश्यक चिकित्सकीय राय|medical makeup request ke liye extra medical opinion
+Vice-Chancellor|Final approver of a mid-term make-up request after Dean review|डीन की समीक्षा के बाद मध्यावधि मेकअप की अंतिम मंजूरी देने वाला अधिकारी|Dean review ke baad mid-term makeup ka final approver
+Between the mid-term and end-semester exams|Scheduled window for mid-term make-up exams|मध्यावधि मेकअप परीक्षा का निर्धारित समय|mid-term makeup exams ki scheduled window
+No second make-up chance|Consequence of missing the make-up examination|मेकअप परीक्षा छूटने का परिणाम|makeup exam miss karne ka consequence
+Faculty or course coordinator|Who sets the duration of a mid-term make-up exam|मध्यावधि मेकअप परीक्षा की अवधि तय करने वाला|mid-term makeup exam ki duration decide karne wala
+Dean Academic|Who notifies approved mid-term make-up cases|स्वीकृत मध्यावधि मेकअप मामलों की सूचना देने वाला अधिकारी|approved mid-term makeup cases notify karne wala
+I grade|Initial result for an approved missed end-semester exam|स्वीकृत अनुपस्थिति वाली अंतिम परीक्षा का शुरुआती ग्रेड|approved end-sem exam absence ka initial grade
+Final viva|Mandatory assessment for any project-course grade|परियोजना पाठ्यक्रम का कोई भी ग्रेड पाने के लिए अनिवार्य परीक्षा|project course grade ke liye compulsory assessment
+@DOC01|Section 24 — Supplementary exams
+Students with an F in the regular exam|Regular-exam failure group eligible for a supplementary exam|नियमित परीक्षा में असफल विद्यार्थियों की पूरक परीक्षा पात्रता|regular exam fail hone par supplementary exam eligibility
+Outcome of disciplinary proceedings and university rules|What determines supplementary eligibility after disciplinary exclusion|अनुशासनात्मक रोक के बाद पूरक परीक्षा की पात्रता का आधार|disciplinary action ke baad supplementary eligibility ka basis
+Academic Calendar|Where the supplementary registration deadline is listed|पूरक परीक्षा पंजीकरण की अंतिम तारीख का स्रोत|supplementary registration deadline kahan listed hai
+Special supplementary examination|Exam route for backlog courses in a one-year programme|एक वर्षीय कार्यक्रम के बकाया पाठ्यक्रमों के लिए परीक्षा|one-year programme ke backlogs clear karne wali exam
+₹3,000 per course, subject to change|Non-refundable supplementary fee for batches starting in 2024–25|2024–25 से शुरू होने वाले बैचों का गैर-वापसी योग्य पूरक परीक्षा शुल्क|2024–25 se shuru batches ki non-refundable supplementary fee
+Twice in an academic year|Frequency of regular supplementary exams for recently completed semesters|हाल में पूरे सेमेस्टरों की सामान्य पूरक परीक्षाओं की वार्षिक आवृत्ति|recent semesters ke regular supplementary exams ki yearly frequency
+The next corresponding odd or even supplementary exam|Next chance after failing a supplementary exam|पूरक परीक्षा में असफलता के बाद अगला अवसर|supplementary fail hone ke baad next attempt
+Normal programme duration plus two years|Standard period for clearing failures through supplementary exams|पूरक परीक्षाओं से असफल विषय साफ करने की सामान्य अवधि|supplementary exams se failed courses clear karne ka standard time
+Vice-Chancellor|Discretionary authority for the mercy attempt after N+2|N+2 के बाद विशेष अंतिम अवसर देने वाला अधिकारी|N+2 ke baad mercy attempt approve karne wala authority
+At least 50% attendance|Attendance needed by debarred students for remedial classes|परीक्षा से रोके गए विद्यार्थियों की उपचारात्मक कक्षाओं हेतु उपस्थिति|debarred students ki remedial classes ke liye attendance
+Same duration as the end-term exam|Length of a supplementary exam compared with the regular end term|पूरक परीक्षा की अवधि की नियमित अंतिम परीक्षा से तुलना|supplementary duration ka regular end-term se comparison
+Existing internal marks are retained|Treatment of internal marks in a supplementary exam|पूरक परीक्षा में आंतरिक अंकों का नियम|supplementary exam mein internal marks ka rule
+No supplementary option|Supplementary provision for mid-term exams and internal assessments|मध्यावधि तथा आंतरिक मूल्यांकन के लिए पूरक परीक्षा का प्रावधान|mid-term aur internals ke liye supplementary ka provision
+Same passing mark as end term|Pass requirement for supplementary exams|पूरक परीक्षा का उत्तीर्ण अंक नियम|supplementary exam pass marks rule
+C+|Highest possible supplementary exam grade|पूरक परीक्षा का अधिकतम ग्रेड|supplementary exam ka highest grade
+24 credits|Maximum special supplementary registration load|विशेष पूरक परीक्षा में अधिकतम पंजीकरण क्रेडिट|special supplementary registration ka maximum credit load
+@DOC01|Sections 25–26 — Summer term and identification
+School Dean’s permission|Approval for summer term registration after first year|पहले साल के बाद समर टर्म पंजीकरण की अनुमति|first year ke baad summer term registration ki permission
+Two supplementary attempts in the same subject|Prior attempts required for summer term from year two|दूसरे वर्ष से समर टर्म के लिए उसी विषय में पूर्व पूरक प्रयास|year two se summer term ke liye same subject ke prior supplementary attempts
+15 credits or five courses|Summer term registration limit|समर टर्म पंजीकरण की अधिकतम सीमा|summer term registration ki maximum limit
+University ID card and admit card|Documents needed for examination hall entry|परीक्षा कक्ष में प्रवेश के लिए आवश्यक दस्तावेज़|exam hall entry ke liye required documents
+Registrar’s Office|Office issuing temporary or duplicate university IDs before exams|परीक्षा से पहले अस्थायी या दूसरी पहचान पत्र प्रति जारी करने वाला कार्यालय|exams se pehle temporary ya duplicate ID issue karne wala office
+One week in advance|When to request a replacement university ID before exams|परीक्षा से पहले नया पहचान पत्र माँगने का समय|exams se pehle replacement ID request ka time
+@DOC01|Sections 30 and 32 — Progression and withdrawal
+4.0 on a 10-point scale|CGPA route for progression from the end of the second year onward|दूसरे वर्ष के अंत से पदोन्नति का सीजीपीए मानदंड|second year end se promotion ka CGPA criterion
+All prior-year credits and 50% of current-year credits|Credit-based alternative to the CGPA route from the end of year two|दूसरे वर्ष के अंत से सीजीपीए की जगह क्रेडिट-आधारित पदोन्नति का नियम|second year end se CGPA route ka credit-based alternative
+At least five weeks|Certified medical absence requiring compulsory semester withdrawal|अनिवार्य सेमेस्टर वापसी वाली प्रमाणित चिकित्सा अनुपस्थिति|compulsory semester withdrawal wali certified medical absence
+W|Grade for compulsory medical semester withdrawal|चिकित्सा कारण से अनिवार्य सेमेस्टर वापसी का ग्रेड|compulsory medical semester withdrawal ka grade
+@DOC02|Special scholarship categories
+10% during programme overlap|Sibling scholarship rate and duration|भाई-बहन छात्रवृत्ति की दर और अवधि|sibling scholarship ki rate aur duration
+Children of the same parents|Relationship required for the sibling award|भाई-बहन छात्रवृत्ति के लिए आवश्यक रिश्ता|sibling award ke liye required relation
+10% of tuition throughout the programme|Single girl child scholarship amount and duration|एकल बालिका छात्रवृत्ति की राशि और अवधि|single girl child scholarship ka amount aur duration
+10% of tuition|Award for Bennett alumni enrolling in a Bennett postgraduate programme|बेनेट में स्नातकोत्तर प्रवेश लेने वाले पूर्व छात्रों की छात्रवृत्ति|Bennett mein PG join karne wale alumni ka scholarship
+Up to 50% of first-year tuition|Maximum sport-based admission scholarship on the public page|सार्वजनिक पृष्ठ पर खेल छात्रवृत्ति की अधिकतम राशि|public page par sports admission scholarship ka maximum
+State, national or international level|Sports participation or achievement levels considered|खेल भागीदारी या उपलब्धि के मान्य स्तर|sports participation ya achievement ke accepted levels
+5% of tuition for the full programme|Scholarship for eligible wards of defence personnel|पात्र रक्षा कर्मियों के बच्चों की छात्रवृत्ति|eligible defence personnel wards ka scholarship
+Serving and retired personnel|Service status covered by the defence wards scholarship|रक्षा कर्मियों के बच्चों की छात्रवृत्ति में सेवा की स्थिति|defence wards scholarship mein personnel ka service status
+@DOC02|CSE Global admission scholarship
+96 or higher|Class XII or CUET threshold for the 50% CSE Global award|50% सीएसई ग्लोबल छात्रवृत्ति की बारहवीं या सीयूईटी सीमा|50% CSE Global award ka Class XII ya CUET cutoff
+90 or higher|JEE Main percentile threshold for the 50% CSE Global award|50% सीएसई ग्लोबल छात्रवृत्ति की जेईई मेन सीमा|50% CSE Global award ka JEE Main cutoff
+1401 or higher|SAT threshold for the 50% CSE Global award|50% सीएसई ग्लोबल छात्रवृत्ति की एसएटी सीमा|50% CSE Global award ka SAT cutoff
+34–39|IB score range for the 30% CSE Global award|30% सीएसई ग्लोबल छात्रवृत्ति की आईबी अंक सीमा|30% CSE Global award ki IB score range
+70–74.99|JEE Main range for the 20% CSE Global award|20% सीएसई ग्लोबल छात्रवृत्ति की जेईई मेन सीमा|20% CSE Global award ki JEE Main range
+1201–1300|SAT range for the 10% CSE Global award|10% सीएसई ग्लोबल छात्रवृत्ति की एसएटी सीमा|10% CSE Global award ki SAT range
+Physics and mathematics|Compulsory subjects in the CSE Global best-of-three calculation|सीएसई ग्लोबल के सर्वश्रेष्ठ तीन विषयों में अनिवार्य विषय|CSE Global best-of-three ke compulsory subjects
+No backlog or recorded disciplinary case|Non-CGPA renewal conditions for CSE Global admission awards|सीएसई ग्लोबल छात्रवृत्ति नवीनीकरण की सीजीपीए के अलावा शर्तें|CSE Global award renewal ki CGPA ke alawa conditions
+@DOC03|Dated exam announcements
+11 January 2026|Publication date for the December 2025 odd-semester end-term results|दिसंबर 2025 की विषम सेमेस्टर अंतिम परीक्षा के परिणाम की तारीख|December 2025 odd-sem end-term result ki date
+12 September 2025|Result announcement date for the August–September 2025 special supplementary exams|अगस्त–सितंबर 2025 की विशेष पूरक परीक्षाओं के परिणाम की तारीख|August–September 2025 special supplementary result date
+8 August 2025|Result date announced for July 2025 summer-term exams|जुलाई 2025 की समर टर्म परीक्षा के परिणाम की तारीख|July 2025 summer-term result ki date
+24 August 2024|Result date of the even-semester supplementary exams for 2023–24|2023–24 की सम सेमेस्टर पूरक परीक्षा के परिणाम की तारीख|2023–24 even-sem supplementary result date
+19 July 2024|Result date of the even-semester make-up exams for 2023–24|2023–24 की सम सेमेस्टर मेकअप परीक्षा के परिणाम की तारीख|2023–24 even-sem makeup result ki date
+4 June 2024|Result announcement for May 2024 regular even-semester exams|मई 2024 की नियमित सम सेमेस्टर परीक्षा के परिणाम की तारीख|May 2024 regular even-sem result date
+15 January 2024|Result date of regular odd-semester exams for 2023–24|2023–24 की नियमित विषम सेमेस्टर परीक्षा के परिणाम की तारीख|2023–24 regular odd-sem result date

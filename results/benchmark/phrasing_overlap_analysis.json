@@ -1,0 +1,10 @@
+{
+  "original_pilot_phrasing": {
+    "n": 24,
+    "recall_at_5": 0.875
+  },
+  "expanded_template": {
+    "n": 216,
+    "recall_at_5": 0.9768518518518519
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "documents": 3,
+  "passages": 42,
+  "average_passage_words": 31.976190476190474,
+  "question_types": {
+    "yes/no": 6,
+    "number": 87,
+    "procedure": 12,
+    "condition": 285,
+    "date": 30
+  },
+  "splits": {
+    "test": 336,
+    "validation": 84
+  },
+  "languages": {
+    "english": {
+      "count": 140,
+      "answerable": 100,
+      "unanswerable": 40,
+      "average_question_words": 11.25
+    },
+    "hindi": {
+      "count": 140,
+      "answerable": 100,
+      "unanswerable": 40,
+      "average_question_words": 10.871428571428572
+    },
+    "hinglish": {
+      "count": 140,
+      "answerable": 100,
+      "unanswerable": 40,
+      "average_question_words": 9.878571428571428
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "training_triples": {
+    "hi": 16
+  },
+  "batch_size": 4,
+  "learning_rate": 2e-05,
+  "max_length": 192,
+  "trainable_layers": "final transformer block",
+  "step_losses": [
+    0.9808672666549683,
+    0.9282360672950745,
+    1.2269854545593262,
+    0.9144273400306702
+  ]
+}

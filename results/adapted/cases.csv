@@ -1,0 +1,40 @@
+qid,language,question,gold,top_passages,gold_evidence_found,score_gate_refuses
+Q001_english,english,Can I get my make-up theory paper checked again?,DOC01_P001,DOC01_P001 DOC03_P009 DOC01_P004 DOC01_P002 DOC01_P003,True,False
+Q001_hindi,hindi,क्या मेकअप की थ्योरी परीक्षा की कॉपी दोबारा जँच सकती है?,DOC01_P001,DOC01_P001 DOC01_P004 DOC03_P009 DOC01_P002 DOC01_P005,True,False
+Q001_hinglish,hinglish,Makeup theory paper ki rechecking ho sakti hai?,DOC01_P001,DOC01_P001 DOC01_P002 DOC01_P004 DOC03_P009 DOC01_P005,True,False
+Q002_english,english,Does the rechecking option also cover a supplementary exam?,DOC01_P001,DOC01_P001 DOC01_P005 DOC01_P002 DOC01_P004 DOC02_P006,True,False
+Q002_hindi,hindi,क्या सप्लीमेंट्री परीक्षा की कॉपी का भी पुनर्मूल्यांकन हो सकता है?,DOC01_P001,DOC01_P002 DOC01_P001 DOC01_P004 DOC01_P003 DOC01_P005,True,False
+Q002_hinglish,hinglish,Supple exam ka paper bhi recheck karwa sakte hain?,DOC01_P001,DOC01_P005 DOC01_P002 DOC01_P001 DOC01_P004 DOC03_P008,True,False
+Q003_english,english,How long is the usual window to request a marks review after results?,DOC01_P002,DOC01_P003 DOC01_P004 DOC01_P002 DOC03_P009 DOC01_P005,True,False
+Q003_hindi,hindi,नतीजे आने के बाद नंबर दोबारा जँचवाने के लिए आम तौर पर कितने दिन मिलते हैं?,DOC01_P002,DOC01_P002 DOC03_P009 DOC01_P004 DOC01_P005 DOC03_P008,True,False
+Q003_hinglish,hinglish,Result aane ke baad marks recheck ke liye normally kitne din milte hain?,DOC01_P002,DOC01_P002 DOC01_P004 DOC03_P008 DOC01_P005 DOC01_P003,True,False
+Q005_english,english,What size of change in marks triggers a second independent re-check?,DOC01_P003,DOC01_P004 DOC01_P003 DOC01_P002 DOC01_P001 DOC03_P009,True,False
+Q005_hindi,hindi,अंकों में कितना बदलाव होने पर कॉपी दूसरे परीक्षक के पास जाती है?,DOC01_P003,DOC01_P003 DOC01_P002 DOC01_P005 DOC01_P004 DOC03_P009,True,False
+Q005_hinglish,hinglish,Marks kitne change ho jaaye toh ek aur evaluator ko copy jaati hai?,DOC01_P003,DOC01_P003 DOC01_P004 DOC01_P002 DOC01_P001 DOC03_P009,True,False
+Q006_english,english,What must I do with my old marksheet before I can receive a revised one?,DOC01_P004,DOC01_P004 DOC02_P006 DOC01_P002 DOC01_P003 DOC01_P001,True,False
+Q006_hindi,hindi,संशोधित अंकपत्र लेने से पहले पुराने अंकपत्र का क्या करना होगा?,DOC01_P004,DOC01_P002 DOC01_P001 DOC01_P004 DOC01_P003 DOC01_P005,True,False
+Q006_hinglish,hinglish,Nayi marksheet lene se pehle purani wali ka kya karna padega?,DOC01_P004,DOC01_P003 DOC01_P005 DOC01_P002 DOC01_P001 DOC01_P004,True,False
+Q007_english,english,How long after results are published are transcripts issued?,DOC01_P005,DOC01_P005 DOC03_P009 DOC01_P004 DOC01_P003 DOC02_P006,True,False
+Q007_hindi,hindi,परिणाम प्रकाशित होने के कितने समय बाद ट्रांसक्रिप्ट जारी होती है?,DOC01_P005,DOC03_P009 DOC03_P008 DOC01_P005 DOC01_P002 DOC01_P004,True,False
+Q007_hinglish,hinglish,Result publish hone ke kitne din baad transcript issue hoti hai?,DOC01_P005,DOC01_P005 DOC03_P008 DOC03_P009 DOC01_P004 DOC01_P002,True,False
+Q009_english,english,What rate of academic scholarship might someone who joined without an entry award get?,DOC02_P007,DOC02_P007 DOC02_P006 DOC01_P003 DOC01_P001 DOC01_P002,True,False
+Q009_hindi,hindi,प्रवेश के समय छात्रवृत्ति न पाने वाले छात्र को कितने प्रतिशत की अकादमिक छात्रवृत्ति मिल सकती है?,DOC02_P007,DOC02_P007 DOC01_P002 DOC02_P006 DOC01_P001 DOC03_P009,True,False
+Q009_hinglish,hinglish,"Admission pe scholarship nahi mili thi, toh academic wali kitne percent ki mil sakti hai?",DOC02_P007,DOC02_P007 DOC02_P006 DOC01_P002 DOC01_P001 DOC03_P008,True,False
+Q010_english,english,When did the notice say the May 2025 exams for CSE semester 2 would be declared?,DOC03_P008,DOC03_P008 DOC03_P009 DOC01_P001 DOC01_P002 DOC01_P004,True,False
+Q010_hindi,hindi,मई 2025 की सीएसई दूसरे सेमेस्टर की परीक्षा का नतीजा नोटिस के अनुसार कब आना था?,DOC03_P008,DOC03_P008 DOC03_P009 DOC01_P005 DOC01_P001 DOC01_P002,True,False
+Q010_hinglish,hinglish,CSE sem 2 ke May 2025 exams ka result notice ke hisaab se kab aana tha?,DOC03_P008,DOC03_P008 DOC03_P009 DOC01_P005 DOC01_P001 DOC01_P002,True,False
+Q011_english,english,On what date were the 2024–25 odd-semester supplementary results announced?,DOC03_P009,DOC03_P009 DOC03_P008 DOC01_P001 DOC01_P003 DOC01_P002,True,False
+Q011_hindi,hindi,2024–25 के विषम सेमेस्टर की सप्लीमेंट्री परीक्षा का परिणाम किस तारीख को घोषित हुआ?,DOC03_P009,DOC03_P009 DOC03_P008 DOC01_P005 DOC01_P002 DOC01_P001,True,False
+Q011_hinglish,hinglish,AY 2024-25 odd sem supple ka result kis date pe announce hua?,DOC03_P009,DOC03_P009 DOC03_P008 DOC01_P005 DOC01_P002 DOC01_P001,True,False
+Q012_english,english,How can I pay the re-evaluation charge in instalments?,,DOC01_P002 DOC01_P004 DOC01_P001 DOC01_P003 DOC03_P009,,False
+Q012_hindi,hindi,पुनर्मूल्यांकन शुल्क किस्तों में कैसे जमा कर सकता हूँ?,,DOC01_P002 DOC01_P004 DOC01_P001 DOC01_P003 DOC03_P008,,False
+Q012_hinglish,hinglish,Rechecking fees instalments mein kaise de sakte hain?,,DOC01_P002 DOC03_P008 DOC01_P004 DOC03_P009 DOC01_P001,,False
+Q014_english,english,What was the last date to fix an incorrect photo on the May 2025 exam hall ticket?,,DOC03_P008 DOC03_P009 DOC02_P007 DOC01_P005 DOC01_P002,,False
+Q014_hindi,hindi,मई 2025 की परीक्षा के प्रवेश पत्र पर गलत फोटो बदलवाने की आखिरी तारीख क्या थी?,,DOC03_P008 DOC03_P009 DOC01_P002 DOC01_P001 DOC01_P005,,False
+Q014_hinglish,hinglish,May 2025 exam admit card pe galat photo fix karwane ki last date kya thi?,,DOC03_P008 DOC03_P009 DOC01_P005 DOC02_P007 DOC01_P002,,False
+Q015_english,english,How do I download a payment receipt for re-evaluation after my ERP account is deactivated?,,DOC01_P004 DOC01_P002 DOC01_P001 DOC03_P008 DOC03_P009,,False
+Q015_hindi,hindi,ईआरपी खाता बंद होने के बाद पुनर्मूल्यांकन शुल्क की रसीद कैसे डाउनलोड करूँ?,,DOC01_P004 DOC01_P002 DOC03_P009 DOC03_P008 DOC01_P001,,False
+Q015_hinglish,hinglish,ERP account deactivate ho gaya toh rechecking payment ki receipt kaise download karu?,,DOC03_P008 DOC01_P004 DOC03_P009 DOC01_P002 DOC01_P001,,False
+Q016_english,english,What is the maximum file size for attaching scholarship proof to the admissions portal?,,DOC02_P007 DOC02_P006 DOC01_P002 DOC03_P008 DOC01_P001,,False
+Q016_hindi,hindi,प्रवेश पोर्टल पर छात्रवृत्ति का प्रमाण अपलोड करने की अधिकतम फ़ाइल सीमा क्या है?,,DOC02_P007 DOC01_P002 DOC02_P006 DOC03_P008 DOC01_P005,,False
+Q016_hinglish,hinglish,Admission portal pe scholarship proof upload karne ki max file size kya hai?,,DOC02_P007 DOC02_P006 DOC01_P002 DOC03_P008 DOC01_P005,,False

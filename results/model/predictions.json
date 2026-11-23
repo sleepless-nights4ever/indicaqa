@@ -1,0 +1,223 @@
+{
+  "Q001_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P001"
+    ],
+    "direct": "UNANSWERABLE"
+  },
+  "Q001_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "उसके अनुवादित विश्लेषण में, मेकअप की थ्योरी परीक्षा की कॉपी दोबारा जँच सकती है।"
+  },
+  "Q001_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "No, I don't have any specific makeup theory papers to check against. My purpose is to provide information and assistance based on my training data."
+  },
+  "Q002_english": {
+    "rag": "Yes",
+    "citations": [
+      "DOC01_P001"
+    ],
+    "direct": "The rechecking option does not typically include a supplementary exam. Supplementary exams are usually part of the regular assessment process to ensure that students have met all course requirements and can demonstrate their understanding of the material. The rechecking feature is more about verifying the accuracy or completeness of the answers rather than providing additional content for an exam."
+  },
+  "Q002_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "कहीं। सप्लीमेंट्री परीक्षा के अधिकारिक विशेषताएँ जैसे निर्धारण, गति, दृष्टिकोण, और बातचीत आदि के लिए इस चयन करते हैं। यह अनुभव करते हैं कि यह छोड़ता है और अनुसार वि�"
+  },
+  "Q002_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "No, if you cannot answer the question, UNANSWERABLE."
+  },
+  "Q003_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The typical window for requesting a marks review after results can vary depending on several factors such as the specific institution or program, and may be up to 1-2 months in some cases. It's important to check with the relevant department or office of the institution where you took the exam for the most accurate information."
+  },
+  "Q003_hindi": {
+    "rag": "2025",
+    "citations": [
+      "DOC01_P004",
+      "DOC01_P005",
+      "DOC03_P008"
+    ],
+    "direct": "नतीजे आने के बाद नंबर दोबारा जँचवाने के लिए आम तौर पर 14-16 वर्ष में कितने दिन मिलते हैं।"
+  },
+  "Q003_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "No need for marks to be checked."
+  },
+  "Q005_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The size of the change in marks that triggers a second independent re-check is typically 10% or more. This means that if there's a significant change in the mark, such as an increase or decrease from the previous year, it would trigger a second independent re-check to ensure accuracy and consistency."
+  },
+  "Q005_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "अंकों में कितना बदलाव होने पर कॉपी दूसरे परीक्षक के पास जाती है।"
+  },
+  "Q005_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "No, I don't have access to information about specific individuals or organizations. My responses are based on publicly available data and do not include details about individual evaluators."
+  },
+  "Q006_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To receive a revised version of your old marksheet, you typically need to follow these steps:\n\n1. **Review and Update**: Ensure that all information on your old marksheet is accurate and up-to-date.\n\n2. **Submit for Review**: Submit your marksheet to the relevant department or institution where you took the exam. This could be through an official submission process or directly to the marking authority.\n\n3. **Wait for Approval**: The marking authority will review your marksheet and provide feedback based on their assessment. They may ask for additional information if necessary.\n\n4. **Receive Revised Version**: Once approved, you should receive a revised version of your marksheet from the marking authority.\n\nIf you encounter any issues during this process, it's best to contact the marking authority directly for assistance."
+  },
+  "Q006_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "संशोधित अंकपत्र लेने से पहले पुराने अंकपत्र का करना होगा।"
+  },
+  "Q006_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Based on the information provided in the question, Nayi Marksheet is not mentioned as being related to any specific Purani (religious text). Therefore, I cannot provide an answer based on this information alone."
+  },
+  "Q007_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Transcripts of results are typically issued within 1-2 weeks after publication."
+  },
+  "Q007_hindi": {
+    "rag": "approximately 1 year",
+    "citations": [
+      "DOC03_P009"
+    ],
+    "direct": "ट्रांसक्रिप्ट जारी होती है 10-20 महीने।"
+  },
+  "Q007_hinglish": {
+    "rag": "Transcript issue is hot",
+    "citations": [
+      "DOC01_P005"
+    ],
+    "direct": "Yes, I can help with that. The result of publishing a transcript in a language other than English is generally not considered \"hot\" or relevant for general use unless there's a specific context where it might be useful. However, if you're looking to share the transcript with others who may need it, it would typically be appropriate and beneficial to provide it in English."
+  },
+  "Q009_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "Without any specific information about the university or program, I can't provide an exact rate of academic scholarship for someone joining without an entry award. Scholarships and rates vary widely depending on factors such as the institution, the program, the student's grade point average (GPA), and other personal circumstances. To get accurate information, I would need to know more details about the university and the program in question."
+  },
+  "Q009_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "उदा: एक गणित भाषा में 1000 छात्र जो उसके बहुत अधिक छात्रों के रूप में आएगा।\n\nलिखित योग्यता:\n1. इसके बारे में ध्यान चलाएँ।\n2. इसके बारे में अधिक छात्रों के रूप में आएगा।"
+  },
+  "Q009_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To determine if admission to a scholarship program is dependent on academic performance, we need to consider whether there's a direct relationship between academic achievement and receiving the scholarship.\n\n1. **Assumption**: We assume that the scholarship is awarded based on merit or ability rather than solely on academic performance.\n2. **Question Analysis**: The question asks about the relationship between academic performance and eligibility for a scholarship.\n3. **Conclusion**: Based on this assumption, we can conclude that admission to a scholarship program is not necessarily dependent on academic performance alone. There could be other factors such as extracurricular activities, personal qualities, or financial circumstances that also contribute to the decision-making process.\n\nTherefore, the answer is: No, admission to a scholarship program is not directly dependent on academic performance. It may involve various factors"
+  },
+  "Q010_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The notice stated that the May 2025 exams for CSE (Computer Science and Engineering) semester 2 would be declared on May 14th."
+  },
+  "Q010_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मई 2025 की सीएसई दूसरे सेमेस्टर की परीक्षा का नतीजा नोटिस के बाद तक जारी रहा।"
+  },
+  "Q010_hinglish": {
+    "rag": "May 2025 exams results will be announced on 19 June 2025.",
+    "citations": [
+      "DOC03_P008"
+    ],
+    "direct": "I'm sorry, but I don't have specific information about CSE Sem II exams for May 2025 in my current state. As an AI language model, I don't have access to real-time or up-to-date exam results. To get accurate and up-to-date information on your CSE Sem II exams for May 2025, I recommend checking the official CSE website or contacting the relevant examination center directly."
+  },
+  "Q011_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The 2024-25 odd-semester supplementary results were announced on March 17, 2024."
+  },
+  "Q011_hindi": {
+    "rag": "2024-25的综合考试成绩将在哪一年公布？",
+    "citations": [
+      "DOC03_P009"
+    ],
+    "direct": "2024-25 के विषम सेमेस्टर की सप्लीमेंट्री परीक्षा का परिणाम किस तारीख को घोषित हुआ?\n\nयहाँ यह उत्तर नहीं है। मदद करने के लिए आपका अध्ययन करेंगे।"
+  },
+  "Q011_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The announcement for the 2024-25 academic year is not yet confirmed. The exact dates and details of the announcements would depend on various factors such as the university's schedule, deadlines, and any changes in policy or regulations. It's best to check with the university directly for the most up-to-date information."
+  },
+  "Q012_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To pay the re-evaluation charge in installments, follow these steps:\n\n1. **Review Your Account Details**: Ensure that your account details (such as credit card number, expiration date, and CVV code) match those provided on your invoice.\n\n2. **Check for Any Refunds or Adjustments**: Look at any refunds or adjustments made to your account balance since the last payment.\n\n3. **Contact Your Bank or Credit Card Company**: Reach out to your bank or credit card company to inquire about the re-evaluation process and how to proceed with the installment payments.\n\n4. **Understand the Re-Evaluation Process**: Familiarize yourself with the terms of the re-evaluation process, including the amount of the fee, the frequency of payments, and the specific conditions under which the fee"
+  },
+  "Q012_hindi": {
+    "rag": "Students typically need to provide their answers on time, usually within 15 days from the announcement of results. They should submit the prescribed re-evaluation form along with the applicable fee. However, incomplete forms may be rejected.",
+    "citations": [
+      "DOC01_P002"
+    ],
+    "direct": "पुनर्मूल्यांकन शुल्क किसी व्यवहार में कैसे जमा कर सकता हूँ:\n\n1. अधिक बचना: आपको एक अधिक बचना कर सकता है।\n\n2. नया दृढ़ और उच्च भाग प्रदर्शन: आपको इसके लिए नया दृढ़ और"
+  },
+  "Q012_hinglish": {
+    "rag": "Rechecking fees installments mein kaise de sakte hain?",
+    "citations": [
+      "DOC01_P002"
+    ],
+    "direct": "Rechecking fees for installment payments typically refer to the additional charges that may be applied when your payment is not processed correctly or before the due date. These fees can vary depending on the bank and the specific terms of the installment plan. Typically, these fees might include late fees, processing fees, or other charges added to cover potential issues with your payment method or account status. It's important to check the exact details of your installment agreement to understand what kind of rechecking fees apply."
+  },
+  "Q014_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The last date to fix an incorrect photo on the May 2025 exam hall ticket was June 19, 2025."
+  },
+  "Q014_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "मई 2025 की परीक्षा के प्रवेश पत्र पर गलत फोटो बदलवाने की आखिरी तारीख क्या थी?\n\nउपयुक्त उत्तर:\n\n1. अनुसंधान: दूसरी विचार\n\n2. जानकारी:\n   - एक भौगोलिक टैक्स और एक लाइन खाली हो।"
+  },
+  "Q014_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "The last date for applying to the May 2025 exam admit card in Galat is not specified in the given information. The most recent date mentioned was \"last date\" but no specific date has been provided. Therefore, I am UNANSWERABLE about this particular detail."
+  },
+  "Q015_english": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To download a payment receipt for re-evaluation after your ERP account has been deactivated, follow these steps:\n\n1. Log in to your ERP system as an administrator or user with appropriate permissions.\n2. Navigate to the \"Payment\" section within the system.\n3. Locate and select the payment method you want to review (e.g., credit card, bank transfer).\n4. Click on the \"Re-evaluate Payment\" button.\n5. Follow the prompts to complete the re-evaluation process.\n\nIf you encounter any issues during this process, please provide more details about the error message so that further assistance can be provided."
+  },
+  "Q015_hindi": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "इस विचार में एक समय लगभग 10-20 महीने बचेगा। इसका अधिकतर भाषा निर्धारण करने के लिए आपका जवाब और फ़्रास्ट्रिप्शन का अधिकतर भाषा निर्धारण करने के लिए आपका जवाब और फ़्रास्�"
+  },
+  "Q015_hinglish": {
+    "rag": "UNANSWERABLE",
+    "citations": [],
+    "direct": "To deactivate an ERP account and retrieve the receipt for the payment, you typically need to follow these steps:\n\n1. **Identify the Account Number**: First, determine the unique identifier (account number) of the ERP account you want to deactivate.\n\n2. **Access the Account Details**: Use your credentials or access information to log into the ERP system where the account is stored.\n\n3. **Navigate to the Deactivation Process**: Look for a section in the system that allows you to deactivate the account. This might be under \"Account Management,\" \"Deactivation,\" or similar options.\n\n4. **Download Receipt**: Once the account is deactivated, you will receive a receipt with details about the payment made from this account. The receipt should include the date, amount, and any other relevant information related to the"
+  },
+  "Q016_english": {
+    "rag": "The maximum file size for attaching scholarship proof to the admissions portal is 15 MB.",
+    "citations": [
+      "DOC02_P007"
+    ],
+    "direct": "The maximum file size for attaching a scholarship proof to the admissions portal is typically 5 MB (megabytes). This limit ensures that the document remains readable and accessible on the portal without exceeding system capacity."
+  },
+  "Q016_hindi": {
+    "rag": "अधिकतम फ़ाइल सीमा: 15 दिनों के बाद जोड़े गए रिमाहों के लिए 10% विभिन्न आकारों के लिए अधिकतम फ़ाइल सीमा क्या है?",
+    "citations": [
+      "DOC02_P007"
+    ],
+    "direct": "अपलोड करने के लिए अधिकतम फ़ाइल सीमा जिंदगी में नहीं है। इसका उपयोग बुजुर्ग र विभिन्न देशों में आसानी से किया जा सकता है। इसका उपयोग अपने खासकार और अनुभवकों के लिए आसानी"
+  },
+  "Q016_hinglish": {
+    "rag": "The maximum file size for uploaded files is 15 MB.",
+    "citations": [
+      "DOC02_P007"
+    ],
+    "direct": "The maximum file size for admission portal PE (Program Evaluation and Review Technique) scholarships is 10 MB. This limit applies to all types of files uploaded through the system."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "query_type": "Code-Mixed",
+  "confidence_score": 0.8286493420600891,
+  "retrieved": [
+    {
+      "passage_id": "DOC01_P002",
+      "document_id": "DOC01",
+      "section": "Section 20 / Applying",
+      "text": "Students normally have 15 days from announcement of results to submit the prescribed re-evaluation form to the Controller of Examinations and pay the applicable fee. The manual lists a non-refundable charge of ₹5,000 for each subject, subject to changes in university policy. Incomplete forms can be rejected.",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "score": 0.5
+    },
+    {
+      "passage_id": "DOC03_P008",
+      "document_id": "DOC03",
+      "section": "Results / June 2025",
+      "text": "The notice dated 17 June 2025 announced May 2025 even-semester results for other schools and semesters. The notice set 19 June 2025 as the result date for B.Tech CSE semesters 2 and 6. Students were directed to check their ERP account.",
+      "source_url": "https://www.bennett.edu.in/examination-department/",
+      "score": 0.3909635841846466
+    },
+    {
+      "passage_id": "DOC01_P004",
+      "document_id": "DOC01",
+      "section": "Section 20 / Results",
+      "text": "Re-evaluation results appear in the ERP. Students cannot view the answer sheet after it has been re-evaluated. When revised marks call for a new grade sheet, the student must hand in the previous grade sheet.",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "score": 0.2490888088941574
+    },
+    {
+      "passage_id": "DOC03_P009",
+      "document_id": "DOC03",
+      "section": "Results / Odd semester AY 2024–25",
+      "text": "Programme-wise results for December 2024 end-term exams started appearing on 10 January 2025 and were released in phases. Students were asked to check ERP for updates. Odd semester make-up results were announced on 31 January 2025, and odd semester supplementary results on 4 March 2025.",
+      "source_url": "https://www.bennett.edu.in/examination-department/",
+      "score": 0.20839329063892365
+    },
+    {
+      "passage_id": "DOC01_P001",
+      "document_id": "DOC01",
+      "section": "Section 20 / Eligibility",
+      "text": "End-of-semester and make-up theory papers can be submitted for re-evaluation. This service excludes supplementary exams and summer-term courses. Midterms, practicals, labs, assignments, projects, internships and viva assessments also fall outside the re-evaluation scope.",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "score": 0.20125286281108856
+    }
+  ],
+  "answer": "Rechecking fees installments mein kaise de sakte hain?",
+  "citations": [
+    "DOC01_P002"
+  ],
+  "answerability": "ANSWERABLE",
+  "supporting_passages": [
+    {
+      "passage_id": "DOC01_P002",
+      "document_id": "DOC01",
+      "section": "Section 20 / Applying",
+      "text": "Students normally have 15 days from announcement of results to submit the prescribed re-evaluation form to the Controller of Examinations and pay the applicable fee. The manual lists a non-refundable charge of ₹5,000 for each subject, subject to changes in university policy. Incomplete forms can be rejected.",
+      "source_url": "https://www.bennett.edu.in/wp-content/uploads/2026/01/Examination-Manual-2024-25.pdf",
+      "score": 0.5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Dedicated phone extension for reporting missing coursework marks|गायब पाठ्यकार्य अंकों की शिकायत का फ़ोन एक्सटेंशन|missing coursework marks report karne ka phone extension
+Maximum body length for an examination grievance email|परीक्षा शिकायत ईमेल की अधिकतम शब्द सीमा|exam grievance email ki maximum word limit
+Acknowledgement reference-number format for an exam grievance|परीक्षा शिकायत की प्राप्ति संख्या का प्रारूप|exam complaint acknowledgement number ka format
+Supported image formats for attaching an exam complaint|परीक्षा शिकायत में तस्वीर जोड़ने के मान्य फ़ाइल प्रारूप|exam complaint ki image attachment ke supported formats
+Emergency helpline hours during weekend supplementary exams|सप्ताहांत की पूरक परीक्षाओं में आपात हेल्पलाइन का समय|weekend supplementary exams mein emergency helpline ka timing
+Minimum age requirement for a scribe|परीक्षा लेखक की न्यूनतम आयु|exam scribe ki minimum age
+Hourly remuneration of a Bennett examination scribe|बेनेट के परीक्षा लेखक की प्रति घंटे की पारिश्रमिक दर|Bennett exam scribe ki hourly payment
+Nearest accessible parking location to the examination wellness centre|परीक्षा वेलनेस सेंटर के सबसे पास सुलभ पार्किंग|exam wellness centre ke paas accessible parking location
+Wheelchair booking deadline before an exam|परीक्षा से पहले व्हीलचेयर बुक करने की अंतिम तारीख|exam se pehle wheelchair book karne ki deadline
+Locker deposit amount for keeping a phone outside the exam hall|परीक्षा कक्ष के बाहर फ़ोन रखने की लॉकर जमा राशि|exam hall ke bahar phone rakhne ka locker deposit
+Colour of the queue token for replacement university IDs|नए विश्वविद्यालय पहचान पत्र के लिए कतार टोकन का रंग|replacement university ID ke queue token ka colour
+Tracking status label for a dispatched temporary ID|भेजे गए अस्थायी पहचान पत्र की ट्रैकिंग स्थिति का नाम|dispatch hue temporary ID ka tracking status label
+Printing charge for an extra copy of a temporary admit card|अस्थायी प्रवेश पत्र की अतिरिक्त प्रति का छपाई शुल्क|temporary admit card ki extra copy ka printing charge
+Campus pickup counter number for revised grade sheets|संशोधित ग्रेड शीट लेने का परिसर काउंटर नंबर|revised grade sheet collect karne ka campus counter number
+Dimensions of the envelope used for mailing a transcript|ट्रांसक्रिप्ट भेजने वाले लिफ़ाफ़े के आयाम|transcript mailing envelope ka size
+International courier cost for a revised grade sheet|संशोधित ग्रेड शीट विदेश भेजने का कूरियर शुल्क|revised grade sheet abroad courier karne ka charge
+SMS sender ID for re-evaluation status alerts|पुनर्मूल्यांकन स्थिति संदेश की एसएमएस प्रेषक आईडी|rechecking status SMS ka sender ID
+Timezone used for the mid-term make-up request portal|मध्यावधि मेकअप आवेदन पोर्टल का समय क्षेत्र|mid-term makeup request portal ka timezone
+File-naming convention for medical certificates submitted for make-up exams|मेकअप परीक्षा के चिकित्सा प्रमाणपत्र की फ़ाइल नाम पद्धति|makeup exam medical certificate ka filename format
+Building and room for the February 2025 supplementary examination|फरवरी 2025 की पूरक परीक्षा का भवन और कमरा|February 2025 supplementary exam ki building aur room
+Invigilator assigned to the July 2025 summer-term Mathematics exam|जुलाई 2025 की गणित समर टर्म परीक्षा का निरीक्षक|July 2025 summer-term Maths exam ka invigilator
+Seat number allocated to a student in the May 2025 CSE exam|मई 2025 सीएसई परीक्षा में किसी विद्यार्थी का सीट नंबर|May 2025 CSE exam mein kisi student ka allocated seat number
+Number of review applications submitted after December 2024 exams|दिसंबर 2024 की परीक्षाओं के बाद आए पुनर्मूल्यांकन आवेदनों की संख्या|December 2024 exams ke baad submit hui rechecking applications ki count
+Median CSE semester-six grade in the May 2025 result release|मई 2025 के सीएसई छठे सेमेस्टर का मध्यिका ग्रेड|May 2025 CSE semester six results ka median grade
+Exact start time of the January 2025 make-up result portal rollout|जनवरी 2025 मेकअप परिणाम पोर्टल पर शुरू होने का ठीक समय|January 2025 makeup result portal par aane ka exact time
+Number of applications received for the sibling scholarship|भाई-बहन छात्रवृत्ति के आवेदनों की संख्या|sibling scholarship applications ki total count
+Wait-list notification day for the defence wards award|रक्षा कर्मियों के बच्चों की छात्रवृत्ति की प्रतीक्षा सूची की सूचना का दिन|defence wards award ki waitlist notification ka day
+Processing time for verifying sports achievement certificates|खेल उपलब्धि प्रमाणपत्र सत्यापन में लगने वाला समय|sports achievement certificate verify hone ka time
+Required pixel dimensions for a single girl child scholarship document scan|एकल बालिका छात्रवृत्ति दस्तावेज़ स्कैन के पिक्सेल आयाम|single girl child scholarship document scan ka pixel size
+Named reviewer assigned to the postgraduate alumni award|स्नातकोत्तर पूर्व छात्र छात्रवृत्ति के लिए नियुक्त समीक्षक का नाम|PG alumni award ke assigned reviewer ka naam
+ID prefix of the CSE Global scholarship application|सीएसई ग्लोबल छात्रवृत्ति आवेदन आईडी का उपसर्ग|CSE Global scholarship application ID ka prefix
+Refund timeline for a scholarship verification deposit|छात्रवृत्ति सत्यापन जमा राशि वापस मिलने की समय सीमा|scholarship verification deposit refund ki timeline
+Exact number of 50% CSE Global awards booked in 2025|2025 में बुक हुई 50% सीएसई ग्लोबल छात्रवृत्तियों की सटीक संख्या|2025 mein booked 50% CSE Global awards ki exact count
+Percentage of sports award applicants rejected at verification|सत्यापन में अस्वीकृत खेल छात्रवृत्ति आवेदकों का प्रतिशत|verification mein reject hue sports scholarship applicants ka percentage
+Office counter number for submitting a scholarship renewal appeal|छात्रवृत्ति नवीनीकरण अपील जमा करने का काउंटर नंबर|scholarship renewal appeal submit karne ka counter number

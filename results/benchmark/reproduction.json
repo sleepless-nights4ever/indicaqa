@@ -1,0 +1,14 @@
+{
+  "benchmark_sha256": {
+    "benchmark/passages.jsonl": "821ecd011a44370bffdee50225d5c0319b4cd9b46bd4b9bce9167b4f4d885f72",
+    "benchmark/base_questions.jsonl": "7ef38eb4fc52a9ee853149ba26bc701e1294452d7a792c0af15ff860e5cd6a24",
+    "benchmark/questions.jsonl": "6a307c084232e626221bb1dd3e0871f11bd526b8b4829201e098247adf427013"
+  },
+  "model_revisions": {
+    "intfloat/multilingual-e5-small": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "Qwen/Qwen2.5-0.5B-Instruct": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "seed": 42,
+  "max_new_tokens": 52,
+  "generation_batch_size": 12
+}
